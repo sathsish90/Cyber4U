@@ -1,10 +1,13 @@
 # Cyber4U
 A Cyber Security University
 
+
+
 [SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
 
 # Awesome Collections:
 
+- [Diasdavid - Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Enaqx - A collection of awesome penetration testing and offensive cybersecurity resources.](https://github.com/enaqx/awesome-pentest)
 - [Muhammd - A collection of awesome penetration testing resources](https://github.com/Muhammd/Awesome-Pentest)
 - [x0x8x - A collection of awesome penetration testing resources](https://github.com/x0x8x/awesome-pentester)
@@ -77,19 +80,23 @@ https://github.com/magicsword-io/LOLDrivers
 
 Active directory:
 =================
-https://twitter.com/lefayjey
-https://mayfly277.github.io/posts/Upgrade-Active-Directory-mindmap/
-https://github.com/AD-Attacks
-https://github.com/infosecn1nja/AD-Attack-Defense
-https://medium.com/hackernoon/mongodb-kerberos-a3dfdf322d1c -Kerberos attack
-https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/active-directory -- high level view
-https://www.thehacker.recipes/ad/movement/dacl - high level view
-https://github.com/Orange-Cyberdefense/arsenal/ --> pentesting command suggestions
-https://github.com/denisidoro/navi --> pentesting command suggestions
-https://github.com/ly4k/Certipy - Certipy is an offensive tool for enumerating and abusing Active Directory Certificate Services (AD CS).
+| SNO | Topic | Author | Link | Description |
+| --- | ----- | ------ | ---- | ----------- |
+| 1   | Twitter Account - lefayjey | - | [Twitter - lefayjey](https://twitter.com/lefayjey) | Active Twitter account for updates and discussions on Active Directory. |
+| 2   | Upgrade Active Directory Mindmap | - | [Upgrade Active Directory Mindmap](https://mayfly277.github.io/posts/Upgrade-Active-Directory-mindmap/) | A mind map resource for understanding and upgrading Active Directory. |
+| 3   | AD-Attacks GitHub Repository | - | [AD-Attacks GitHub](https://github.com/AD-Attacks) | Repository with resources and tools related to Active Directory attacks. |
+| 4   | AD-Attack-Defense GitHub Repository by infosecn1nja | infosecn1nja | [AD-Attack-Defense GitHub](https://github.com/infosecn1nja/AD-Attack-Defense) | GitHub repository with tools and information for both attacking and defending Active Directory. |
+| 5   | Kerberos Attack on MongoDB - Medium Article | - | [Kerberos Attack on MongoDB](https://medium.com/hackernoon/mongodb-kerberos-a3dfdf322d1c) | Medium article discussing a Kerberos attack on MongoDB. |
+| 6   | Active Directory Security Reference Guide - s0cm0nkey's GitBook | s0cm0nkey | [Active Directory Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/active-directory) | A comprehensive security reference guide for Active Directory. |
+| 7   | Active Directory DACL (Discretionary Access Control List) Overview - The Hacker Recipes | - | [Active Directory DACL Overview](https://www.thehacker.recipes/ad/movement/dacl) | High-level overview of Active Directory DACL for security practitioners. |
+| 8   | Orange-Cyberdefense Arsenal GitHub Repository - Pentesting Commands | - | [Orange-Cyberdefense Arsenal GitHub](https://github.com/Orange-Cyberdefense/arsenal/) | GitHub repository with pentesting command suggestions. |
+| 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
+| 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
+
 
 Key terms
 =========
+
 definition - precise meaning or explaination of a concept
 description - explanation of a particular concept, process, or system.
 terminology - collection of terms and vocabulary 
@@ -117,44 +124,73 @@ roles
 designation
 concept
 term
-=====================================================================================================================================================================
 
-Methodologies: - https://www.mindmeister.com/app/map/3060742562
+============================================================================================================================
+
+Methodologies:
 =============
-Penetration Testing Methodology (e.g., OWASP Testing Guide)
-Incident Response Frameworks (e.g., NIST SP 800-61)
-Threat Intelligence Frameworks (e.g., MISP)
-Security Development Lifecycle (SDL)
-Risk Assessment Methodologies (e.g., OCTAVE, FAIR)
-ITIL (Information Technology Infrastructure Library) - includes security incident management
-OSSTMM (Open Source Security Testing Methodology Manual)
-OWASP Application Security Verification Standard (ASVS)
-PTES (Penetration Testing Execution Standard)
-Agile Security Framework
-Zero Trust Security Model
-CIA Triad (Confidentiality, Integrity, Availability)
-MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge)
-Honeypot Methodology
-DREAD (Damage, Reproducibility, Exploitability, Affected Users, Discoverability)
-Microsoft SDL (Security Development Lifecycle)
-OWASP SAMM (Software Assurance Maturity Model)
-NERC CIP (North American Electric Reliability Corporation Critical Infrastructure Protection)
+https://www.mindmeister.com/app/map/3060742562
 
-Frameworks:
+| SNO | Name | Type | Description | Link |
+| --- | ---- | ---- | ----------- | ---- |
+| 1   | Penetration Testing Methodology (e.g., OWASP Testing Guide) | Methodology | Guide for conducting penetration testing with a focus on web applications. | [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) |
+| 2   | Incident Response Frameworks (e.g., NIST SP 800-61) | Framework | NIST Special Publication 800-61 provides guidance for incident response. | [NIST SP 800-61](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) |
+| 3   | Threat Intelligence Frameworks (e.g., MISP) | Framework | MISP is an open-source threat intelligence platform designed to improve threat sharing. | [MISP](https://www.misp-project.org/) |
+| 4   | Security Development Lifecycle (SDL) | Framework | A set of security practices for software development to reduce vulnerabilities. | [Microsoft SDL](https://www.microsoft.com/en-us/securityengineering/sdl) |
+| 5   | Risk Assessment Methodologies (e.g., OCTAVE, FAIR) | Methodology | OCTAVE is a risk assessment method, FAIR is a model for quantifying risk. | [OCTAVE](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=50899), [FAIR](https://www.fairinstitute.org/) |
+| 6   | ITIL (Information Technology Infrastructure Library) - includes security incident management | Framework | ITIL includes practices for security incident management within IT service management. | [ITIL](https://www.axelos.com/best-practice-solutions/itil) |
+| 7   | OSSTMM (Open Source Security Testing Methodology Manual) | Methodology | A manual for performing security testing and measurement. | [OSSTMM](http://www.isecom.org/research/osstmm.html) |
+| 8   | OWASP Application Security Verification Standard (ASVS) | Standard | A framework of security requirements for application security. | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) |
+| 9   | PTES (Penetration Testing Execution Standard) | Standard | A standard for conducting penetration testing. | [PTES](http://www.pentest-standard.org/) |
+| 10  | Agile Security Framework | Framework | A framework for integrating security into Agile development processes. | [Agile Security Framework](https://agilesecurityframework.com/) |
+| 11  | Zero Trust Security Model | Model | A security model that assumes no trust by default, even inside the perimeter. | [Zero Trust](https://www.csoonline.com/article/3247848/what-is-zero-trust-a-model-for-more-effective-security.html) |
+| 12  | CIA Triad (Confidentiality, Integrity, Availability) | Model | A fundamental model for information security focusing on three core principles. | [CIA Triad](https://en.wikipedia.org/wiki/Information_security#The_CIA_Triad) |
+| 13  | MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) | Model | A knowledge base of adversary tactics, techniques, and procedures. | [MITRE ATT&CK](https://attack.mitre.org/) |
+| 14  | Honeypot Methodology | Methodology | A method for deploying honeypots to detect and analyze cybersecurity threats. | [Honeypot Frameworks](https://www.recordedfuture.com/honeypots-honeynets/) |
+| 15  | DREAD (Damage, Reproducibility, Exploitability, Affected Users, Discoverability) | Methodology | A risk assessment model for software projects. | [DREAD](https://msdn.microsoft.com/en-us/magazine/dd419656.aspx) |
+| 16  | Microsoft SDL (Security Development Lifecycle) | Framework | Microsoft's approach to building more secure software and services. | [Microsoft SDL](https://www.microsoft.com/en-us/securityengineering/sdl) |
+| 17  | OWASP SAMM (Software Assurance Maturity Model) | Model | A software assurance maturity model to help organizations formulate and implement a strategy for software security. | [OWASP SAMM](https://owaspsamm.org/) |
+| 18  | NERC CIP (North American Electric Reliability Corporation Critical Infrastructure Protection) | Framework | Standards for ensuring the security of the North American power grid. | [NERC CIP](https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx) |
+
+
+Frameworks: [Complaince]
 ===========
-NIST Cybersecurity Framework (CSF)
-ISO/IEC 27001
-CIS Critical Security Controls
-COBIT (Control Objectives for Information and Related Technologies)
-FAIR (Factor Analysis of Information Risk)
-ITIL (Information Technology Infrastructure Library)
-CMMC (Cybersecurity Maturity Model Certification)
-ISA/IEC 62443 (Industrial Automation and Control Systems Security)
-ISF Standard of Good Practice for Information Security
-CIS Controls
-Open Group's Risk Management Framework (O-RA)
-GDPR (General Data Protection Regulation)
-Product Security Incident Response Team (PSIRT) Services Framework
+| SNO | Name | Type | Focus | Description | Link |
+| --- | ---- | ---- | ----- | ------------ | ---- |
+| 1   | NIST Cybersecurity Framework (CSF) | Framework | Cybersecurity Risk Management | Provides a framework for managing and improving cybersecurity posture. | [NIST CSF](https://www.nist.gov/cyberframework) |
+| 2   | ISO/IEC 27001 | Standard | Information Security Management System (ISMS) | A global standard for information security management. | [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) |
+| 3   | CIS Critical Security Controls | Controls | Critical Security Controls | Best practices for prioritizing and implementing cybersecurity measures. | [CIS Controls](https://www.cisecurity.org/controls/) |
+| 4   | COBIT (Control Objectives for Information and Related Technologies) | Framework | IT Governance and Management | A framework for governance and management of enterprise IT. | [COBIT](https://www.isaca.org/resources/cobit) |
+| 5   | FAIR (Factor Analysis of Information Risk) | Model | Risk Management | A model for analyzing and quantifying information security and operational risk. | [FAIR](https://www.fairinstitute.org/) |
+| 6   | ITIL (Information Technology Infrastructure Library) | Framework | IT Service Management | Set of practices for aligning IT services with business needs. | [ITIL](https://www.axelos.com/best-practice-solutions/itil) |
+| 7   | CMMC (Cybersecurity Maturity Model Certification) | Model/Certification | Cybersecurity Maturity | Framework for assessing and enhancing the cybersecurity posture of organizations. | [CMMC](https://www.acq.osd.mil/cmmc/) |
+| 8   | ISA/IEC 62443 | Standard | Industrial Cybersecurity | Standards for industrial automation and control systems security. | [ISA/IEC 62443](https://www.isa.org/isa62443) |
+| 9   | ISF Standard of Good Practice for Information Security | Standard | Information Security Best Practices | Guidelines and best practices for managing information security risks. | [ISF Standard](https://www.securityforum.org/) |
+| 10  | CIS Controls | Controls | Security Controls | Best practices for enhancing cybersecurity posture. | [CIS Controls](https://www.cisecurity.org/controls/) |
+| 11  | Open Group's Risk Management Framework (O-RA) | Framework | Risk Management | A structured approach to identifying, assessing, and managing risks. | [Open Group's O-RA](https://www.opengroup.org/standards/risk-taxonomy) |
+| 12  | GDPR (General Data Protection Regulation) | Regulation | Data Protection and Privacy | European Union regulation governing personal data protection and privacy. | [GDPR](https://gdpr.eu/) |
+| 13  | Product Security Incident Response Team (PSIRT) Services Framework | Framework | Product Security Incident Response | Guidelines for establishing and operating a PSIRT. | [PSIRT Framework](https://www.first.org/psirt/psirt-framework) |
+
+
+Frameworks: [Tools]
+===========
+
+| S No | Framework Name | Language | Description |
+| ---- | -------------- | -------- | ----------- |
+| 1    | [Metasploit Framework](https://github.com/rapid7/metasploit-framework) | **Ruby** | A penetration testing framework for ethical hackers. |
+| 2    | [Operative Framework](https://github.com/graniet/operative-framework) | **Python** | Framework based on fingerprint action, used to gather information on a website or enterprise target with multiple modules. |
+| 3    | [cSploit](https://github.com/cSploit/android) | **Java** | The most complete and advanced IT security professional toolkit on Android. |
+| 4    | [radare2](https://github.com/radare/radare2) | **C** | Unix-like reverse engineering framework and commandline tools. |
+| 5    | [Wifiphisher](https://github.com/wifiphisher/wifiphisher) | **Python** | The Rogue Access Point Framework. |
+| 6    | [Beef](https://github.com/beefproject/beef) | **Javascript** | The Browser Exploitation Framework, focusing on web browser penetration testing. |
+| 7    | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | **Python** | An automated, all-in-one mobile application pen-testing, malware analysis, and security assessment framework. |
+| 8    | [Burp Suite](https://portswigger.net/burp) | **Java** | Leading range of cybersecurity tools, not free and open source. |
+| 9    | [TheHive Project](https://github.com/TheHive-Project/TheHive) | **Java** | Scalable, Open Source and Free Security Incident Response Solutions. |
+| 10   | [OpenSOC](https://github.com/OpenSOC/opensoc) | **Java/Scala** | OpenSOC is a big data security analytics framework designed to consume and monitor network traffic. |
+| 11   | [Gauntlt](https://github.com/gauntlt/gauntlt) | **Ruby** | Security testing framework that automates testing of the entire toolchain right from the command line. |
+| 12   | [MISP - Malware Information Sharing Platform & Threat Sharing](https://github.com/MISP/MISP) | **PHP** | MISP is an open-source threat intelligence platform designed to improve the sharing of structured threat information. |
+| 13   | [OWTF (Offensive Web Testing Framework)](https://github.com/owtf/owtf) | **Python** | Offensive Web Testing Framework (OWTF), an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python. |
+
 
 Policies:
 ==============
@@ -707,12 +743,13 @@ List of Vulnerabilities
 
 Trending CVEs:
 =============
-ZeroDays upto date
-https://cve.circl.lu/
-https://cvecrowd.com/
-https://cve.mitre.org/
-https://www.cve.org/PartnerInformation/ListofPartners
-https://www.vulnerability-lab.com/show.php?cat=webapp
+- [CVE-Circl](https://cve.circl.lu/)
+- [CVE Crowd](https://cvecrowd.com/)
+- [CVE Mitre](https://cve.mitre.org/)
+- [CVE Partners](https://www.cve.org/PartnerInformation/ListofPartners)
+- [Vulnerability Labs](https://www.vulnerability-lab.com/show.php?cat=webapp)
+- [SecLists](http://seclists.org/)
+- [SecTools](http://sectools.org/)
 
 
 Attack of the year
@@ -765,6 +802,8 @@ Cyber Security Articles
 
 Cyber Security Blogs
 ===================
+- [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
+
 
 
 Cyber Security News
