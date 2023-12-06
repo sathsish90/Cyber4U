@@ -19,63 +19,28 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 ## Before you start
 
 - If you are new to the term pentesting, hacking, red teaming, and cyber security then refer to "Terminology Section"
+- If you reading this with an attack mindset then, read "Disclaimer Section"
 
 # Table of Contents
 
 - yet to create table of contents
-   
+
+**Disclaimer:**
+
+The content provided here, including but not limited to cybersecurity topics, interview questions, and threat map information, is intended solely for educational and ethical purposes. The goal is to enhance knowledge, skills, and awareness within the field of cybersecurity.
+
+This information should not be misused for any malicious, unethical, or illegal activities. The content is not a guide or endorsement for engaging in any harmful actions, unauthorized access, or exploitation of systems or networks.
+
+The user of this information is solely responsible for ensuring compliance with all applicable laws, regulations, and ethical standards. Any actions taken based on the provided content are at the user's own risk.
+
+The creators and contributors to this content disclaim any liability for the misuse or misinterpretation of the information provided. Always prioritize legal and ethical considerations in all cybersecurity practices.
+
+Use this content responsibly, and contribute to a safer and more secure digital environment.
+
 # Difference between hacking and ethical hacking
 
-**Hacking:** Unauthorized access or manipulation for malicious purposes, like breaking into someone's computer without permission – akin to breaking into a house.
-**Ethical Hacking:** Authorized testing of systems for security weaknesses to strengthen defenses, like a security expert checking a door's lock to ensure it can't be easily breached.
-
-[SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
-
-# Awesome Collections:
-
-- [Diasdavid - Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Enaqx - A collection of awesome penetration testing and offensive cybersecurity resources.](https://github.com/enaqx/awesome-pentest)
-- [Muhammd - A collection of awesome penetration testing resources](https://github.com/Muhammd/Awesome-Pentest)
-- [x0x8x - A collection of awesome penetration testing resources](https://github.com/x0x8x/awesome-pentester)
-- [Arch3rPro - Pentesting Tools](https://github.com/arch3rPro/PentestTools)
-- [D3k4z - A collection of awesome penetration testing resources](https://github.com/d3k4z/Pentest_tools)
-- [Kc57 - A list of awesome penetration testing tools and resources](https://github.com/Kc57/Awesome-Pentest).
-- [Coreb1t - Collection of cheat sheets useful for pentesting](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
-- [Hack with Github - A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking).
-- [Kyuu-Ji - A curated list of useful tools and resources for penetration testing and securing Microsofts cloud platform Azure](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest).
-- [Awesome Pentest Gadgets](https://github.com/orgs/awesome-pentest-gadgets/repositories?type=all)
-- [CyberSecurityUP - Cloud PenTest - AWS and Azure by Joas](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
-- [h4cker - This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources](https://github.com/The-Art-of-Hacking/h4cker).
-- [Vitalysim - A collection of hacking / penetration testing resources to make you better!](https://github.com/vitalysim/Awesome-Hacking-Resources)
-
-# Sample Search Engines:
-- [Interactive CheatSheet](https://wadcoms.github.io/): https://wadcoms.github.io/
-- [Search Engine](https://github.com/WADComs/WADComs.github.io): https://github.com/WADComs/WADComs.github.io
-- [Threat market maps](https://thedemoforum.com/page/cybersecuritymarketmaps/): https://thedemoforum.com/page/cybersecuritymarketmaps/
-- [Cloudflare](https://radar.cloudflare.com/): https://radar.cloudflare.com/
-- [XDR](https://www.paloaltonetworks.com/cortex/cortex-xdr): https://www.paloaltonetworks.com/cortex/cortex-xdr
-- [Shell](https://shellizm.com/): https://shellizm.com/
-- [News](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)): https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)
-- [Github Terminal made up of Javascript](http://attackvector.org/): http://attackvector.org/
-
-# Practice the following:
-- [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
-
-# Practice the following:
-- [Topics Based Search](https://github.com/topics/penetration-testing)
-
-# Things to Categorize
-
-
-List of Cheatsheets:
-====================
-https://elhacker.info/manuales/Cheat%20Sheet/
-https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
-https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-
-List of MindMaps:
-=================
-Contribution gets them rewards, awards and goodies
+- **Hacking:** Unauthorized access or manipulation for malicious purposes, like breaking into someone's computer without permission – akin to breaking into a house.
+- **Ethical Hacking:** Authorized testing of systems for security weaknesses to strengthen defenses, like a security expert checking a door's lock to ensure it can't be easily breached.
 
 Cyber Security Key terminologies
 ================================
@@ -122,43 +87,6 @@ Cyber Security Key terminologies
 | 38  | Social Engineering   | In the realm of information security, it involves psychologically manipulating people to perform actions or divulge confidential information. | Phishing attacks, Impersonation, Pretexting.       |
 | 39  | Threat Analyst       | A professional using manual or machine-assisted techniques to proactively detect security incidents that automated systems may overlook.     | Analyzing network traffic patterns for signs of a potential cyber attack, Investigating suspicious activity logs. |
 
-Cyber Security Topics
-=====================
-* Infrastructure Security
-* Network Security
-* Post Exploitation
-* Living off the land:
-* Active directory:
-
-Living off the land:
-====================
-| SNO | Topic                                      | Link                                           | Description                                                                   |
-|-----|--------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------|
-| 1   | LOLBins (Living Off The Land Binaries)      | [LOLBAS GitHub](https://github.com/LOLBAS-Project/LOLBAS/tree/master) | A collection of living-off-the-land binaries and scripts for Windows penetration testing. |
-| 2   | LOLBAS Website                             | [LOLBAS Website](https://lolbas-project.github.io/)       | LOLBAS project official website providing detailed information about LOLBins. |
-| 3   | GTFOBins                                   | [GTFOBins](https://gtfobins.github.io/)                   | A curated list of Unix binaries that can be exploited to bypass system security restrictions. |
-| 4   | LOLDrivers                                  | [LOLDrivers](https://www.loldrivers.io/)                  | A collection of Windows kernel-mode drivers useful for red teaming and penetration testing. |
-| 5   | HTAGen - Hash Tag Generator for LOLBins      | [HTAGen](https://htagen.loldrivers.io/)                  | A tool to generate hashtags for use with Twitter posts about LOLBins.           |
-| 6   | MagicSword - LOLDrivers Project              | [MagicSword GitHub](https://github.com/magicsword-io/LOLDrivers) | A fork of the LOLDrivers project with additional features and improvements.   |
-
-
-Active directory:
-=================
-| SNO | Topic | Author | Link | Description |
-| --- | ----- | ------ | ---- | ----------- |
-| 1   | Twitter Account - lefayjey | - | [Twitter - lefayjey](https://twitter.com/lefayjey) | Active Twitter account for updates and discussions on Active Directory. |
-| 2   | Upgrade Active Directory Mindmap | - | [Upgrade Active Directory Mindmap](https://mayfly277.github.io/posts/Upgrade-Active-Directory-mindmap/) | A mind map resource for understanding and upgrading Active Directory. |
-| 3   | AD-Attacks GitHub Repository | - | [AD-Attacks GitHub](https://github.com/AD-Attacks) | Repository with resources and tools related to Active Directory attacks. |
-| 4   | AD-Attack-Defense GitHub Repository by infosecn1nja | infosecn1nja | [AD-Attack-Defense GitHub](https://github.com/infosecn1nja/AD-Attack-Defense) | GitHub repository with tools and information for both attacking and defending Active Directory. |
-| 5   | Kerberos Attack on MongoDB - Medium Article | - | [Kerberos Attack on MongoDB](https://medium.com/hackernoon/mongodb-kerberos-a3dfdf322d1c) | Medium article discussing a Kerberos attack on MongoDB. |
-| 6   | Active Directory Security Reference Guide - s0cm0nkey's GitBook | s0cm0nkey | [Active Directory Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/active-directory) | A comprehensive security reference guide for Active Directory. |
-| 7   | Active Directory DACL (Discretionary Access Control List) Overview - The Hacker Recipes | - | [Active Directory DACL Overview](https://www.thehacker.recipes/ad/movement/dacl) | High-level overview of Active Directory DACL for security practitioners. |
-| 8   | Orange-Cyberdefense Arsenal GitHub Repository - Pentesting Commands | - | [Orange-Cyberdefense Arsenal GitHub](https://github.com/Orange-Cyberdefense/arsenal/) | GitHub repository with pentesting command suggestions. |
-| 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
-| 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
-
-==========================================================================================================================
-
 Methodologies:
 =============
 https://www.mindmeister.com/app/map/3060742562
@@ -184,7 +112,6 @@ https://www.mindmeister.com/app/map/3060742562
 | 17  | OWASP SAMM (Software Assurance Maturity Model) | Model | A software assurance maturity model to help organizations formulate and implement a strategy for software security. | [OWASP SAMM](https://owaspsamm.org/) |
 | 18  | NERC CIP (North American Electric Reliability Corporation Critical Infrastructure Protection) | Framework | Standards for ensuring the security of the North American power grid. | [NERC CIP](https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx) |
 
-
 Frameworks: [Complaince]
 ===========
 | SNO | Name | Type | Focus | Description | Link |
@@ -202,7 +129,6 @@ Frameworks: [Complaince]
 | 11  | Open Group's Risk Management Framework (O-RA) | Framework | Risk Management | A structured approach to identifying, assessing, and managing risks. | [Open Group's O-RA](https://www.opengroup.org/standards/risk-taxonomy) |
 | 12  | GDPR (General Data Protection Regulation) | Regulation | Data Protection and Privacy | European Union regulation governing personal data protection and privacy. | [GDPR](https://gdpr.eu/) |
 | 13  | Product Security Incident Response Team (PSIRT) Services Framework | Framework | Product Security Incident Response | Guidelines for establishing and operating a PSIRT. | [PSIRT Framework](https://www.first.org/psirt/psirt-framework) |
-
 
 Policies:
 ==============
@@ -233,7 +159,6 @@ Policies:
 | 23  | Incident Reporting Policy | Policy | Defines procedures for reporting security incidents promptly. | [Incident Reporting Policy](https://resources.infosecinstitute.com/incident-reporting-policy-template/) |
 | 24  | Secure File Sharing Policy | Policy | Establishes guidelines for secure file sharing practices. | [Secure File Sharing Policy
 
-
 Standards:
 =============
 | SNO | Name | Type | Description | Link |
@@ -259,7 +184,6 @@ Standards:
 | 19  | Cloud Security Configuration Standard | Standard | Outlines requirements for secure configuration of cloud services. | [Cloud Security Configuration Standard](https://resources.infosecinstitute.com/cloud-security-policy-template/) |
 | 20  | Audit and Monitoring Standard | Standard | Specifies requirements for auditing and monitoring organizational systems. | [Audit and Monitoring Standard](https://resources.infosecinstitute.com/audit-and-monitoring-policy-template/) |
 
-
 Compliance
 ===============
 | SNO | Name | Type | Description | Link |
@@ -284,12 +208,6 @@ Compliance
 | 18  | SWIFT CSCF (Customer Security Control Framework) | Framework | Security controls framework for financial messaging services. | [SWIFT CSCF](https://www.swift.com/standards/security-controls) |
 | 19  | HITECH (Health Information Technology for Economic and Clinical Health) Act | Regulation | Enhances the security and privacy provisions of HIPAA in the healthcare industry. | [HITECH Act](https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act/index.html) |
 | 20  | FedRAMP (Federal Risk and Authorization Management Program) | Program | Standardized approach to security assessment, authorization, and continuous monitoring. | [FedRAMP](https://www.fedramp.gov/) |
-
-
-Cyber Security Skills
-=====================
-
-- yet to add
 
 Cyber Security Topics/Domains/Areas
 ============================
@@ -488,6 +406,17 @@ Cyber Security Topics/Domains/Areas
     - Fair Amount circulation between banks illegally
     - Sinister/Netism/Skimming
 
+
+Cyber Security Skills
+=====================
+
+- yet to add
+
+
+List of MindMaps:
+=================
+- Yet to Add
+- Contribution gets them rewards, awards and goodies
 
 
 Cyber Security Companies:
@@ -987,6 +916,50 @@ Exploits for after you have already gained access.
 | 12   | [MISP - Malware Information Sharing Platform & Threat Sharing](https://github.com/MISP/MISP) | **PHP** | MISP is an open-source threat intelligence platform designed to improve the sharing of structured threat information. |
 | 13   | [OWTF (Offensive Web Testing Framework)](https://github.com/owtf/owtf) | **Python** | Offensive Web Testing Framework (OWTF), an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python. |
 
+Living off the land:
+====================
+| SNO | Topic                                      | Link                                           | Description                                                                   |
+|-----|--------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1   | LOLBins (Living Off The Land Binaries)      | [LOLBAS GitHub](https://github.com/LOLBAS-Project/LOLBAS/tree/master) | A collection of living-off-the-land binaries and scripts for Windows penetration testing. |
+| 2   | LOLBAS Website                             | [LOLBAS Website](https://lolbas-project.github.io/)       | LOLBAS project official website providing detailed information about LOLBins. |
+| 3   | GTFOBins                                   | [GTFOBins](https://gtfobins.github.io/)                   | A curated list of Unix binaries that can be exploited to bypass system security restrictions. |
+| 4   | LOLDrivers                                  | [LOLDrivers](https://www.loldrivers.io/)                  | A collection of Windows kernel-mode drivers useful for red teaming and penetration testing. |
+| 5   | HTAGen - Hash Tag Generator for LOLBins      | [HTAGen](https://htagen.loldrivers.io/)                  | A tool to generate hashtags for use with Twitter posts about LOLBins.           |
+| 6   | MagicSword - LOLDrivers Project              | [MagicSword GitHub](https://github.com/magicsword-io/LOLDrivers) | A fork of the LOLDrivers project with additional features and improvements.   |
+
+
+Active directory Tools:
+=================
+| SNO | Topic | Author | Link | Description |
+| --- | ----- | ------ | ---- | ----------- |
+| 1   | Twitter Account - lefayjey | - | [Twitter - lefayjey](https://twitter.com/lefayjey) | Active Twitter account for updates and discussions on Active Directory. |
+| 2   | Upgrade Active Directory Mindmap | - | [Upgrade Active Directory Mindmap](https://mayfly277.github.io/posts/Upgrade-Active-Directory-mindmap/) | A mind map resource for understanding and upgrading Active Directory. |
+| 3   | AD-Attacks GitHub Repository | - | [AD-Attacks GitHub](https://github.com/AD-Attacks) | Repository with resources and tools related to Active Directory attacks. |
+| 4   | AD-Attack-Defense GitHub Repository by infosecn1nja | infosecn1nja | [AD-Attack-Defense GitHub](https://github.com/infosecn1nja/AD-Attack-Defense) | GitHub repository with tools and information for both attacking and defending Active Directory. |
+| 5   | Kerberos Attack on MongoDB - Medium Article | - | [Kerberos Attack on MongoDB](https://medium.com/hackernoon/mongodb-kerberos-a3dfdf322d1c) | Medium article discussing a Kerberos attack on MongoDB. |
+| 6   | Active Directory Security Reference Guide - s0cm0nkey's GitBook | s0cm0nkey | [Active Directory Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/active-directory) | A comprehensive security reference guide for Active Directory. |
+| 7   | Active Directory DACL (Discretionary Access Control List) Overview - The Hacker Recipes | - | [Active Directory DACL Overview](https://www.thehacker.recipes/ad/movement/dacl) | High-level overview of Active Directory DACL for security practitioners. |
+| 8   | Orange-Cyberdefense Arsenal GitHub Repository - Pentesting Commands | - | [Orange-Cyberdefense Arsenal GitHub](https://github.com/Orange-Cyberdefense/arsenal/) | GitHub repository with pentesting command suggestions. |
+| 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
+| 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
+
+
+List of Cheatsheets:
+====================
+S NO | Cheat Sheet Name | GitHub Link | Description
+-----|-------------------|-------------|-------------
+1    | ELHacker          | [Cheat Sheet](https://elhacker.info/manuales/Cheat%20Sheet/) | ELHacker's Cheat Sheet
+2    | TarlogicSecurity  | [Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a) | TarlogicSecurity's Cheat Sheet
+3    | Highon.Coffee     | [Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | Highon.Coffee's Penetration Testing Tools Cheat Sheet
+4    | AD-esploitation-cheatsheet | [Cheat Sheet](https://github.com/aymankhder/AD-esploitation-cheatsheet) | Active Directory Exploitation Cheat Sheet
+5    | Active-Directory-Cheatsheet | [Cheat Sheet](https://github.com/tiyeuse/Active-Directory-Cheatsheet) | Active Directory Cheatsheet
+6    | Awesome-RedTeam-Cheatsheet | [Cheat Sheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) | Awesome RedTeam Cheatsheet
+7    | Middleware-Vulnerability-detection | [Cheat Sheet](https://github.com/apachecn-archive/Middleware-Vulnerability-detection) | Middleware Vulnerability Detection Cheat Sheet
+8    | Penetration-Testing-Cheatsheet | [Cheat Sheet](https://github.com/zer0yu/Penetration-Testing-Cheatsheet) | Penetration Testing Cheatsheet
+9    | RedTeam_CheetSheets | [Cheat Sheet](https://github.com/zer0yu/RedTeam_CheetSheets) | RedTeam CheetSheets
+10   | SecLists | [Cheat Sheet](https://github.com/danielmiessler/SecLists) | SecLists
+
+
 Attack Surface Management:
 ===================
 - Yet to add
@@ -1179,6 +1152,42 @@ Hacking Videos:
 - VulnHub: https://www.vulnhub.com/
 - OverTheWire: https://overthewire.org/wargames/
 - Certification videos
+
+
+[SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
+
+# Awesome Collections:
+
+- [Diasdavid - Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
+- [Enaqx - A collection of awesome penetration testing and offensive cybersecurity resources.](https://github.com/enaqx/awesome-pentest)
+- [Muhammd - A collection of awesome penetration testing resources](https://github.com/Muhammd/Awesome-Pentest)
+- [x0x8x - A collection of awesome penetration testing resources](https://github.com/x0x8x/awesome-pentester)
+- [Arch3rPro - Pentesting Tools](https://github.com/arch3rPro/PentestTools)
+- [D3k4z - A collection of awesome penetration testing resources](https://github.com/d3k4z/Pentest_tools)
+- [Kc57 - A list of awesome penetration testing tools and resources](https://github.com/Kc57/Awesome-Pentest).
+- [Coreb1t - Collection of cheat sheets useful for pentesting](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- [Hack with Github - A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking).
+- [Kyuu-Ji - A curated list of useful tools and resources for penetration testing and securing Microsofts cloud platform Azure](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest).
+- [Awesome Pentest Gadgets](https://github.com/orgs/awesome-pentest-gadgets/repositories?type=all)
+- [CyberSecurityUP - Cloud PenTest - AWS and Azure by Joas](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
+- [h4cker - This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources](https://github.com/The-Art-of-Hacking/h4cker).
+- [Vitalysim - A collection of hacking / penetration testing resources to make you better!](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
+# Sample Search Engines:
+- [Interactive CheatSheet](https://wadcoms.github.io/): https://wadcoms.github.io/
+- [Search Engine](https://github.com/WADComs/WADComs.github.io): https://github.com/WADComs/WADComs.github.io
+- [Threat market maps](https://thedemoforum.com/page/cybersecuritymarketmaps/): https://thedemoforum.com/page/cybersecuritymarketmaps/
+- [Cloudflare](https://radar.cloudflare.com/): https://radar.cloudflare.com/
+- [XDR](https://www.paloaltonetworks.com/cortex/cortex-xdr): https://www.paloaltonetworks.com/cortex/cortex-xdr
+- [Shell](https://shellizm.com/): https://shellizm.com/
+- [News](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)): https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)
+- [Github Terminal made up of Javascript](http://attackvector.org/): http://attackvector.org/
+
+# Practice the following:
+- [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
+- [Topics Based Search](https://github.com/topics/penetration-testing)
+
+
 
 
 List of Cyber attack maps [Threat Attack maps]
