@@ -41,7 +41,6 @@ A Cyber Security University
 # Things to Categorize
 
 
-
 List of Cheatsheets:
 ====================
 https://elhacker.info/manuales/Cheat%20Sheet/
@@ -54,12 +53,39 @@ Contribution gets them rewards, awards and goodies
 
 Cyber Security Key terminologies
 ================================
-* Standards - 'Rules' that ensure consistency & quality in various areas. A set of 'Criteria' that products, services, or processes should meet to ensure a certain level of reliability or performance. [ISO14001, IEEE802.11, Unicode]
-* Regulations - 'Official Rules' set by authorities (usually governments) to control & guide specific activities. Non-compliance with regulations may lead to legal consequences. [GDPR, OSHA, FDA Regulations for Food Safety]
-* Compliance - Act of following 'Rules', 'Regulations', or 'Standards'. Organizations strive to be in compliance to avoid legal or financial consequences. [HIPPA, PCI DSS, Tax Compliance]
-* Policies - High-level 'Guidelines' that provide a framework for decision-making within an organization. They set the overall direction and expectations. [IT Security Policy, Employee Code of Conduct, Remote Work Policy]
-* Frameworks - A 'Structured approach' or set of 'Tools' to address complex issues. They are flexible and adaptable, offering a broad structure for tackling various problems. [TOGAF, Agile Framework, ITIL]
-* Methodologies - Methodologies are 'Systematic approaches' or sets of 'Procedures' & 'Techniques' used to achieve specific tasks or goals. They provide a detailed, step-by-step process. [Waterfall, Scrum, Six Sigma]
+
+| SNO | Terminology   | Definition                                                                                                                                                          | Examples                                   |
+|-----|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 1   | Framework     | A structured approach or guideline serving as a foundation to organize and solve problems.                                                                         | TOGAF, Agile Framework, ITIL               |
+| 2   | Methodology   | A structured approach and systematic process for solving problems or conducting activities.                                                                          | Waterfall, Scrum, Six Sigma                |
+| 3   | Method        | A systematic way of accomplishing a task or solving a problem.                                                                                                       | Scientific Method, Six Thinking Hats, SWOT Analysis |
+| 4   | Technique     | A specific method or approach used to accomplish a particular task.                                                                                                  | Brainstorming, Root Cause Analysis, Threat Modeling |
+| 5   | Procedure     | Specific steps or actions to be followed to achieve a particular task or goal.                                                                                      | Incident Response Procedure, Software Deployment Procedure, Change Management Procedure |
+| 6   | Process       | Integral to managing and maintaining cybersecurity measures.                                                                                                        | Incident Management Process, Risk Assessment Process, Vulnerability Management Process |
+| 7   | Policy        | Rules, guidelines, and principles governing actions and decisions within an organization.                                                                           | IT Security Policy, Employee Code of Conduct, Remote Work Policy |
+| 8   | Standards      | Benchmarks or criteria set by authoritative bodies to ensure quality and consistency.                                                                               | ISO14001, IEEE802.11, Unicode              |
+| 9   | Topic         | A specific subject or area of interest.                                                                                                                             | Cryptography, Threat Intelligence, Cloud Security |
+| 10  | Vulnerability  | A weakness or flaw in a system's design that could be exploited to compromise its security.                                                                         | SQL Injection, Cross-Site Scripting (XSS), Unpatched Software |
+| 11  | Exploit        | Taking advantage of a vulnerability to gain unauthorized access or perform malicious actions.                                                                      | Metasploit Framework, SQLMap, Buffer Overflow Exploit |
+| 12  | Attack        | Malicious actions or activities intended to compromise the CIA (Confidentiality, Integrity, or Availability) of information systems.                             | Phishing Attack, DDoS Attack, Man-in-the-Middle Attack |
+| 13  | Tools         | Software or hardware applications designed to perform specific tasks.                                                                                                | Wireshark, Nmap, Burp Suite               |
+| 14  | Principles     | Fundamental truths or guidelines that serve as the foundation for a particular system or concept.                                                                   | Least Privilege Principle, Defense in Depth Principle, Fail-Safe Defaults Principle |
+| 15  | Rules         | Specific directives or instructions that must be followed.                                                                                                           | Firewall Rules, Password Complexity Rules, Access Control Rules |
+| 16  | Guidelines     | General recommendations or advice for achieving a particular outcome.                                                                                                | Security Best Practices, Code Review Guidelines, Incident Response Guidelines |
+| 17  | Benchmark     | A standard or point of reference against which things may be compared or assessed.                                                                                  | CIS Benchmark, NIST Cybersecurity Framework, OWASP Application Security Verification Standard (ASVS) |
+| 18  | Best Practices | Proven techniques or methods that have been widely accepted as superior to alternatives.                                                                             | Secure Coding Best Practices, Network Segmentation Best Practices, Cloud Security Best Practices |
+| 19  | Foundations    | The fundamental basis or groundwork upon which something is built or developed.                                                                                    | Security Foundations, Networking Foundations, Coding Foundations |
+| 20  | Specialization | The process of becoming an expert in a particular area or field.                                                                                                     | Cybersecurity Specialization, Cloud Security Specialization, Penetration Testing Specialization |
+| 21  | Roles         | Designated responsibilities or functions assigned to individuals or entities within an organization.                                                              | Security Analyst Role, Network Engineer Role, Compliance Officer Role |
+| 22  | Designation   | An official title or recognition given to someone for their position or role.                                                                                        | Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), Certified ScrumMaster (CSM) |
+| 23  | Concept        | An abstract idea or general notion representing something in the mind.                                                                                               | Zero Trust Concept, Threat Intelligence Concept, Risk Management Concept |
+| 24  | Term          | A word or phrase used to describe a particular thing or to express a particular idea.                                                                               | Encryption Term, Firewall Term, Phishing Term |
+| 25  | Domains        | Distinct areas or fields of study within a larger subject.                                                                                                          | Network Security Domains, Cloud Security Domains, Application Security Domains |
+| 26  | Topics        | Specific subjects or areas of interest that can be discussed or explored.                                                                                             | Cryptographic Topics, Threat Hunting Topics, DevSecOps Topics |
+| 27  | Areas         | Defined regions or sections within a broader context.                                                                                                               | Security Operations Areas, Compliance Areas, Incident Response Areas |
+| 28  | Regulations    | 'Official Rules' set by authorities (usually governments) to control & guide specific activities. Non-compliance with regulations may lead to legal consequences. | GDPR, OSHA, FDA Regulations for Food Safety |
+| 29  | Compliance     | Act of following 'Rules', 'Regulations', or 'Standards'. Organizations strive to be in compliance to avoid legal or financial consequences.                   | HIPPA, PCI DSS, Tax Compliance              |
+
 
 Cyber Security Topics
 =====================
@@ -93,39 +119,7 @@ Active directory:
 | 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
 | 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
 
-
-Key terms
-=========
-
-definition - precise meaning or explaination of a concept
-description - explanation of a particular concept, process, or system.
-terminology - collection of terms and vocabulary 
-framework - structured approach or guideline as a foundation to organize and solve problems
-methodology - structured approach and systemetic to solving problems or conducting activities
-method - systematic way of accomplishing a task or solving a problem
-technique - specific method or approach used to accomplish a particular task 
-procedure - specific steps or actions to be followed to achieve a particular task or goal
-process - integral to managing and maintaining cybersecurity measures.
-policy - rules, guidelines, and principles
-Standards - benchmark or criteria set by authoritative bodies
-topic - specific subject or area of interest
-vulnerability - weakness or flaw in a system's design
-exploit  Taking advantage of a vulnerability to gain unauthorized access
-attack - Malicious actions or activities intended to compromise the CIA (confidentiality, integrity, or availability) of information systems.
-tools - Software or hardware applications to perform specific tasks
-principles
-rules
-guidelines
-benchmark
-best practices
-foundations
-specialization
-roles
-designation
-concept
-term
-
-============================================================================================================================
+==========================================================================================================================
 
 Methodologies:
 =============
@@ -172,476 +166,412 @@ Frameworks: [Complaince]
 | 13  | Product Security Incident Response Team (PSIRT) Services Framework | Framework | Product Security Incident Response | Guidelines for establishing and operating a PSIRT. | [PSIRT Framework](https://www.first.org/psirt/psirt-framework) |
 
 
-Frameworks: [Tools]
-===========
-
-| S No | Framework Name | Language | Description |
-| ---- | -------------- | -------- | ----------- |
-| 1    | [Metasploit Framework](https://github.com/rapid7/metasploit-framework) | **Ruby** | A penetration testing framework for ethical hackers. |
-| 2    | [Operative Framework](https://github.com/graniet/operative-framework) | **Python** | Framework based on fingerprint action, used to gather information on a website or enterprise target with multiple modules. |
-| 3    | [cSploit](https://github.com/cSploit/android) | **Java** | The most complete and advanced IT security professional toolkit on Android. |
-| 4    | [radare2](https://github.com/radare/radare2) | **C** | Unix-like reverse engineering framework and commandline tools. |
-| 5    | [Wifiphisher](https://github.com/wifiphisher/wifiphisher) | **Python** | The Rogue Access Point Framework. |
-| 6    | [Beef](https://github.com/beefproject/beef) | **Javascript** | The Browser Exploitation Framework, focusing on web browser penetration testing. |
-| 7    | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | **Python** | An automated, all-in-one mobile application pen-testing, malware analysis, and security assessment framework. |
-| 8    | [Burp Suite](https://portswigger.net/burp) | **Java** | Leading range of cybersecurity tools, not free and open source. |
-| 9    | [TheHive Project](https://github.com/TheHive-Project/TheHive) | **Java** | Scalable, Open Source and Free Security Incident Response Solutions. |
-| 10   | [OpenSOC](https://github.com/OpenSOC/opensoc) | **Java/Scala** | OpenSOC is a big data security analytics framework designed to consume and monitor network traffic. |
-| 11   | [Gauntlt](https://github.com/gauntlt/gauntlt) | **Ruby** | Security testing framework that automates testing of the entire toolchain right from the command line. |
-| 12   | [MISP - Malware Information Sharing Platform & Threat Sharing](https://github.com/MISP/MISP) | **PHP** | MISP is an open-source threat intelligence platform designed to improve the sharing of structured threat information. |
-| 13   | [OWTF (Offensive Web Testing Framework)](https://github.com/owtf/owtf) | **Python** | Offensive Web Testing Framework (OWTF), an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python. |
-
-
 Policies:
 ==============
-Physical Security Policy
-Vendor Management Policy
-Employee Training and Awareness Policy
-Cloud Security Policy
-Software Usage Policy
-Asset Management Policy
-Disaster Recovery Policy
-Employee Code of Conduct
-Internet Usage Policy
-Social Media Policy
-Travel Security Policy
-Clean Desk Policy
-Bring Your Own Device (BYOD) Policy
-Incident Response Policy
-Mobile Device Policy
-Privacy Policy
-Password Policy
-Data Classification Policy
-Network Security Policy
-Access Control Policy
-Phishing Awareness Policy
-BYOD (Bring Your Own Device) Policy
-Incident Reporting Policy
-Secure File Sharing Policy
-Intellectual Property Policy
+| SNO | Name | Type | Description | Link |
+| --- | ---- | ---- | ----------- | ---- |
+| 1   | Physical Security Policy | Policy | Outlines measures to secure physical premises and assets. | [Physical Security Policy](https://www.sans.org/security-resources/policies/general/pdf/physical-security-policy) |
+| 2   | Vendor Management Policy | Policy | Defines procedures for selecting and managing third-party vendors. | [Vendor Management Policy](https://resources.infosecinstitute.com/vendor-risk-management-policy-template/) |
+| 3   | Employee Training and Awareness Policy | Policy | Establishes guidelines for employee training and awareness programs. | [Employee Training Policy](https://www.sans.org/security-resources/policies/general/pdf/employee-training-policy) |
+| 4   | Cloud Security Policy | Policy | Sets rules for secure use of cloud services and platforms. | [Cloud Security Policy](https://www.sans.org/security-resources/policies/general/pdf/cloud-security-policy) |
+| 5   | Software Usage Policy | Policy | Governs the proper use and installation of software in the organization. | [Software Usage Policy](https://resources.infosecinstitute.com/software-usage-policy-template/) |
+| 6   | Asset Management Policy | Policy | Defines procedures for tracking and managing organizational assets. | [Asset Management Policy](https://www.sans.org/security-resources/policies/general/pdf/asset-management-policy) |
+| 7   | Disaster Recovery Policy | Policy | Outlines procedures for recovering from disasters and business disruptions. | [Disaster Recovery Policy](https://www.sans.org/security-resources/policies/general/pdf/disaster-recovery-policy) |
+| 8   | Employee Code of Conduct | Policy | Sets expectations for ethical and professional behavior of employees. | [Employee Code of Conduct](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/codeofconduct.aspx) |
+| 9   | Internet Usage Policy | Policy | Defines acceptable use of the internet and online resources. | [Internet Usage Policy](https://www.sans.org/security-resources/policies/general/pdf/internet-usage-policy) |
+| 10  | Social Media Policy | Policy | Establishes guidelines for the use of social media by employees. | [Social Media Policy](https://resources.infosecinstitute.com/social-media-policy-template/) |
+| 11  | Travel Security Policy | Policy | Outlines security measures for employees traveling on behalf of the organization. | [Travel Security Policy](https://www.sans.org/security-resources/policies/general/pdf/travel-security-policy) |
+| 12  | Clean Desk Policy | Policy | Promotes the practice of keeping workspaces free of sensitive information. | [Clean Desk Policy](https://www.sans.org/security-resources/policies/general/pdf/clean-desk-policy) |
+| 13  | Bring Your Own Device (BYOD) Policy | Policy | Governs the use of personal devices for work purposes. | [BYOD Policy](https://www.sans.org/security-resources/policies/general/pdf/byod-policy) |
+| 14  | Incident Response Policy | Policy | Defines procedures for responding to and managing security incidents. | [Incident Response Policy](https://www.sans.org/security-resources/policies/general/pdf/incident-response-policy) |
+| 15  | Mobile Device Policy | Policy | Outlines rules for the secure use of mobile devices in the organization. | [Mobile Device Policy](https://www.sans.org/security-resources/policies/general/pdf/mobile-device-policy) |
+| 16  | Privacy Policy | Policy | Describes how the organization collects, uses, and protects personal information. | [Privacy Policy](https://resources.infosecinstitute.com/privacy-policy-template/) |
+| 17  | Password Policy | Policy | Establishes rules for creating and managing passwords in the organization. | [Password Policy](https://www.sans.org/security-resources/policies/general/pdf/password-policy) |
+| 18  | Data Classification Policy | Policy | Defines how data should be classified based on sensitivity and importance. | [Data Classification Policy](https://resources.infosecinstitute.com/data-classification-policy-template/) |
+| 19  | Network Security Policy | Policy | Outlines rules for securing the organization's network infrastructure. | [Network Security Policy](https://www.sans.org/security-resources/policies/general/pdf/network-security-policy) |
+| 20  | Access Control Policy | Policy | Governs access to systems, data, and resources within the organization. | [Access Control Policy](https://www.sans.org/security-resources/policies/general/pdf/access-control-policy) |
+| 21  | Phishing Awareness Policy | Policy | Establishes measures to raise awareness and prevent phishing attacks. | [Phishing Awareness Policy](https://resources.infosecinstitute.com/phishing-awareness-policy-template/) |
+| 22  | BYOD (Bring Your Own Device) Policy | Policy | Governs the use of personal devices for work purposes. | [BYOD Policy](https://www.sans.org/security-resources/policies/general/pdf/byod-policy) |
+| 23  | Incident Reporting Policy | Policy | Defines procedures for reporting security incidents promptly. | [Incident Reporting Policy](https://resources.infosecinstitute.com/incident-reporting-policy-template/) |
+| 24  | Secure File Sharing Policy | Policy | Establishes guidelines for secure file sharing practices. | [Secure File Sharing Policy
+
 
 Standards:
 =============
-Network Security Standard
-Server Hardening Standard
-Encryption Standard
-Incident Response Standard
-Software Development Lifecycle (SDL) Standard
-Patch Management Standard
-Access Control Standard
-Wireless Security Standard
-Secure Configuration Standard
-Data Backup and Recovery Standard
-Phishing Awareness Training Standard
-Mobile Device Management (MDM) Standard
-Firewall Configuration Standard
-Web Application Security Standard
-Physical Access Control Standard
-Vulnerability Management Standard
-Asset Classification Standard
-Endpoint Security Standard
-Cloud Security Configuration Standard
-Audit and Monitoring Standard
+| SNO | Name | Type | Description | Link |
+| --- | ---- | ---- | ----------- | ---- |
+| 1   | Network Security Standard | Standard | Specifies requirements for securing the organization's network infrastructure. | [Network Security Standard](https://www.sans.org/security-resources/policies/general/pdf/network-security-standard) |
+| 2   | Server Hardening Standard | Standard | Defines measures for hardening and securing server configurations. | [Server Hardening Standard](https://www.sans.org/security-resources/policies/general/pdf/server-hardening-standard) |
+| 3   | Encryption Standard | Standard | Outlines requirements for the use of encryption to protect data. | [Encryption Standard](https://www.sans.org/security-resources/policies/general/pdf/encryption-standard) |
+| 4   | Incident Response Standard | Standard | Specifies procedures for responding to and managing security incidents. | [Incident Response Standard](https://www.sans.org/security-resources/policies/general/pdf/incident-response-standard) |
+| 5   | Software Development Lifecycle (SDL) Standard | Standard | Defines secure coding practices and requirements throughout the development lifecycle. | [SDL Standard](https://www.sans.org/security-resources/policies/general/pdf/sdl-standard) |
+| 6   | Patch Management Standard | Standard | Outlines procedures for managing and applying software patches. | [Patch Management Standard](https://www.sans.org/security-resources/policies/general/pdf/patch-management-standard) |
+| 7   | Access Control Standard | Standard | Governs access to systems, data, and resources within the organization. | [Access Control Standard](https://www.sans.org/security-resources/policies/general/pdf/access-control-standard) |
+| 8   | Wireless Security Standard | Standard | Specifies requirements for securing wireless networks and devices. | [Wireless Security Standard](https://www.sans.org/security-resources/policies/general/pdf/wireless-security-standard) |
+| 9   | Secure Configuration Standard | Standard | Outlines guidelines for secure configuration of systems and devices. | [Secure Configuration Standard](https://www.sans.org/security-resources/policies/general/pdf/secure-configuration-standard) |
+| 10  | Data Backup and Recovery Standard | Standard | Defines procedures for backing up and recovering critical data. | [Data Backup and Recovery Standard](https://www.sans.org/security-resources/policies/general/pdf/data-backup-and-recovery-standard) |
+| 11  | Phishing Awareness Training Standard | Standard | Specifies requirements for conducting phishing awareness training for employees. | [Phishing Awareness Training Standard](https://resources.infosecinstitute.com/phishing-awareness-training-policy-template/) |
+| 12  | Mobile Device Management (MDM) Standard | Standard | Outlines requirements for managing and securing mobile devices. | [MDM Standard](https://www.sans.org/security-resources/policies/general/pdf/mobile-device-management-standard) |
+| 13  | Firewall Configuration Standard | Standard | Specifies requirements for configuring and managing firewalls. | [Firewall Configuration Standard](https://www.sans.org/security-resources/policies/general/pdf/firewall-configuration-standard) |
+| 14  | Web Application Security Standard | Standard | Defines security measures for web applications and services. | [Web Application Security Standard](https://www.sans.org/security-resources/policies/general/pdf/web-application-security-standard) |
+| 15  | Physical Access Control Standard | Standard | Specifies measures for controlling physical access to facilities and assets. | [Physical Access Control Standard](https://www.sans.org/security-resources/policies/general/pdf/physical-access-control-standard) |
+| 16  | Vulnerability Management Standard | Standard | Outlines procedures for identifying and managing vulnerabilities. | [Vulnerability Management Standard](https://www.sans.org/security-resources/policies/general/pdf/vulnerability-management-standard) |
+| 17  | Asset Classification Standard | Standard | Defines criteria for classifying and protecting organizational assets. | [Asset Classification Standard](https://resources.infosecinstitute.com/asset-classification-policy-template/) |
+| 18  | Endpoint Security Standard | Standard | Specifies requirements for securing endpoint devices within the organization. | [Endpoint Security Standard](https://resources.infosecinstitute.com/endpoint-security-policy-template/) |
+| 19  | Cloud Security Configuration Standard | Standard | Outlines requirements for secure configuration of cloud services. | [Cloud Security Configuration Standard](https://resources.infosecinstitute.com/cloud-security-policy-template/) |
+| 20  | Audit and Monitoring Standard | Standard | Specifies requirements for auditing and monitoring organizational systems. | [Audit and Monitoring Standard](https://resources.infosecinstitute.com/audit-and-monitoring-policy-template/) |
+
 
 Compliance
 ===============
-HIPAA (Health Insurance Portability and Accountability Act)
-GDPR (General Data Protection Regulation)
-PCI DSS (Payment Card Industry Data Security Standard)
-SOX (Sarbanes-Oxley Act)
-FERPA (Family Educational Rights and Privacy Act)
-GLBA (Gramm-Leach-Bliley Act)
-NERC CIP (North American Electric Reliability Corporation Critical Infrastructure Protection)
-FISMA (Federal Information Security Management Act)
-ISO/IEC 27001
-ITAR (International Traffic in Arms Regulations)
-NERC SIP (North American Electric Reliability Corporation Standards for Critical Infrastructure Protection - Supply Chain)
-CJIS (Criminal Justice Information Services) Security Policy
-ISO 9001
-COBIT (Control Objectives for Information and Related Technologies)
-CMMC (Cybersecurity Maturity Model Certification)
-CSA STAR (Cloud Security Alliance Security, Trust, Assurance, and Risk)
-NIST Cybersecurity Framework
-SWIFT CSCF (Customer Security Control Framework)
-HITECH (Health Information Technology for Economic and Clinical Health) Act
-FedRAMP (Federal Risk and Authorization Management Program)
+| SNO | Name | Type | Description | Link |
+| --- | ---- | ---- | ----------- | ---- |
+| 1   | HIPAA (Health Insurance Portability and Accountability Act) | Regulation | Protects sensitive patient health information in the healthcare industry. | [HIPAA](https://www.hhs.gov/hipaa/) |
+| 2   | GDPR (General Data Protection Regulation) | Regulation | European Union regulation governing personal data protection and privacy. | [GDPR](https://gdpr.eu/) |
+| 3   | PCI DSS (Payment Card Industry Data Security Standard) | Standard | Ensures secure handling of credit card information by organizations. | [PCI DSS](https://www.pcisecuritystandards.org/) |
+| 4   | SOX (Sarbanes-Oxley Act) | Regulation | Imposes regulations on financial reporting and disclosure by corporations. | [SOX](https://www.soxlaw.com/) |
+| 5   | FERPA (Family Educational Rights and Privacy Act) | Regulation | Protects the privacy of student education records. | [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) |
+| 6   | GLBA (Gramm-Leach-Bliley Act) | Regulation | Regulates the use and disclosure of consumers' personal financial information. | [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act) |
+| 7   | NERC CIP (North American Electric Reliability Corporation Critical Infrastructure Protection) | Standard | Standards for ensuring the security of the North American power grid. | [NERC CIP](https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx) |
+| 8   | FISMA (Federal Information Security Management Act) | Regulation | Establishes information security standards for federal agencies. | [FISMA](https://www.cisa.gov/federal-information-security-modernization-act) |
+| 9   | ISO/IEC 27001 | Standard | Global standard for information security management systems. | [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) |
+| 10  | ITAR (International Traffic in Arms Regulations) | Regulation | Controls the export and import of defense-related articles and services. | [ITAR](https://www.pmddtc.state.gov/ddtc_public?id=ddtc_kb_article_page&sys_id=a11072d0db4d9300681b01d00f96193b) |
+| 11  | NERC SIP (North American Electric Reliability Corporation Standards for Critical Infrastructure Protection - Supply Chain) | Standard | Standards for securing the supply chain of critical infrastructure. | [NERC SIP](https://www.nerc.com/pa/Stand/Pages/SIPStandards.aspx) |
+| 12  | CJIS (Criminal Justice Information Services) Security Policy | Regulation | Security policy for protecting criminal justice information. | [CJIS Security Policy](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) |
+| 13  | ISO 9001 | Standard | Quality management system standard focusing on organizational processes. | [ISO 9001](https://www.iso.org/iso-9001-quality-management.html) |
+| 14  | COBIT (Control Objectives for Information and Related Technologies) | Framework | A framework for governance and management of enterprise IT. | [COBIT](https://www.isaca.org/resources/cobit) |
+| 15  | CMMC (Cybersecurity Maturity Model Certification) | Model/Certification | Framework for assessing and enhancing the cybersecurity posture of organizations. | [CMMC](https://www.acq.osd.mil/cmmc/) |
+| 16  | CSA STAR (Cloud Security Alliance Security, Trust, Assurance, and Risk) | Framework | Guidelines for securing cloud computing environments. | [CSA STAR](https://cloudsecurityalliance.org/star/) |
+| 17  | NIST Cybersecurity Framework | Framework | Framework for managing and improving cybersecurity posture. | [NIST CSF](https://www.nist.gov/cyberframework) |
+| 18  | SWIFT CSCF (Customer Security Control Framework) | Framework | Security controls framework for financial messaging services. | [SWIFT CSCF](https://www.swift.com/standards/security-controls) |
+| 19  | HITECH (Health Information Technology for Economic and Clinical Health) Act | Regulation | Enhances the security and privacy provisions of HIPAA in the healthcare industry. | [HITECH Act](https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act/index.html) |
+| 20  | FedRAMP (Federal Risk and Authorization Management Program) | Program | Standardized approach to security assessment, authorization, and continuous monitoring. | [FedRAMP](https://www.fedramp.gov/) |
 
-Topics:
-============
-Threat Intelligence
-Incident Response
-Network Security
-Endpoint Security
-Identity and Access Management (IAM)
-Data Encryption
-Security Awareness Training
-Vulnerability Management
-Cloud Security
-Penetration Testing
-Mobile Security
-Firewall Management
-Secure Coding Practices
-Phishing Prevention
-Machine Learning and AI in Cybersecurity
-Zero Trust Security Model
-IoT Security
-Web Application Security
-Security Information and Event Management (SIEM)
-Supply Chain Security
-Ransomware Protection
-Critical Infrastructure Protection
-Blockchain Security
-Biometric Security
-Social Engineering Prevention
 
 Cyber Security Skills
 =====================
 
 
-Cyber Security Domains/Areas
+Cyber Security Topics/Domains/Areas
 ============================
-1. Policies and Standards:
-Cybersecurity Policies
-Cybersecurity Standards
 
-2. Frameworks and Platforms:
-Cybersecurity Frameworks
-Capture The Flag (CTF) Platforms
-Bug Bounty Platforms
-Vulnerable Labs
-Cybersecurity Certifications
-Training Platforms
+1. **Pentesting:**
+   - Web Application Pentesting
+   - Network Pentesting
+   - Mobile (Android & iOS) Pentesting
+   - API Penetration Testing
+   - Thick Client Pentesting
+   - Cloud Pentesting
+   - Wireless Pentesting
 
-3. Programs and Events:
-Cybersecurity Programs
-Cybersecurity Events, Conferences, and Meetups
+2. **Web Pentesting:**
+   - HTTP RFCs
+   - RESTful APIs
+   - MVC Framework Overview (Rails, Django, CodeIgniter)
 
-4. Tools:
-Cybersecurity Tools
-Threat Modeling and Analysis Tools
-Red/Blue/Purple Teaming Tools
-Vulnerability Management Tools
-Governance, Risk, and Compliance (GRC) Tools
+3. **ThickClient Pentesting:**
+   - Fiddler or Charles Proxy
+   - Thick Client Reverse Engineering and Related Attacks
 
-5. Careers and Jobs:
-Cybersecurity Careers
-Cybersecurity Jobs and Internships
+4. **Network Pentesting:**
+   - Social Engineering (Phishing)
+   - Open-Source Intelligence (OSINT): OSINT Techniques, Dark Web Monitoring
+   - Protocols: TCP/IP, UDP, IPSEC, HTTP, HTTPS
 
-6. Domains and Topics:
-Network Security
-Web Application Security
-Cloud Security
-Mobile Security
-IoT Security
-Endpoint Security
-Cryptography
-Incident Response
-Malware Analysis
-Security Awareness and Training
-Data Privacy
-Identity and Access Management (IAM)
-Threat Intelligence
-Security Operations (SecOps)
-Security Automation and Orchestration
-Forensics and Digital Investigations
-Social Engineering
+5. **Network Devices and Services:**
+   - Installation, configuration, and maintenance of various network devices and services, including routers, switches, firewalls, Wi-Fi access points, load balancers, VPNs, QoS, and Azure Cloud.
+   - OpenSSH User Enumeration Timing Attack, Exploitation Possibilities (e.g., OpenSSH, smbd)
 
-7. Incident Response and Management:
-Incident Response Planning
-Security Incident and Event Management (SIEM)
-Incident Response Tools
-Incident Response Procedures
-Threat Hunting
+6. **Routing and Switching:**
+   - Experience in configuring different routing protocols like BGP, OSPF.
+   - Experience in configuring and troubleshooting switching VLANs, VTP, STP, HSRP.
 
-8. Governance and Compliance:
-Security Governance
-Risk Management
-Compliance Management
-Regulatory Compliance
+7. **Vendor-Specific Technologies:**
+   - Concrete knowledge of implementing and configuring Fortinet firewall, FortiAP, Cisco L2, L3 switches, DHCP configuration, Radius configuration, upgrade procedures of Cisco switch, router, Firewall, access point, etc.
 
-9. Training and Education:
-Cybersecurity Training Programs
-Training Platforms and Courses
-Educational Events and Conferences
+8. **Firewall Technologies:**
+   - In-depth understanding of firewall technologies ACL, VIP, NAT, and troubleshooting.
+   - IDS/IPS Implementation
 
-10. Security Operations:
-Security Operations Centers (SOC)
-Security Operations Processes
-Security Operations Tools
+9. **Configuration Review:**
+   - Security Configuration Reviews
+   - Source Code Reviews
+   - Server Configuration with Webmin, phpsysinfo, and SDR
 
-11. Networking and Infrastructure Security:
-Network Security Protocols
-Firewall Configurations
-VPN Technologies
-Server Security
+10. **Vulnerability & Risk Management:**
+    - Risk Assessment
+    - Risk Mitigation Strategies
+    - Third-Party Risk Management
 
-12. Cloud Security:
-Cloud Security Best Practices
-Cloud Security Tools and Platforms
-Cloud Security Certifications
+11. **Mobile Pentesting:**
+    - Android & iOS Pentesting
 
-13. Application Security:
-Web Application Security Best Practices
-API Security
-Secure Coding Practices
-Application Security Testing
+12. **Cloud Pentesting:**
+    - AWS
+    - GCP
+    - Azure Recon stages, Azure network IaaS, PaaS.
+    - Cloud Identity and Access Management, Data Encryption in the Cloud
+    - Azure Defender
+    - Microsoft Defender for Cloud (MCAS)
+    - Advanced Threat Protection (ATP)
+    - Office 365 (O365)
 
-14. Certifications and Training:
-Cybersecurity Certifications
-Training Platforms and Courses
-Security Certifications (e.g., CISSP, OSCP, CEH)
+13. **Wifi Pentesting:**
+    - Bluetooth Security
 
-15. Threat Intelligence:
-Cyber Threat Intelligence
-Threat Intelligence Platforms
+14. **Authentication and Authorization:**
+    - SAML, OAuth, LDAP, AD, etc.
 
-16. Secure Development:
-Secure Software Development Life Cycle (SDLC)
-DevSecOps Practices
-Secure Code Review
+15. **Security & Access Control:**
+    - Configuration of SSID, layer3 authentication method, guest access, and web authentication.
+    - Understanding of licensing, redundancy setup, access point groups, layer2 authentication, PSK.
 
-17. Security Awareness:
-Security Awareness Programs
-Phishing Awareness
+16. **DevSecOps:**
+    - Code analysis (SAST, DAST, IAST, etc)
+    - Secure CI/CD Pipelines (Jenkins)
+    - Dockerization
+    - Infrastructure as Code (Terraform, Ansible)
+    - Secure DevOps Practices
 
-18. Bug Bounty and Penetration Testing:
-Bug Bounty Programs
-Penetration Testing
-Offensive Security Techniques
+17. **Secure Coding:**
+    - Best Practices, Code Review, Static Analysis & Dynamic Analysis
+    - Secure SDLC
 
-19. Risk Management:
-Risk Assessment
-Risk Mitigation Strategies
-Third-Party Risk Management
+18. **Threat Intelligence and Detection:**
+    - Threat Intelligence
+    - Proactive Threat Detection, Hunting Techniques
+    - Detection Engineering
+    - Indicator of Compromise (IOC) Analysis, Threat Feeds
 
-20. Automation and Orchestration:
-Security Automation
-Orchestration Tools and Platforms
+19. **Security Operations Center (SOC):**
+    - Security Incident and Event Management (SIEM) Management, Log Analysis
 
-=================
-Cyber Security Jobs/Company Specific Skills:
-=====================================================
-1. Penetration Testing:
-Web Application Penetration Testing
-Network and System Exploitation
-Exploit Development
+20. **Cryptography:**
+    - Encryption Algorithms, Cryptographic Protocols
+    - Encryption (SSL, HMACs)
 
-2. Programming and Scripting:
-Python
-PowerShell
-Ruby
-Bash
-JavaScript
-Java
+21. **Reverse Engineering:**
+    - Binary Analysis, Code Disassembly
 
-3. Cloud Technologies:
-AWS
-Azure
-Google Cloud
+22. **Incident Response:**
+    - Incident Handling, Cyber Incident Response, ICS Incident Response
+    - Security Incident Response
+    - Incident Management/Response Documentation
 
-4. Security Tools:
-SIEM Tools (e.g., Azure Sentinel, Splunk)
-Email Security Tools
-Malware Analysis Tools
+23. **Digital Forensics:**
+    - Disk Forensics, Memory Forensics, ICS Digital Forensics
 
-5. Security Certifications:
-CISSP
-OSCP
-CEH
-CREST
-GPEN
-AWS Certifications
+24. **Endpoint Security Engineering:**
+    - Endpoint Protection, EDR Implementation
+    - Endpoint Detection and Response (EDR) and AV Bypass
+    - Symantec Endpoint Protection: [Installation and Configuration, Policy Management, Incident Response with SEP]
+    - Varonis Data Security Platform
+    - BeyondTrust Privileged Access Management
+    - Forcepoint Data Loss Prevention
+    - ZScaler Cloud Security
+    - CyberArk Endpoint Privilege Manager (EPM)
+    - Microsoft Defender for Cloud (MCAS)
+    - Splunk
+    - Email Security
+    - Security Incident Response
+    - Microsoft Defender
+    - Azure Sentinel
+    - Azure Defender
+    - Microsoft Defender for Endpoint (MDE)
+    - ATP (Advanced Threat Protection)
+    - MCAS (Microsoft Cloud App Security)
+    - O365 (Office 365)
 
-6. Security Operations:
-Incident Response
-Security Incident and Event Management (SIEM)
-Security Dashboards and Reporting
-Security Operations Documentation
+25. **Post Exploitation:**
+    - MITRE ATT&CK Framework
+    - Command and Control (C2) Infrastructure
+    - Lateral Movement and Privilege Escalation
 
-7. Cloud Security Technologies:
-Azure Defender
-Microsoft Defender for Cloud (MCAS)
-Advanced Threat Protection (ATP)
-Office 365 (O365)
+26. **Malware Analysis:**
+    - Behavioral Analysis, Static Analysis
 
-8. Linux:
-Linux Security Practices
-Linux-Based Systems
+27. **Red Teaming:**
+    - Adversarial Simulation, Physical Security Testing
 
-9. Networking:
-Network Protocols
-Firewall Rules
-VPN Technologies
+28. **Hardware Security:**
+    - Hardware Hacking, Embedded Systems Security
 
-10. Automation Tools:
-Terraform
-Ansible
-Puppet
-Jenkins
+29. **Exploit Development:**
+    - Buffer Overflow Exploits, Metasploit Framework
 
-11. Operating Systems:
-Linux
-Windows
-MacOS
+30. **Programming Language:**
+    - See the provided table
 
-12. Databases:
-Knowledge of Databases
+31. **Certifications:**
+    - See the provided table
 
-13. Security Methodologies and Frameworks:
-OWASP
-SANS Secure Programming
-Security Engineering Principles
-ISO/IEC 27001
-ITIL
-COBIT
-NIST Cybersecurity Framework
-CIS Controls
+32. **Tools:**
+    - Burp Suite Extensions, Intruder, and Collaborator
+    - Nessus, Nmap, BurpSuite, Cenzic in Information Assurance
+    - Foundstone, Cenzic, OpenVAS
+    - Metasploit, Skipfish
+    - SQLMap
+    - Code Scanners, Fuzzing
 
-14. DevOps Practices:
-DevOps Methodology
-DevOps Tools and Practices
+33. **Infrastructure as a Code (IaaS) Tools:**
+    - Terraform
+    - Ansible
+    - Puppet
+    - Jenkins
 
-15. Additional Skills:
-Threat Modeling
-Security Analysis
-Root Cause Analysis
-Security Configuration Reviews
+34. **Documentation and Reporting:**
+    - Network diagram, SOP, Root Cause Analysis (RCA) report.
+    - Effective compliance proposals
+
+35. **Legal and Compliance:**
+    - See the provided table
+
+36. **System Security:**
+    - Implementing Security Policies via Group Policy Objects (GPO)
+    - Server Role Hardening & Security Configuration Baselines
+    - Windows Security Architecture, Standards, and Security Best Practices
+
+37. **IOT/OT Penetration Testing:**
+    - Internet of Things Security, Operational Technology Security
+
+38. **ICS Penetration Testing:**
+    - Supervisory Control and Data Acquisition (SCADA) Security, PLC Security
+    - Natural Power Plants Attacks
+
+39. **Dark Web and Underground Activities:**
+    - Deep/Dark web organized crimes
+    - Black markets
+    - Underworld interconnection in politics & business
+    - Assassination/Wikileaks happening in underground markets
+
+40. **CAAS (Crime as a Service):**
+    - Money laundering
+    - Fair Amount circulation between banks illegally
+    - Sinister/Netism/Skimming
+
+
 
 Cyber Security Companies:
 ====================
-Palo Alto Networks, Inc. (NASDAQ:PANW)
-Fortinet, Inc. (NASDAQ:FTNT)
-CrowdStrike Holdings, Inc. (NASDAQ:CRWD)
-Cloudflare, Inc. (NYSE:NET)
-Check Point Software Technologies Ltd. (NASDAQ:CHKP)
-Zscaler, Inc. (NASDAQ:ZS)
-Akamai Technologies, Inc. (NASDAQ:AKAM)
-Leidos Holdings, Inc. (NYSE:LDOS)
-Gen Digital Inc. (NASDAQ:GEN)
-Okta, Inc. (NASDAQ:OKTA)
-F5, Inc. (NASDAQ:FFIV)
-Trend Micro Incorporated (TYO:4704.T)
-CyberArk Software Ltd. (NASDAQ:CYBR)
-SentinelOne, Inc. (NYSE:S)
-Tenable Holdings, Inc. (NASDAQ:TENB)
-Qualys, Inc. (NASDAQ:QLYS)
-Softcat plc (LON:SCT.L)
-Rapid7, Inc. (NASDAQ:RPD)
-PagerDuty, Inc. (NYSE:PD)
-Commvault Systems, Inc. (NASDAQ:CVLT)
-McAfee LLC
-Symantec (now part of Broadcom)
-Cisco Systems, Inc. (NASDAQ:CSCO)
-IBM Security
-FireEye, Inc. (now part of Mandiant)
-Kaspersky Lab
-RSA Security (a division of Dell Technologies)
-Proofpoint, Inc.
-Sophos Group plc
-Carbon Black (now part of VMware)
-Crowdstrike Holdings, Inc. (NASDAQ:CRWD)
-Darktrace
-Forcepoint
-Mimecast Ltd.
-Netskope
-Varonis Systems, Inc.
-Imperva, Inc.
-Splunk Inc. (NASDAQ:SPLK)
-SecureWorks Corp. (NASDAQ:SCWX)
-CyberGRX
-Juniper Networks, Inc. (NYSE:JNPR)
-Barracuda Networks, Inc. (NYSE:CUDA)
-Checkmarx
-Blue Coat Systems (now part of Symantec)
-Forescout Technologies, Inc. (NASDAQ:FSCT)
-LogRhythm, Inc.
-AlienVault (now part of AT&T Cybersecurity)
-Bitdefender
-FireMon
-Skybox Security
-Webroot
-Cybereason
-LogPoint
-Anomali
-Digital Guardian
-Exabeam
-Acronis
-Avast (NASDAQ:AVST)
-Bromium (now part of HP Inc.)
-Blackberry Limited (Cylance)
-SentinelDB (formerly Senzing)
-Vormetric (now part of Thales Group)
-Attivo Networks
-Nozomi Networks
-RedSeal, Inc.
-OpenText Corporation (Carbonite)
-Cyxtera Technologies
-Cofense (formerly PhishMe)
-Endgame (now part of Elastic)
-SecureLink
-RiskIQ
-Illumio
-SecureAuth
-WhiteHat Security (now part of NTT Ltd.)
-Cybersixgill
-A-LIGN
-Intezer
-Menlo Security
-PerimeterX
-Claroty
-Vulcan Cyber
-SafeBreach
-XM Cyber
-Core Security (now part of HelpSystems)
-Tufin (NYSE:TUFN)
-Aujas Cybersecurity
-StackRox
-Deep Instinct
-Druva
-CyberInt
-Lacework
-RiskSense
-Twistlock (now part of Palo Alto Networks)
-IntSights
-Snyk
-Illusive Networks
-BeyondTrust
-ObserveIT (now part of Proofpoint)
-ThreatQuotient
-Orca Security
-Arctic Wolf Networks
-Wandera (now part of Jamf)
-BigID
-Netscout Systems
-CyberX (now part of Microsoft)
-WhiteOps
-Zimperium
-BitSight
-Sonatype
-Armis (now part of Insight Partners)
-XM Cyber
-IronNet Cybersecurity
-Fortanix
-Salt Security
-CyberGRX
-Perimeter 81
-Confluera
-Dragos
-Keeper Security
-Digital Shadows
-Axonius
-Siemplify
-Balbix
-SafeBreach
-ZeroFOX
-Onapsis
-StackRox
-Avanan
-XM Cyber
-CyCognito
-Black Kite
-Keyfactor
-Lightspin
+| SNO | Company Name | Founded | NASDAQ | Key Area |
+| --- | ------------ | ------- | ------ | -------- |
+| 1   | IBM Security | 1997    | IBM    | Cybersecurity Solutions |
+| 2   | McAfee LLC | 1987    | -      | Antivirus and Security Software |
+| 3   | Palo Alto Networks, Inc. | 2005    | PANW   | Network Security |
+| 4   | Fortinet, Inc. | 2000    | FTNT   | Network Security |
+| 5   | Check Point Software Technologies Ltd. | 1993    | CHKP   | Network Security |
+| 6   | Akamai Technologies, Inc. | 1998    | AKAM   | Content Delivery Network (CDN) |
+| 7   | FireEye, Inc. | 2004    | -      | Threat Intelligence and Cybersecurity |
+| 8   | F5, Inc. | 1996    | FFIV   | Application Delivery Networking |
+| 9   | Symantec (now part of Broadcom) | 1982    | -      | Cybersecurity Solutions |
+| 10  | Leidos Holdings, Inc. | 1969    | LDOS   | Defense, Intelligence, and Cybersecurity |
+| 11  | RSA Security (a division of Dell Technologies) | 1982    | -      | Identity and Access Management |
+| 12  | Zscaler, Inc. | 2007    | ZS     | Cloud Security |
+| 13  | Crowdstrike Holdings, Inc. | 2011    | CRWD   | Endpoint Security |
+| 14  | Gen Digital Inc. | -       | GEN    | Cybersecurity Consulting |
+| 15  | Okta, Inc. | 2009    | OKTA   | Identity and Access Management |
+| 16  | Cloudflare, Inc. | 2009    | NET    | Web Performance and Security |
+| 17  | Darktrace | 2013    | -      | Enterprise Immune System |
+| 18  | Forcepoint | 2008    | -      | Data Loss Prevention (DLP) and Cybersecurity |
+| 19  | Rapid7, Inc. | 2000    | RPD    | Cybersecurity Analytics |
+| 20  | Proofpoint, Inc. | 2002    | PFPT   | Email Security and Compliance |
+| 21  | SentinelOne, Inc. | 2013    | S      | Endpoint Security |
+| 22  | Tenable Holdings, Inc. | 2002    | TENB   | Cyber Exposure Management |
+| 23  | Qualys, Inc. | 1999    | QLYS   | Cloud Security and Compliance |
+| 24  | Mimecast Ltd. | 2003    | MIME   | Email and Data Security |
+| 25  | Netskope | 2012    | -      | Cloud Security |
+| 26  | Commvault Systems, Inc. | 1996    | CVLT   | Data Management and Backup |
+| 27  | McAfee LLC | 1987    | -      | Antivirus and Security Software |
+| 28  | CyberArk Software Ltd. | 1999    | CYBR   | Privileged Access Management |
+| 29  | SentinalDB (formerly Senzing) | 2010    | -      | Entity Resolution and Data Matching |
+| 30  | Qualys, Inc. | 1999    | QLYS   | Cloud Security and Compliance |
+| 31  | AlienVault (now part of AT&T Cybersecurity) | 2007    | -      | Unified Security Management |
+| 32  | Bitdefender | 2001    | -      | Antivirus Software |
+| 33  | FireMon | 2004    | -      | Network Security Policy Management |
+| 34  | Skybox Security | 2002    | -      | Cybersecurity Management |
+| 35  | Webroot | 1997    | -      | Endpoint Security and Threat Intelligence |
+| 36  | Cybereason | 2012    | -      | Endpoint Protection and Response |
+| 37  | LogPoint | 2008    | -      | SIEM (Security Information and Event Management) |
+| 38  | Anomali | 2013    | -      | Threat Intelligence Platform |
+| 39  | Digital Guardian | 2003    | -      | Data Loss Prevention (DLP) |
+| 40  | Exabeam | 2013    | -      | Security Information and Event Management (SIEM) |
+| 41  | Acronis | 2003    | -      | Cyber Protection Solutions |
+| 42  | Avast (NASDAQ:AVST) | 1988    | AVST   | Antivirus Software |
+| 43  | Bromium (now part of HP Inc.) | 2010    | -      | Endpoint Security |
+| 44  | Blackberry Limited (Cylance) | 1984    | BB     | Endpoint Security |
+| 45  | SentinelDB (formerly Senzing) | 2010    | -      | Entity Resolution and Data Matching |
+| 46  | Vormetric (now part of Thales Group) | 1996    | -      | Data Security and Encryption |
+| 47  | Attivo Networks | 2011    | -      | Deception Technology |
+| 48  | Nozomi Networks | 2013    | -      | Industrial Cybersecurity |
+| 49  | RedSeal, Inc. | 2004    | -      | Network Security |
+| 50  | OpenText Corporation (Carbonite) | 1991    | OTEX   | Enterprise Information Management |
+| 51  | Cyxtera Technologies | 2017    | -      | Data Center Services and Cybersecurity |
+| 52  | Cofense (formerly PhishMe) | 2011    | -      | Phishing Threat Intelligence |
+| 53  | Endgame (now part of Elastic) | 2008    | -      | Endpoint Security |
+| 54  | SecureLink | 2003    | -      | Privileged Access Management (PAM) |
+| 55  | RiskIQ | 2009    | -      | Digital Threat Management |
+| 56  | Illumio | 2013    | -      | Zero Trust Security |
+| 57  | SecureAuth | 2005    | -      | Identity and Access Management |
+| 58  | WhiteHat Security (now part of NTT Ltd.) | 2001    | -      | Application Security |
+| 59  | Cybersixgill | 2013    | -      | Threat Intelligence |
+| 60  | A-LIGN | 2009    | -      | Cybersecurity and Compliance Services |
+| 61  | Intezer | 2015    | -      | Code Security and Malware Analysis |
+| 62  | Menlo Security | 2013    | -      | Browser Isolation and Security |
+| 63  | PerimeterX | 2014    | -      | Bot Mitigation and Web Security |
+| 64  | Claroty | 2014    | -      | Industrial Cybersecurity |
+| 65  | Vulcan Cyber | 2019    | -      | Continuous Vulnerability Remediation |
+| 66  | SafeBreach | 2014    | -      | Breach and Attack Simulation |
+| 67  | XM Cyber | 2016    | -      | Attack Simulation and Cybersecurity |
+| 68  | Core Security (now part of HelpSystems) | 1996    | -      | Cybersecurity Solutions |
+| 69  | Tufin (NYSE:TUFN) | 2005    | TUFN   | Network Security Policy Management |
+| 70  | Aujas Cybersecurity | 2008    | -      | Cybersecurity Consulting |
+| 71  | StackRox | 2014    | -      | Kubernetes Security |
+| 72  | Deep Instinct | 2015    | -      | Deep Learning Cybersecurity |
+| 73  | Druva | 2008    | -      | Cloud Data Protection and Management |
+| 74  | CyberInt | 2011    | -      | Digital Risk Protection |
+| 75  | Lacework | 2015    | -      | Cloud Security and Compliance |
+| 76  | RiskSense | 2015    | -      | Cyber Risk Management |
+| 77  | Twistlock (now part of Palo Alto Networks) | 2015    | PANW   | Container Security |
+| 78  | IntSights | 2015    | -      | Threat Intelligence and Cybersecurity |
+| 79  | Snyk | 2015    | -      | Open Source Security and Code Scanning |
+| 80  | Illusive Networks | 2014    | -      | Deception Technology |
+| 81  | BeyondTrust | 1985    | -      | Privileged Access Management (PAM) |
+| 82  | ObserveIT (now part of Proofpoint) | 2006    | PFPT   | Insider Threat Detection |
+| 83  | ThreatQuotient | 2013    | -      | Threat Intelligence Platform |
+| 84  | Orca Security | 2019    | -      | Cloud Security and Compliance |
+| 85  | Arctic Wolf Networks | 2012    | -      | Managed Detection and Response (MDR) |
+| 86  | Wandera (now part of Jamf) | 2012    | -      | Mobile Security |
+| 87  | BigID | 2016    | -      | Data Privacy and Protection |
+| 88  | Netscout Systems | 1984    | NTCT   | Network and Application Performance Management |
+| 89  | CyberX (now part of Microsoft) | 2013    | -      | Industrial Cybersecurity |
+| 90  | WhiteOps | 2012    | -      | Bot Mitigation and Fraud Prevention |
+| 91  | Zimperium | 2010    | -      | Mobile Threat Defense |
+| 92  | BitSight | 2011    | -      | Security Ratings and Cyber Risk Management |
+| 93  | Sonatype | 2008    | -      | Software Composition Analysis (SCA) |
+| 94  | Armis (now part of Insight Partners) | 2015    | -      | Enterprise IoT Security |
+| 95  | XM Cyber | 2016    | -      | Attack Simulation and Cybersecurity |
+| 96  | IronNet Cybersecurity | 2014    | -      | Collective Defense and Cybersecurity |
+| 97  | Fortanix | 2016    | -      | Runtime Encryption and Cybersecurity |
+| 98  | Salt Security | 2016    | -      | API Security |
+| 99  | CyberGRX | 2015    | -      | Third-Party Cyber Risk Management |
+| 100 | Perimeter 81 | 2018    | -      | Zero Trust Network Security |
+| 101 | Confluera | 2019    | -      | Real-Time Cybersecurity |
+| 102 | Dragos | 2013    | -      | Industrial Cybersecurity |
+| 103 | Keeper Security | 2011    | -      | Password Security and Management |
+| 104 | Digital Shadows | 2011    | -      | Digital Risk Protection |
+| 105 | Axonius | 2017    | -      | Cybersecurity Asset Management |
+| 106 | Siemplify | 2015    | -      | Security Orchestration, Automation, and Response (SOAR) |
+| 107 | Balbix | 2015    | -      | Cybersecurity Posture Management |
+| 108 | SafeBreach | 2014    | -      | Breach and Attack Simulation |
+| 109 | ZeroFOX | 2013    | -      | Social Media Security and Digital Risk Protection |
+| 110 | Onapsis | 2009    | -      | Business-Critical Application Cybersecurity |
+| 111 | StackRox | 2014    | -      | Kubernetes Security |
+| 112 | Avanan | 2014    | -      | Cloud Email Security |
+| 113 | XM Cyber | 2016    | -      | Attack Simulation and Cybersecurity |
+| 114 | CyCognito | 2017    | -      | External Attack Surface Management |
+| 115 | Black Kite | 2018    | -      | Cybersecurity Risk Management |
+| 116 | Keyfactor | 2001    | -      | Public Key Infrastructure (PKI) |
+| 117 | Lightspin | 2020    | -      | Cloud Security Posture Management |
 
 
 Cyber Security Companies Industry based ranking
@@ -664,12 +594,26 @@ Connect CTF as earning opportunity and also direct the user to 'Hackathons'
 Vulnerable Labs
 ===================
 Lab creation is another earning opportunity
+
 Online Vulnerable Labs [Production]
-* https://pwnedlabs.io/users/sathsish90
-* https://app.hackthebox.com/profile/1737697
-* https://tryhackme.com/p/sathsish90
-* https://pentesterlab.com/profile/sathsish90
-* https://portswigger.net/web-security/dashboard
+| SNO | Resource | Description | Link |
+| --- | -------- | ----------- | ---- |
+| 1   | Vulnhub | VMs for various skill levels to practice penetration testing. | [Vulnhub](https://www.vulnhub.com/) |
+| 2   | Itsecgames | bWAPP (Buggy Web App) - Deliberately insecure web application for practice. | [Itsecgames](http://www.itsecgames.com/) |
+| 3   | Dvwa | Damn Vulnerable Web Application - Another insecure web app for skill improvement. | [Dvwa](http://www.dvwa.co.uk/) |
+| 4   | Hackthissite | Provides challenges, CTFs, and more to enhance hacking skills. | [Hackthissite](https://www.hackthissite.org/) |
+| 5   | Defend the Web | Interactive security platform for learning and skill challenges. | [Defend the Web](https://defendtheweb.net/) |
+| 6   | Root-me | Platform hosting challenges to test and improve hacking skills. | [Root-me](https://www.root-me.org/) |
+| 7   | HackTheBox | Online platform for penetration testing and cybersecurity skill advancement. | [HackTheBox](https://app.hackthebox.com/profile/1737697) |
+| 8   | Overthewire | Learn and practice security concepts through fun-filled games. | [Overthewire](http://overthewire.org/wargames/) |
+| 9   | Ctftime | Centralized hub for all things Capture The Flag (CTF) related. | [Ctftime](https://ctftime.org/) |
+| 10  | TryHackMe | Free online platform for learning cybersecurity with hands-on exercises and labs. | [TryHackMe](https://tryhackme.com/p/sathsish90) |
+| 11  | PicoCTF | Fun CTF challenges of varying difficulty levels for practice. | [PicoCTF](https://picoctf.org/) |
+| 12  | Pwned Labs | Platform for security labs and challenges. | [Pwned Labs](https://pwnedlabs.io/users/sathsish90) |
+| 13  | Pentester Labs | Online platform for hands-on cybersecurity training. | [Pentester Labs](https://pentesterlab.com/profile/sathsish90) |
+| 14  | Burp Labs | Web security training and labs by PortSwigger. | [Burp Labs](https://portswigger.net/web-security/dashboard) |
+
+
 
 Offline Vulnerable Labs [Local Env]
 * Docker: https://github.com/vulhub/vulhub
@@ -707,26 +651,15 @@ Cyber Security NGOs
 
 Cyber Security Job Portals:
 =======================
-LinkedIn: LinkedIn Jobs
-Indeed: Indeed
-Glassdoor: Glassdoor
-Monster: Monster
-CyberSecJobs: CyberSecJobs
-InfoSec Jobs: InfoSec Jobs
-Dice: Dice
-SimplyHired: SimplyHired
-CyberSecPeople: CyberSecPeople
-TechCareers: TechCareers
-CyberSecJobs.com: CyberSecJobs.com
-Dark Reading Jobs: Dark Reading Jobs
-SecurityJobs.net: SecurityJobs.net
-Homeland Security Careers: Homeland Security Careers
-Jobs in Cyber Security: Jobs in Cyber Security
-NIST Jobs: NIST Jobs
-The CyberWire Job Board: The CyberWire Job Board
-TechExams.net Job Board: TechExams.net Job Board
-CyberDegrees.org Job Board: CyberDegrees.org Job Board
-Tech Jobs for Good: Tech Jobs for Good
+| SNO | Job Portal | Description | Link | Category |
+| --- | ---------- | ----------- | ---- | -------- |
+| 1   | CyberSecJobs | Cybersecurity job opportunities | [CyberSecJobs](https://www.cybersecjobs.com/) | Job Portal |
+| 2   | InfoSec Jobs | Jobs in the field of Information Security | [InfoSec Jobs](https://www.infosec-jobs.com/) | Job Portal |
+| 3   | CyberSecPeople | Platform for Cybersecurity job seekers | [CyberSecPeople](https://www.cybersecpeople.com/) | Job Portal |
+| 4   | CyberSecJobs.com | Cybersecurity job listings and resources | [CyberSecJobs.com](https://www.cybersecjobs.com/) | Job Portal |
+| 5   | SecurityJobs.net | Network for Security job opportunities | [SecurityJobs.net](https://www.securityjobs.net/) | Job Portal |
+| 6   | Jobs in Cyber Security | Job listings in the Cyber Security field | [Jobs in Cyber Security](https://www.jobsincybersecurity.com/) | Job Portal |
+| 7   | CyberDegrees.org Job Board | Job opportunities from CyberDegrees.org | [CyberDegrees.org Job Board](https://www.cyberdegrees.org/jobs/) | Job Portal |
 
 When a user got the job or the company got the candidate then the job should be expired.
 
@@ -770,27 +703,143 @@ Sort 'Layoffs' 'Cut off' Keywords along with the date and predict the future emp
 
 Cyber Security Tools
 ===================
-Threat Intelligence Analyzer role: https://github.com/qeeqbox/analyzer
-Customizable honeypots: https://github.com/qeeqbox/chameleon
-Low-high level honeypots: https://github.com/qeeqbox/honeypots
-Build custom OSINT tools and APIs: https://github.com/qeeqbox/osint
-URL Sandbox: https://github.com/qeeqbox/url-sandbox
-Mitre APTs, Malware, Tools, Techniques & Tactics!: https://github.com/qeeqbox/mitre-visualizer
-Custom security distro for remote penetration testing: https://github.com/qeeqbox/woodpecker
-Custom security focused images accessible via VNC, RDP or web: https://github.com/qeeqbox/docker-images
-ELKFH (Elastic, Logstash, Kibana, Filebeat and Honeypot): https://github.com/qeeqbox/seahorse
-Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across: https://github.com/qeeqbox/social-analyzer
-Agile Sandbox for analyzing malware and execution behaviors: https://github.com/qeeqbox/rhino
+
+| SNO | Tool Name | Description | Link | Category |
+| --- | --------- | ----------- | ---- | -------- |
+| 1   | Threat Intelligence Analyzer | Role: Analyze Threat Intelligence | [Analyzer](https://github.com/qeeqbox/analyzer) | Threat Intelligence |
+| 2   | Customizable Honeypots | Build honeypots with customization | [Chameleon](https://github.com/qeeqbox/chameleon) | Honeypots |
+| 3   | Low-High Level Honeypots | Honeypots with varying levels | [Honeypots](https://github.com/qeeqbox/honeypots) | Honeypots |
+| 4   | Build Custom OSINT Tools and APIs | Custom OSINT tools and APIs | [OSINT](https://github.com/qeeqbox/osint) | OSINT (Open Source Intelligence) |
+| 5   | URL Sandbox | Sandbox for analyzing URLs | [URL Sandbox](https://github.com/qeeqbox/url-sandbox) | Sandbox |
+| 6   | Mitre APTs, Malware, Tools, Techniques & Tactics | Visualizer for Mitre APTs | [Mitre Visualizer](https://github.com/qeeqbox/mitre-visualizer) | Threat Intelligence |
+| 7   | Custom Security Distro for Remote Penetration Testing | Security distro for remote pentesting | [Woodpecker](https://github.com/qeeqbox/woodpecker) | Penetration Testing |
+| 8   | Custom Security Focused Images | Accessible via VNC, RDP, or web | [Docker Images](https://github.com/qeeqbox/docker-images) | Security Images |
+| 9   | ELKFH (Elastic, Logstash, Kibana, Filebeat, and Honeypot) | Security stack with honeypot | [Seahorse](https://github.com/qeeqbox/seahorse) | SIEM (Security Information and Event Management) |
+| 10  | Social Analyzer | Analyzing and finding a person's profile | [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | Social Media Analysis |
+| 11  | Agile Sandbox | Analyzing malware and execution behaviors | [Rhino](https://github.com/qeeqbox/rhino) | Sandbox |
+
+
+#### :male_detective: Information Gathering
+
+Information Gathering tools allows you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [theHarvester](https://github.com/laramies/theHarvester)      | **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester. |
+| [CTFR](https://github.com/UnaPibaGeek/ctfr)      | **Python** | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. |
+| [Sn1per](https://github.com/1N3/Sn1per)      | **bash** | `Linux/macOS` | Automated Pentest Recon Scanner. |
+| [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK)      | **PHP** | `Linux/Windows/macOS` | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers. |
+| [Infoga](https://github.com/m4ll0k/Infoga)      | **Python** | `Linux/Windows/macOS` | Email Information Gathering. |
+| [KnockMail](https://github.com/4w4k3/KnockMail)      | **Python** | `Linux/Windows/macOS` | Check if email address exists. |
+| [a2sv](https://github.com/hahwul/a2sv)      | **Python** | `Linux/Windows/macOS` | Auto Scanning to SSL Vulnerability. |
+| [Wfuzz](https://github.com/xmendez/wfuzz)      | **Python** | `Linux/Windows/macOS` | Web application fuzzer. |
+| [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
+| [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)      | **Go** | `Linux/macOS` | An OSINT framework for phone numbers. |
+
+#### :lock: Password Attacks
+
+Crack passwords and create wordlists.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [John the Ripper](https://github.com/magnumripper/JohnTheRipper)      | **C** | `Linux/Windows/macOS` | John the Ripper is a fast password cracker. |
+| [hashcat](https://github.com/hashcat/hashcat)      | **C** | `Linux/Windows/macOS` | World's fastest and most advanced password recovery utility. |
+| [Hydra](https://github.com/vanhauser-thc/thc-hydra)      | **C** | `Linux/Windows/macOS` | Parallelized login cracker which supports numerous protocols to attack. |
+| [ophcrack](https://gitlab.com/objectifsecurite/ophcrack)      | **C++** | `Linux/Windows/macOS` | Windows password cracker based on rainbow tables. |
+| [Ncrack](https://github.com/nmap/ncrack)      | **C** | `Linux/Windows/macOS` | High-speed network authentication cracking tool. |
+| [WGen](https://github.com/agusmakmun/Python-Wordlist-Generator)      | **Python** | `Linux/Windows/macOS` | Create awesome wordlists with Python. |
+| [SSH Auditor](https://github.com/ncsa/ssh-auditor)      | **Go** | `Linux/macOS` | The best way to scan for weak ssh passwords on your network. |
+
+###### :memo: Wordlists
+
+| Tool        | Description    |
+| ----------- |----------------|
+| [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
+
+#### :globe_with_meridians: Wireless Testing
+
+Used for intrusion detection and wifi attacks.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [Aircrack](https://github.com/aircrack-ng/aircrack-ng)      | **C** | `Linux/Windows/macOS` | WiFi security auditing tools suite. |
+| [bettercap](https://github.com/bettercap/bettercap)      | **Go** | `Linux/Windows/macOS/Android` | bettercap is the Swiss army knife for network attacks and monitoring. |
+| [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
+| [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)      | **Shell** | `Linux/Windows/macOS` | This is a multi-use bash script for Linux systems to audit wireless networks. |
+| [Airbash](https://github.com/tehw0lf/airbash)      | **C** | `Linux/Windows/macOS` | A POSIX-compliant, fully automated WPA PSK handshake capture script aimed at penetration testing. |
+
+#### :busts_in_silhouette: Sniffing & Spoofing
+
+Listen to network traffic or fake a network entity.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [Wireshark](https://www.wireshark.org)      | **C/C++** | `Linux/Windows/macOS` | Wireshark is a network protocol analyzer. |
+| [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
+| [Zarp](https://github.com/hatRiot/zarp)      | **Python** | `Linux/Windows/macOS` | A free network attack framework. |
+
+#### :rocket: CMS Tools
+
+Exploit popular CMSs that are hosted online.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [WPScan](https://github.com/wpscanteam/wpscan)      | **Ruby** | `Linux/Windows/macOS` | WPScan is a black box WordPress vulnerability scanner. |
+| [Droopescan](https://github.com/droope/droopescan)      | **Python** | `Linux/Windows/macOS` | A plugin-based scanner to identify issues with several CMSs, mainly Drupal & Silverstripe. |
+| [Joomscan](https://github.com/rezasp/joomscan)      | **Perl** | `Linux/Windows/macOS` | Joomla Vulnerability Scanner. |
+| [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
+| [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 130 other CMSs. |
+
+#### :wrench: Exploitation Tools
+
+Acesss systems and data with service-oriented exploits.
+
+| Tool                                                    | Language   | Support               | Description                                                  |
+| ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
+| [SQLmap](https://github.com/sqlmapproject/sqlmap)       | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.          |
+| [XSStrike](https://github.com/UltimateHackers/XSStrike) | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.               |
+| [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| [Nuclei](https://github.com/projectdiscovery/nuclei)    | **Go**     | `Linux/Windows/macOS` | Fast and customisable vulnerability scanner based on simple YAML based DSL. |
+
+#### :tada: Post Exploitation
+
+Exploits for after you have already gained access.
+
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
+
+
+:package: Frameworks
+===========
+
+| S No | Framework Name | Language | Description |
+| ---- | -------------- | -------- | ----------- |
+| 1    | [Metasploit Framework](https://github.com/rapid7/metasploit-framework) | **Ruby** | A penetration testing framework for ethical hackers. |
+| 2    | [Operative Framework](https://github.com/graniet/operative-framework) | **Python** | Framework based on fingerprint action, used to gather information on a website or enterprise target with multiple modules. |
+| 3    | [cSploit](https://github.com/cSploit/android) | **Java** | The most complete and advanced IT security professional toolkit on Android. |
+| 4    | [radare2](https://github.com/radare/radare2) | **C** | Unix-like reverse engineering framework and commandline tools. |
+| 5    | [Wifiphisher](https://github.com/wifiphisher/wifiphisher) | **Python** | The Rogue Access Point Framework. |
+| 6    | [Beef](https://github.com/beefproject/beef) | **Javascript** | The Browser Exploitation Framework, focusing on web browser penetration testing. |
+| 7    | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | **Python** | An automated, all-in-one mobile application pen-testing, malware analysis, and security assessment framework. |
+| 8    | [Burp Suite](https://portswigger.net/burp) | **Java** | Leading range of cybersecurity tools, not free and open source. |
+| 9    | [TheHive Project](https://github.com/TheHive-Project/TheHive) | **Java** | Scalable, Open Source and Free Security Incident Response Solutions. |
+| 10   | [OpenSOC](https://github.com/OpenSOC/opensoc) | **Java/Scala** | OpenSOC is a big data security analytics framework designed to consume and monitor network traffic. |
+| 11   | [Gauntlt](https://github.com/gauntlt/gauntlt) | **Ruby** | Security testing framework that automates testing of the entire toolchain right from the command line. |
+| 12   | [MISP - Malware Information Sharing Platform & Threat Sharing](https://github.com/MISP/MISP) | **PHP** | MISP is an open-source threat intelligence platform designed to improve the sharing of structured threat information. |
+| 13   | [OWTF (Offensive Web Testing Framework)](https://github.com/owtf/owtf) | **Python** | Offensive Web Testing Framework (OWTF), an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python. |
 
 Attack Surface Management:
+===================
 
 Vulnerability Management:
+===================
 
 Dark Web:
-
+===================
 
 Threat Intelligence Platforms:
-
+===================
 
 Cyber Security Books
 ===================
