@@ -1,7 +1,33 @@
-# Cyber4U
-A Cyber Security University
+# Cyber4U - Cyber Security University
 
+<p align="center"><img src="https://sathish.co.in/images/Cyber4U.png" alt="Cyber4U Roadmap" /><br></p>
 
+# Introduction
+
+I am delighted to introduce this repository as an all-encompassing hub for the entire cybersecurity industry. Whether you're an entrepreneur, student, professional, techie, novice, or simply someone eager to learn, this repository is designed to provide a guiding roadmap tailored to your current stage in the cybersecurity journey.
+
+This collection is a compilation of numerous tools, resources, websites, blogs, articles, and links sourced from the internet. Credit is due to every individual who has contributed to these efforts.
+
+Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized resource that covers a broad spectrum of topics, frameworks, methodologies, and terminologies in the cybersecurity field. This repository is crafted to be a valuable reference for cybersecurity enthusiasts, professionals, and learners, offering a holistic understanding of the diverse aspects within this dynamic domain.
+
+## Status
+
+**This project is currently under progress and anyone who is willing to contribute is welcome.
+
+----
+
+## Before you start
+
+- If you are new to the term pentesting, hacking, red teaming, and cyber security then refer to "Terminology Section"
+
+# Table of Contents
+
+- yet to create table of contents
+   
+# Difference between hacking and ethical hacking
+
+**Hacking:** Unauthorized access or manipulation for malicious purposes, like breaking into someone's computer without permission – akin to breaking into a house.
+**Ethical Hacking:** Authorized testing of systems for security weaknesses to strengthen defenses, like a security expert checking a door's lock to ensure it can't be easily breached.
 
 [SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
 
@@ -85,7 +111,16 @@ Cyber Security Key terminologies
 | 27  | Areas         | Defined regions or sections within a broader context.                                                                                                               | Security Operations Areas, Compliance Areas, Incident Response Areas |
 | 28  | Regulations    | 'Official Rules' set by authorities (usually governments) to control & guide specific activities. Non-compliance with regulations may lead to legal consequences. | GDPR, OSHA, FDA Regulations for Food Safety |
 | 29  | Compliance     | Act of following 'Rules', 'Regulations', or 'Standards'. Organizations strive to be in compliance to avoid legal or financial consequences.                   | HIPPA, PCI DSS, Tax Compliance              |
-
+| 30  | Infosec             | Information security involves practices aimed at preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording, or destruction of information. | Encryption, Access Control, Firewalls               |
+| 31  | Opsec               | Operations security is a process that identifies critical information to assess if friendly actions are observable by enemy intelligence.    | Evaluating information disclosure risks in military operations, Protective measures against surveillance. |
+| 32  | Black/Grey/White Hat Hacker | Individuals who use bugs or exploits to breach systems or applications, with goals and methods varying based on their ethical stance. | Black Hat: Unauthorized intrusion. White Hat: Ethical security research. Grey Hat: A mix of both ethical and malicious actions. |
+| 33  | Red Team            | An independent group challenging organizations by assuming an adversarial role to enhance their effectiveness.                                  | Conducting simulated cyber-attacks on a company's systems to identify vulnerabilities.                         |
+| 34  | Blue Team           | A group analyzing information systems to ensure security, identify flaws, and verify the effectiveness of security measures.                   | Implementing and monitoring security controls to defend against cyber threats.                                |
+| 35  | Penetration Tester  | An ethical hacker conducting security tests on applications and systems to prevent intrusions or identify vulnerabilities.                   | Conducting penetration tests on a web application to identify and fix security weaknesses.                    |
+| 36  | Security Researcher | Individuals practicing penetration testing and scouring the web for phishing sites, fake websites, infected servers, bugs, or vulnerabilities. | Discovering and reporting vulnerabilities in software to help improve security.                               |
+| 37  | Reverse Engineering  | The process of deconstructing a man-made object to reveal its designs or architecture and extract knowledge from it.                         | Analyzing malware to understand its functionality and develop countermeasures.                                  |
+| 38  | Social Engineering   | In the realm of information security, it involves psychologically manipulating people to perform actions or divulge confidential information. | Phishing attacks, Impersonation, Pretexting.       |
+| 39  | Threat Analyst       | A professional using manual or machine-assisted techniques to proactively detect security incidents that automated systems may overlook.     | Analyzing network traffic patterns for signs of a potential cyber attack, Investigating suspicious activity logs. |
 
 Cyber Security Topics
 =====================
@@ -97,12 +132,15 @@ Cyber Security Topics
 
 Living off the land:
 ====================
-https://github.com/LOLBAS-Project/LOLBAS/tree/master
-https://lolbas-project.github.io/
-https://gtfobins.github.io/
-https://www.loldrivers.io/
-https://htagen.loldrivers.io/
-https://github.com/magicsword-io/LOLDrivers
+| SNO | Topic                                      | Link                                           | Description                                                                   |
+|-----|--------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1   | LOLBins (Living Off The Land Binaries)      | [LOLBAS GitHub](https://github.com/LOLBAS-Project/LOLBAS/tree/master) | A collection of living-off-the-land binaries and scripts for Windows penetration testing. |
+| 2   | LOLBAS Website                             | [LOLBAS Website](https://lolbas-project.github.io/)       | LOLBAS project official website providing detailed information about LOLBins. |
+| 3   | GTFOBins                                   | [GTFOBins](https://gtfobins.github.io/)                   | A curated list of Unix binaries that can be exploited to bypass system security restrictions. |
+| 4   | LOLDrivers                                  | [LOLDrivers](https://www.loldrivers.io/)                  | A collection of Windows kernel-mode drivers useful for red teaming and penetration testing. |
+| 5   | HTAGen - Hash Tag Generator for LOLBins      | [HTAGen](https://htagen.loldrivers.io/)                  | A tool to generate hashtags for use with Twitter posts about LOLBins.           |
+| 6   | MagicSword - LOLDrivers Project              | [MagicSword GitHub](https://github.com/magicsword-io/LOLDrivers) | A fork of the LOLDrivers project with additional features and improvements.   |
+
 
 Active directory:
 =================
@@ -251,6 +289,7 @@ Compliance
 Cyber Security Skills
 =====================
 
+- yet to add
 
 Cyber Security Topics/Domains/Areas
 ============================
@@ -576,26 +615,32 @@ Cyber Security Companies:
 
 Cyber Security Companies Industry based ranking
 ===============================================
+- yet to add
 
 Responsible Disclosure organisation
 ===================================
-Earning opportunites for talented people
-Display the minimum and maximum bounty limits
-Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
+- yet to add
+- Earning opportunites for talented people
+- Display the minimum and maximum bounty limits
+- Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
 
 Bug Bounty Platforms
 ===================
-Integrate bug bounty platforms to the earning opportunities.
+- yet to add
+- Integrate bug bounty platforms to the earning opportunities.
 
 CTF Platforms
 ===================
-Connect CTF as earning opportunity and also direct the user to 'Hackathons'
+- yet to add
+- Connect CTF as earning opportunity and also direct the user to 'Hackathons'
 
 Vulnerable Labs
 ===================
-Lab creation is another earning opportunity
+- yet to add
+- Lab creation is another earning opportunity
 
-Online Vulnerable Labs [Production]
+## Online Vulnerable Labs [Production]
+
 | SNO | Resource | Description | Link |
 | --- | -------- | ----------- | ---- |
 | 1   | Vulnhub | VMs for various skill levels to practice penetration testing. | [Vulnhub](https://www.vulnhub.com/) |
@@ -614,40 +659,129 @@ Online Vulnerable Labs [Production]
 | 14  | Burp Labs | Web security training and labs by PortSwigger. | [Burp Labs](https://portswigger.net/web-security/dashboard) |
 
 
-
-Offline Vulnerable Labs [Local Env]
-* Docker: https://github.com/vulhub/vulhub
-
+## Offline Vulnerable Labs [Local Env]
+- Yet to add
+- Docker: https://github.com/vulhub/vulhub
 
 Cyber Security Company Acquisition updates:
 ============================
-Company Acquired
-Which company acquired
-Why it acquired? (Purpose)
-When acquired? 
-How much amount it got acquired for?
+- Yet to add
+- Company Acquired
+- Which company acquired
+- Why it acquired? (Purpose)
+- When acquired?
+- How much amount it got acquired for?
 
 
 Cyber Security Job description generator
 =========================
-Select your 'Company Name'
-Select your 'Product'
-Select your 'Services'
-Select your 'Leadership'
-Select the Relevant Certifications + Add additional certificates
-Type your 'Role/Designation/JobRole'
-Your Job Description is Ready
+- Yet to add
+- Select your 'Company Name'
+- Select your 'Product'
+- Select your 'Services'
+- Select your 'Leadership'
+- Select the Relevant Certifications + Add additional certificates
+- Type your 'Role/Designation/JobRole'
+- Your Job Description is Ready
 
 Cyber Security Interview Questions
 ===================================
 
+| SNO | Question                                                                                                               | Section                     |
+|-----|------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| 1   | Difference between SSL Pinning & HTTPS Certificate                                                                    | Network                     |
+| 2   | How do you bypass SSL Pinning?                                                                                        | Network                     |
+| 3   | Android Manifest File                                                                                                | Mobile                      |
+| 4   | What is Android Keystore system?                                                                                     | Mobile                      |
+| 5   | Where do you store all the sensitive information in the APK file?                                                     | Mobile                      |
+| 6   | What is the 1st Step when the organization is hacked if the server is in production/running?                         | Incident Response           |
+| 7   | How to get a Domain Admin?                                                                                            | Active Directory            |
+| 8   | How to perform AD enumeration?                                                                                        | Active Directory            |
+| 9   | How to perform SMTP enumeration?                                                                                      | Network                     |
+| 10  | How to Perform IKE port enumeration?                                                                                 | Network                     |
+| 11  | What is ADCS Attack Types?                                                                                           | Network                     |
+| 12  | How to Run nmap to find a host which is not alive?                                                                   | Network                     |
+| 13  | What are the details required to perform AEPRoasting?                                                                 | Active Directory            |
+| 14  | How do we list out processes in a machine after getting initial Foot Hold?                                            | Post Exploitation           |
+| 15  | How to do process migration after escalating the privileges?                                                         | Post Exploitation           |
+| 16  | How to set up Redirectors for not getting caught during Red teaming?                                                   | Red Team                    |
+| 17  | What is Command and control tools?                                                                                   | Red Team                    |
+| 18  | How to perform "Antivirus evasion"?                                                                                  | Red Team                    |
+| 19  | What are the lists of Red/Blue team exercises?                                                                       | Red Team / Blue Team         |
+| 20  | List of Active directory attacks?                                                                                    | Active Directory            |
+| 21  | How to Perform Port scanning using internal Windows/Linux Tools?                                                     | Network                     |
+| 22  | Difference between Gold/Silver/Diamond/Skeleton Tickets & How to Generate it?                                        | Active Directory            |
+| 23  | Difference between DAST/SAST/IAST testing                                                                           | Web Application Security    |
+| 24  | Difference between Agile/DevsecOPs/DevOPs                                                                           | DevOps / DevSecOps          |
+| 25  | Difference between BindShell/Reverse Shell                                                                          | Network                     |
+| 26  | What is Antimalware scan interface (AMSI)?                                                                          | Network                     |
+| 27  | List of other protocols in Log4j to perform RCE                                                                      | Web Application Security    |
+| 28  | What is "A Living off the Land (LotL) attack"?                                                                       | Techniques                  |
+| 29  | What is MITRE ATT&CK®? [MITRE ATT&CK Framework](https://attack.mitre.org/)                                          | Framework                   |
+| 30  | What is MITRE ATT&CK DEFENDER™ (MAD): [MITRE ATT&CK DEFENDER™](https://mitre-engenuity.org/cybersecurity/mad/)       | Framework                   |
+| 31  | What can be Scheduled tasks of a compromised machine?                                                               | Post Exploitation           |
+| 32  | List of Windows/Linux utilities that legitimately talk to the system and pull out valid details.                     | Post Exploitation           |
+| 33  | List of dangerous persistent binaries used by attackers in attacks                                                  | Post Exploitation           |
+| 34  | When an nmap/nessus scan yields no RCE, How can one take advantage of a target?                                      | Network                     |
+| 35  | How do you prevent Spam mails in an organization?                                                                    | Email Security              |
+| 36  | What is Kerberoasting?                                                                                               | Active Directory            |
+| 37  | What is Cross-Trust attacks?                                                                                        | Active Directory            |
+| 38  | List of Privilege Escalation Tools                                                                                 | Post Exploitation           |
+| 39  | How to Prevent Risk & Incident handling? Prevent Incidents and provide a secure environment for our customers.       | Incident Response           |
+| 40  | How to Set CSRF cookie in an application?                                                                           | Web Application Security    |
+| 41  | What is Single-page-application-and-csrf-token?                                                                     | Web Application Security    |
+| 42  | How Burp Certificate works?                                                                                         | Web Application Security    |
+| 43  | What is Mitmproxy certificate authority?                                                                            | Web Application Security    |
+| 44  | How HttpOnly & CSP can prevent XSS?                                                                                | Web Application Security    |
+| 45  | How the Browser understands that the site is legitimate?                                                            | Web Application Security    |
+| 46  | How to Fix IDOR/MFLA in SPA?                                                                                        | Web Application Security    |
+| 47  | What are the list of Burp extensions that you are familiar with?                                                        | Web Application Security    |
+| 48  | When you want to brute force with the same session or token, how do you do it in Burp?                                   | Web Application Security    |
+| 49  | How do you configure Burp to perform Continuous pentest?                                                               | Web Application Security    |
+| 50  | What is the "SameSite" Cookie does?                                                                                   | Web Application Security    |
+| 51  | Difference between SSRF and RFI?                                                                                     | Web Application Security    |
+| 52  | What are the basic recommendations that you give for SSRF?                                                             | Web Application Security    |
+| 53  | Difference between RFI and LFI?                                                                                      | Web Application Security    |
+| 54  | How do you perform Blind XXE attack (True/False & structure-based attack)?                                            | Web Application Security    |
+| 55  | How to Fix DOM XSS? What is inner HTML & eval function in the JS code?                                                | Web Application Security    |
+| 56  | List of 'HTTP Header based Attacks' & Checks?                                                                        | Web Application Security    |
+| 57  | What is OS shell in SQLmap? How does it work?                                                                         | Web Application Security    |
+| 58  | How do you perform WAF Bypass using SQLmap?                                                                           | Web Application Security    |
+| 59  | What are the SQL queries for "Union Based SQL injection"?                                                             | Web Application Security    |
+| 60  | What is Blind SQL injection?                                                                                         | Web Application Security    |
+| 61  | What is Second Order SQL injection?                                                                                  | Web Application Security    |
+| 62  | What is Union Based SQL injection?                                                                                   | Web Application Security    |
+| 63  | Difference between Stored Procedure & Prepared Statements?                                                            | Web Application Security    |
+| 64  | What are the lists of API testing requirements that you will ask from the customer?                                   | Web Application Security    |
+| 65  | Difference between SOAP and REST API?                                                                                | Web Application Security    |
+| 66  | How to take "Ransomware" through a web application?                                                                   | Web Application Security    |
+| 67  | Which page Ransomware affects 1st in a web application server?                                                         | Web Application Security    |
+| 68  | What are the encoding techniques or XSS fixes when there are specific recommendations?                                | Web Application Security    |
+| 69  | How to implement ACL without touching the code in App Security?                                                        | Web Application Security    |
+| 70  | How do you attack when an application just provides a login page?                                                     | Web Application Security    |
+| 71  | What are the login-based attacks to perform in an application?                                                          | Web Application Security    |
+| 72  | List of 'HTTP Header based Attacks' & Checks?                                                                        | Web Application Security    |
+| 73  | How to perform root cause analysis (RCA) in web app security?                                                          | Web Application Security    |
+| 74  | List of attacks to be performed in Single Page Application (SPA)?                                                     | Web Application Security    |
+| 75  | List of tools used for lateral movement?                                                                             | Network Security            |
+| 76  | Difference between Risk Assessment and Vulnerability Management?                                                      | Risk Management             |
+| 77  | What actions would you take as an information security engineer if a product production environment is hacked, and isolation or server downtime is not feasible? | Incident Response & Management|
+| 78  | Can you provide a list of red teaming tools you have used in your security assessments, and how do they contribute to identifying vulnerabilities and improving security? | Red Team Exercises           |
+| 79  | Describe the network penetration testing activities you have performed, including specific details on active directory attacks, firewall/router/WAF/IPS/IDS security reviews, and configuration reviews. | Network Penetration Testing   |
+| 80  | Explain the concept of threat hunting and provide examples of tools you have used for threat hunting, insider threat assessments, and conducting threat modeling reviews. | Threat Hunting               |
+| 81  | Define DevSecOps and elaborate on the integration of security practices into the DevOps pipeline. Mention specific tools you have used to enhance security in the DevSecOps process. | DevSecOps                     |
+| 82  | Can you discuss any recent Advanced Persistent Threat (APT) attacks that have gained attention in the cybersecurity landscape, and how organizations can defend against such threats? | APT Attacks                   |
+| 83  | Differentiate between Red Teaming and Blue Teaming exercises. How do these activities contribute to strengthening an organization's security posture, and what are the key objectives of each? | Red Team vs. Blue Team        |
+| 84  | Share an experience where you successfully executed a social engineering attack, detailing the tactics used and the lessons learned in terms of improving security awareness. | Social Engineering            |
+
+
 Cyber Security Responsible Disclosure organisation
 ==================================================
-
+- Yet to add
 
 Cyber Security NGOs
 ==========
-
+- Yet to add
 
 Cyber Security Job Portals:
 =======================
@@ -665,14 +799,35 @@ When a user got the job or the company got the candidate then the job should be 
 
 Cyber Security Products
 ===============================
-
+- Yet to add
 
 Cyber Security Certifications
 ===================
 
+| SNO | Certification Type          | Certification Name                                     |
+|-----|-----------------------------|---------------------------------------------------------|
+| 1   | Cloud Security              | Certifications in Azure                                |
+| 2   | Cloud Security              | AWS Certifications                                     |
+| 3   | Network Security            | CCNA (Cisco Certified Network Associate)                |
+| 4   | Network Security            | CCNP (Cisco Certified Network Professional)             |
+| 5   | Firewall & Infrastructure   | FortiGate Certifications                                |
+| 6   | General Cybersecurity       | CISSP (Certified Information Systems Security Prof.)   |
+| 7   | General Cybersecurity       | CEH (Certified Ethical Hacker)                          |
+| 8   | Offensive Security          | OSCP (Offensive Security Certified Professional)       |
+| 9   | Application Security        | GWAPT (GIAC Web Application Penetration Tester)        |
+| 10  | Application Security        | GPEN (GIAC Penetration Tester)                          |
+| 11  | Application Security        | GSE (GIAC Security Expert)                              |
+| 12  | Application Security        | GSSP-Java (GIAC Secure Software Programmer - Java)    |
+| 13  | Application Security        | GWEB (GIAC Web Application Defender)                   |
+| 14  | Application Security        | CAST (Certified Application Security Tester)           |
+| 15  | Offensive Security          | OSCE (Offensive Security Certified Expert)             |
+| 16  | Offensive Security          | OSWE (Offensive Security Web Expert)                   |
+| 17  | DevSecOps                    | CSSLP (Certified Secure Software Lifecycle Prof.)      |
+
 
 List of Vulnerabilities
 ===================
+- Yet to add
 
 Trending CVEs:
 =============
@@ -687,18 +842,21 @@ Trending CVEs:
 
 Attack of the year
 ==================
-Capture the types of attacks performed everyyear
+- Yet to add
+- Capture the types of attacks performed everyyear
 
 
 Top Data breaches in the World
 ================
-72 Biggest data breaches: https://www.upguard.com/blog/biggest-data-breaches
+- Yet to add
+- 72 Biggest data breaches: https://www.upguard.com/blog/biggest-data-breaches
 
 
 Cyber Security Predictions by Experts
 ===========
-Display predictions from various company sites
-Sort 'Layoffs' 'Cut off' Keywords along with the date and predict the future employement in cyber security
+- Yet to add
+- Display predictions from various company sites
+- Sort 'Layoffs' 'Cut off' Keywords along with the date and predict the future employement in cyber security
 
 
 Cyber Security Tools
@@ -831,22 +989,27 @@ Exploits for after you have already gained access.
 
 Attack Surface Management:
 ===================
+- Yet to add
 
 Vulnerability Management:
 ===================
+- Yet to add
 
 Dark Web:
 ===================
+- Yet to add
 
 Threat Intelligence Platforms:
 ===================
+- Yet to add
 
 Cyber Security Books
 ===================
-
+- Yet to add
 
 Cyber Security Articles
 ===================
+- Yet to add
 
 
 Cyber Security Blogs
@@ -854,147 +1017,234 @@ Cyber Security Blogs
 - [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 
 
-
 Cyber Security News
 ===================
-Breach history of 2023: https://inc42.com/buzz/decoding-the-taj-hotels-data-breach-and-indias-growing-cybersecurity-battle/
-https://malware.news/
+- Yet to add
+- Breach history of 2023: https://inc42.com/buzz/decoding-the-taj-hotels-data-breach-and-indias-growing-cybersecurity-battle/
+- Malware News: https://malware.news/
 
 Programming Language [Scripting]
 ====================
-History of technologies
-Why the programming language came?
-What problem it is solving?
-Organization based languages (Like hack (facebook), Gscript (Guidewire) etc.,)
+- Yet to add
+- History of technologies
+- Why the programming language came?
+- What problem it is solving?
+- Organization based languages (Like hack (facebook), Gscript (Guidewire) etc.,)
+
+Beginning with programming is the initial step in delving into the realm of security. Numerous languages are available, with Python being the most widely chosen, given its simplicity and popularity. PHP and Go, although less favored for security-related tasks, are still viable options. Bash and Powershell, primarily employed for scripting and creating straightforward CLI applications, serve different purposes.
+
+Given the distinct characteristics of programming languages, it's crucial to understand their workings and align them with your learning objectives. For instance, C++ and Java involve compilation, while PHP and Python are interpreted languages. This distinction significantly influences their practical applications. Moreover, each language incorporates its unique design patterns.
+
+### Scripting
+
+- Bash
+- Powershell
+
+### Software & mobile apps
+
+- Java
+- Swift
+- C / C++ / C#
+
+### General purpose
+
+- Python
+- Ruby
+- Perl
+- PHP
+- Go
+
+
+| SNO | Programming Name | Founding Year | Purpose                                     |
+|-----|-------------------|---------------|---------------------------------------------|
+| 1   | Perl              | 1987          | General-purpose, text processing, web development|
+| 2   | Python            | 1989          | Versatile, general-purpose programming language|
+| 3   | Java              | 1995          | Platform-independent, object-oriented programming|
+| 4   | PHP               | 1995          | Server-side scripting for web development   |
+| 5   | JavaScript        | 1995          | Web development, client-side scripting      |
+| 6   | ColdFusion        | 1995          | Rapid web application development            |
+| 7   | Ruby              | 1995          | General-purpose scripting and web development|
+| 8   | JSP               | 1999          | Java Server Pages for dynamic web pages      |
+| 9   | PowerShell        | 2006          | Task automation and configuration management|
+| 10  | ASP.Net           | 2002          | Web framework for building dynamic web applications|
+| 11  | Swift             | 2014          | Developed by Apple, used for iOS/macOS app development|
 
 Cyber Security Research Papers/Ideas
 ===================
-Scholar articles, blackhat papers
-
+- Yet to add
+- Scholar articles, blackhat papers
 
 
 Cyber Security Conferences [Events/Programs]
 ===========
-Events, Conferences, Cyber Programs
-https://www.secureworld.io/events
+- Yet to add
+- Events, Conferences, Cyber Programs
+- Secure World Events - https://www.secureworld.io/events
 
 Cyber Security Annual Reports
 ==============
-Threat Reports
-Vulnerability Reports
-CVE reports
-Cyber Attack Report
-OWASP Report
-Government Report
+- Yet to add
+- Threat Reports
+- Vulnerability Reports
+- CVE reports
+- Cyber Attack Report
+- OWASP Report
+- Government Report
 
 Cyber Security Research Community [forums/discords]
 ===========================
-
+- Yet to add
 
 Cyber Security Complaint Portals
 ===================
+- Yet to add
 
 Cyber Security Reviews/Ratings: [Companies/Users/Products]
 =================
-Cyber Companies
-Users
-Products
-Technology
-Vulnerability
+- Yet to add
+- Cyber Companies
+- Users
+- Products
+- Technology
+- Vulnerability
 
 
 Cyber Security Search Engines
 ===============
-Social search: OSINT framework
-https://www.tracelabs.org/
+- Yet to add
+- Social search: OSINT framework
+- TraceLabs - https://www.tracelabs.org/
 
 
 Threat Hunting
 ==============
-https://github.com/hslatman/awesome-threat-intelligence
+- Yet to add
+- Awesome Threat Intelligence: https://github.com/hslatman/awesome-threat-intelligence
 
 Cyber Security Government Websites
 ===================
-Cyber Security Agencies
+- Yet to add
+- Cyber Security Agencies
 
 List of APT Groups
 ==========
+- Yet to add
 
 Top hackers in the world [Hackers Ranks]
 ============================
-Ranking Infosec community in the World based on their contribution [twitter posts/github tools/articles/blogs/research]
-Industry based hackers who reported serious vulnerabilities which is currently harming many.
+- Yet to add
+- Ranking Infosec community in the World based on their contribution [twitter posts/github tools/articles/blogs/research]
+- Industry based hackers who reported serious vulnerabilities which is currently harming many.
 
 List of Search Queries: [SIEM/Splunk/Snort & IDS/IPS - Monitoring/Logging tools]
 ================
-Develop search queries and indicators of compromise to identify potential malicious activities.
-Leverage Threat Intelligence Feeds,
-Known Malware Signatures, 
-Behavioral analytics.
-Firewall Rules/Configurations [Audit]
-Splunk/Snort Rules
-SIEM/SOAR queries
-Log files queries
-Network Traffic dumps
-Endpoint Logs [Client/Server Logs]
+- Yet to Add
+- Develop search queries and indicators of compromise to identify potential malicious activities.
+- Leverage Threat Intelligence Feeds,
+- Known Malware Signatures,
+- Behavioral analytics.
+- Firewall Rules/Configurations [Audit]
+- Splunk/Snort Rules
+- SIEM/SOAR queries
+- Log files queries
+- Network Traffic dumps
+- Endpoint Logs [Client/Server Logs]
+
+| S NO | Tool Name | Log file name | Example | Description |
+|------|-----------|---------------|---------|-------------|
+| 1    | Splunk    | splunkd.log   | `index=main sourcetype=splunkd` | Querying Splunk daemon logs for general Splunk server activity. |
+| 2    | Snort     | alert.ids     | `alert tcp any any -> any 80 (msg:"Potential HTTP traffic"; sid:100001; rev:1;)` | Writing a Snort rule to detect potential HTTP traffic. |
+| 3    | IDS/IPS   | intrusion.log | `signature_id=1234` | Searching IDS/IPS logs for a specific signature ID (1234 in this example). |
+| 4    | SIEM      | security.log  | `event_id=4625` | Using a SIEM to look for Windows security events with event ID 4625 (failed login attempts). |
+| 5    | Splunk    | firewall.log  | `index=firewall action=permit` | Querying firewall logs in Splunk to identify permitted actions. |
+| 6    | Snort     | dns.log       | `alert dns any any -> any any (msg:"Potential DNS traffic"; sid:100002; rev:1;)` | Creating a Snort rule to detect potential DNS traffic. |
+| 7    | IDS/IPS   | connection.log | `source_address=malicious_ip` | Searching IDS/IPS logs for connections from a specific source IP (malicious_ip in this example). |
+| 8    | SIEM      | authentication.log | `user=admin` | Using a SIEM to search for authentication logs with a specific username (admin in this example). |
+| 9    | Splunk    | application.log | `index=main sourcetype=application error` | Querying application logs in Splunk for errors. |
+| 10   | Snort     | ftp.log       | `alert ftp any any -> any any (msg:"Potential FTP traffic"; sid:100003; rev:1;)` | Crafting a Snort rule to detect potential FTP traffic. |
+| 11   | IDS/IPS   | malware.log   | `file_hash=abcdef123456` | Searching IDS/IPS logs for entries related to a specific file hash (abcdef123456 in this example). |
+| 12   | SIEM      | system.log    | `event_type=system_shutdown` | Using a SIEM to find system logs related to a shutdown event. |
+
 
 List of Malwares [Trojans/Worms]
 =========
-Known Malwares and analysis platform
-Check if ChatGPT integration is possible to create a malware
+- Yet to add
+- Known Malwares and analysis platform
+- Check if ChatGPT integration is possible to create a malware
 
 Hacking Videos:
 ===============
-https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass
-https://www.vulnhub.com/
-https://overthewire.org/wargames/
-Certification videos
+- Yet to add
+- Burp: https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass
+- VulnHub: https://www.vulnhub.com/
+- OverTheWire: https://overthewire.org/wargames/
+- Certification videos
 
 
 List of Cyber attack maps [Threat Attack maps]
 ==========================
-https://www.internationalcybersecuritycentre.com/live-attack-maps-(16) [16 types]
-https://norse-corp.com/map/ [15 types]
-https://www.educationcyber.com/2020/02/04/live-cyber-attack-maps/ [12 types]
-https://medevel.com/13-cyber-threats-live-maps/ [13 types]
-https://securitytrails.com/blog/cyber-attack-maps [10 types]
-https://www.csoonline.com/article/562681/8-top-cyber-attack-maps-and-how-to-use-them-2.html [8 types]
-https://www.redlegg.com/blog/cyber-threat-maps [8 types]
-https://hackersonlineclub.com/live-cyber-attack-maps/ [8 types]
+
+| S NO | Organization | Threat Map URL |
+|------|--------------|-----------------|
+| 1    | A10 Networks | [https://threats.a10networks.com/](https://threats.a10networks.com/) |
+| 2    | Arbor Networks | [https://www.digitalattackmap.com/](https://www.digitalattackmap.com/) |
+| 3    | Bitdefender | [https://threatmap.bitdefender.com](https://threatmap.bitdefender.com) |
+| 4    | Cisco Talos | [https://talosintelligence.com/](https://talosintelligence.com/) |
+| 5    | Checkpoint | [https://threatmap.checkpoint.com/](https://threatmap.checkpoint.com/) |
+| 6    | Cloudflare | [https://radar.cloudflare.com/security-and-attacks](https://radar.cloudflare.com/security-and-attacks) |
+| 7    | Deutsche Telekom | [https://www.sicherheitstacho.eu/#/en/tacho](https://www.sicherheitstacho.eu/#/en/tacho) |
+| 8    | FortiGuard | [https://threatmap.fortiguard.com/](https://threatmap.fortiguard.com/) |
+| 9    | HTTPCS | [https://map.httpcs.com/](https://map.httpcs.com/) |
+| 10   | Imperva | [https://www.imperva.com/cyber-threat-attack-map/](https://www.imperva.com/cyber-threat-attack-map/) |
+| 11   | Kaspersky | [https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/) |
+| 12   | MyCloud | [https://dashboard.mycloudconnection.com/attacks](https://dashboard.mycloudconnection.com/attacks) |
+| 13   | Orange | [https://bis-threatmap.orange.ro/#](https://bis-threatmap.orange.ro/#) |
+| 14   | Threatbutt | [https://threatbutt.com/map](https://threatbutt.com/map) |
+| 15   | Radware | [https://livethreatmap.radware.com/](https://livethreatmap.radware.com/) |
+| 16   | Raven | [https://qeeqbox.github.io/raven/index.html](https://qeeqbox.github.io/raven/index.html) |
+| 17   | Netscout | [https://horizon.netscout.com/](https://horizon.netscout.com/) |
+| 18   | Sonicwall | [https://attackmap.sonicwall.com/live-attack-map/](https://attackmap.sonicwall.com/live-attack-map/) |
+| 19   | Sonicwall | [https://securitycenter.sonicwall.com/m/page/worldwide-attacks](https://securitycenter.sonicwall.com/m/page/worldwide-attacks) |
+| 20   | Spamhaus | [https://www.spamhaus.com/threat-map/](https://www.spamhaus.com/threat-map/) |
+| 21   | SteadyNet | [https://dashboard.mycloudconnection.com/attacks](https://dashboard.mycloudconnection.com/attacks) |
+
+## Outdated:
+
+| S NO | Threat Map / Cyber Threat Visualization | URL | Description |
+|------|-----------------------------------------|-----|-------------|
+| 1    | Akamai                                  | [Akamai Real-Time Web Monitor](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp) | Akamai's Real-Time Web Monitor for visualizing web threats. |
+| 2    | BlueLiv                                 | [BlueLiv Community Map](https://community.blueliv.com/map) | BlueLiv Community Map for visualizing cyber threats. |
+| 3    | FireEye                                 | [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) | FireEye's Cyber Threat Map for real-time threat visualization. |
+| 4    | Looking Glass                           | [Looking Glass Cyber Threat Map](https://map.lookingglasscyber.com) | Looking Glass Cyber Threat Map displaying live threat data. |
+| 5    | Norse IPViking                          | [Norse IPViking Map](http://www.norse-corp.com/map) | Norse IPViking Map providing insights into cyber attacks. |
+| 6    | Pixalate                                | [Pixalate Threat Map](http://www.pixalate.com/map) | Pixalate Threat Map for visualizing cyber threats. |
+| 7    | Trend Micro                             | [Trend Micro Botnet Threat Map](https://botnet-cd.trendmicro.com/) | Trend Micro's Botnet Threat Map for visualizing global botnet activity. |
 
 
-A10 				https://threats.a10networks.com/
-Arbor Networks      https://www.digitalattackmap.com/
-Bitdefender         https://threatmap.bitdefender.com
-Cisco Talos         https://talosintelligence.com/
-Checkpoint          https://threatmap.checkpoint.com/
-Cloudflare			https://radar.cloudflare.com/security-and-attacks
-Deutsche Telekom    https://www.sicherheitstacho.eu/#/en/tacho
-FortiGuard          https://threatmap.fortiguard.com/
-HTTPCS				https://map.httpcs.com/
-Imperva				https://www.imperva.com/cyber-threat-attack-map/
-Kaspersky           https://cybermap.kaspersky.com/
-Looking Glass       https://map.lookingglasscyber.com
-MyCloud             https://dashboard.mycloudconnection.com/attacks
-Norse IPViking      http://www.norse-corp.com/map
-Orange 				https://bis-threatmap.orange.ro/#
-Threatbutt          https://threatbutt.com/map
-Radware 			https://livethreatmap.radware.com/
-Raven 				https://qeeqbox.github.io/raven/index.html
-Netscout 			https://horizon.netscout.com/
-Sonicwall 			https://attackmap.sonicwall.com/live-attack-map/
-Sonicwall			https://securitycenter.sonicwall.com/m/page/worldwide-attacks
-Spamhaus 			https://www.spamhaus.com/threat-map/
-SteadyNet			https://dashboard.mycloudconnection.com/attacks
+1. International Cyber Security Centre. (n.d.). [Live Attack Maps](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)) [16 types]
 
-Outdated:
+2. Norse Corporation. (n.d.). [Norse Live Cyber Attack Map](https://norse-corp.com/map/) [15 types]
 
-Akamai              https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp
-BlueLiv             https://community.blueliv.com/map
-FireEye             https://www.fireeye.com/cyber-map/threat-map.html
-Looking Glass       https://map.lookingglasscyber.com
-Norse IPViking      http://www.norse-corp.com/map
-Pixalate            http://www.pixalate.com/map
-Trend Micro         https://botnet-cd.trendmicro.com
+3. Education Cyber. (2020, February 4). [Live Cyber Attack Maps](https://www.educationcyber.com/2020/02/04/live-cyber-attack-maps/) [12 types]
+
+4. Medevel. (n.d.). [13 Cyber Threats Live Maps](https://medevel.com/13-cyber-threats-live-maps/) [13 types]
+
+5. SecurityTrails. (n.d.). [Cyber Attack Maps: A Comprehensive Guide](https://securitytrails.com/blog/cyber-attack-maps) [10 types]
+
+6. CSO Online. (n.d.). [8 top cyber attack maps and how to use them](https://www.csoonline.com/article/562681/8-top-cyber-attack-maps-and-how-to-use-them-2.html) [8 types]
+
+7. RedLegg. (n.d.). [Cyber Threat Maps: Visualizing Cyber Attacks in Real-Time](https://www.redlegg.com/blog/cyber-threat-maps) [8 types]
+
+8. Hackers Online Club. (n.d.). [Live Cyber Attack Maps](https://hackersonlineclub.com/live-cyber-attack-maps/) [8 types]
 
 
+
+## Conclusion:
+
+In conclusion, the curated content spans a comprehensive array of cybersecurity domains, tools, techniques, and frameworks, providing a valuable resource for both novice learners and seasoned professionals in the field. The organized structure facilitates easy navigation and quick reference, making it an ideal repository for those seeking insights into the multifaceted landscape of cybersecurity.
+
+From foundational concepts such as terminology, frameworks, and methodologies to specialized areas like threat intelligence, incident response, and penetration testing, the content covers a broad spectrum of knowledge. The inclusion of specific tools, certifications, and real-world scenarios enhances its practical utility, promoting a holistic understanding of cybersecurity practices.
+
+Furthermore, the meticulous categorization of topics, interview questions, and search queries streamlines access to relevant information. The addition of live cyber attack map references and comprehensive APA-formatted citations enriches the content's depth and credibility.
+
+In essence, this compilation serves as a dynamic reference hub, fostering continuous learning, exploration, and proficiency development within the ever-evolving landscape of cybersecurity.
