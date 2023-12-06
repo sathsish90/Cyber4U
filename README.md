@@ -5,7 +5,8 @@ Pentesting Master List: https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blo
 
 Awesome Collections:
 A collection of awesome penetration testing and offensive cybersecurity resources.
-https://github.com/enaqx/awesome-pentest
+[https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
+[theHarvester](https://github.com/laramies/theHarvester)
 A collection of awesome penetration testing resources
 https://github.com/Muhammd/Awesome-Pentest
 A collection of awesome penetration testing resources
