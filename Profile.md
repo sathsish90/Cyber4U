@@ -34,5 +34,14 @@
 | 30   | ChatNode      | [Create a ChatBot](#) |
 | 31   | Take Lessons   | [Activate the account](#) |
 | 32   | Udemy         | [Activate the account and start posting videos](#) |
+| 33   | Buy Me a Coffee | [buymeacoffee.com](https://buymeacoffee.com/) |
+| 35   | Notion          | [notion.com](https://www.notion.com/) |
+| 36   | Spotify         | [spotify.com](https://www.spotify.com/) |
+| 37   | Zoom            | [zoom.us](https://zoom.us/) |
+| 38   | Fiverr          | [fiverr.com](https://www.fiverr.com/) |
+| 39   | Upwork          | [upwork.com](https://www.upwork.com/) |
+| 40   | Guru            | [guru.com](https://www.guru.com/) |
+| 41   | Freelancer      | [freelancer.com](https://www.freelancer.com/) |
+
 
 
