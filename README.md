@@ -101,6 +101,12 @@ Cyber Security Key terminologies
 | 38  | Social Engineering   | In the realm of information security, it involves psychologically manipulating people to perform actions or divulge confidential information. | Phishing attacks, Impersonation, Pretexting.       |
 | 39  | Threat Analyst       | A professional using manual or machine-assisted techniques to proactively detect security incidents that automated systems may overlook.     | Analyzing network traffic patterns for signs of a potential cyber attack, Investigating suspicious activity logs. |
 
+- Encryption
+- Decrption
+- Encoding
+- Decoding
+- Hashing
+
 Methodologies:
 =============
 https://www.mindmeister.com/app/map/3060742562
