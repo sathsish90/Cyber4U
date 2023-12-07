@@ -1499,6 +1499,7 @@ List of Malwares [Trojans/Worms]
 # Awesome Collections:
 
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Awesome Burp Extentions - SnoopySecurity](https://github.com/snoopysecurity/awesome-burp-extensions) 
 - [Trickest CVE](https://github.com/trickest/cve/)
 - [Awesome Pentesting Tools Collection](https://github.com/NoThrowForwardIt/awesome-pentest-tools/blob/master/list.txt)
 - [Programming Checklist](https://github.com/R0B1NL1N/AWESOME-Pentest)
