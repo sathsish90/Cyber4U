@@ -1567,6 +1567,12 @@ List of Malwares [Trojans/Worms]
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
 - [Topics Based Search](https://github.com/topics/penetration-testing)
 
+# AI for begineers
+
+- https://twitter.com/AlphaSignalAI
+- https://github.com/microsoft/generative-ai-for-beginners
+- https://github.com/fr0gger/Awesome-GPT-Agents
+
 
 List of Cyber attack maps [Threat Attack maps]
 ==========================
