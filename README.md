@@ -1026,6 +1026,29 @@ Exploits for after you have already gained access.
 | 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
 | 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
 
+Antivirus Evasion Techniques:
+=============================
+- Polymorphic Malware
+- Encrypted Payloads
+- Code Obfuscation
+- Dynamic Code Loading
+- Fileless Malware
+
+Best Practices for Security:
+============================
+- Multilayered Security
+- Regular Updates
+- User Education
+- Network Segmentation
+- Behavioral Analysis
+- Incident Response Plan
+- Least Privilege Principle
+- Security Awareness Training
+- Endpoint Protection
+- Regular Security Audits
+- Collaboration and Information Sharing
+- Zero Trust Security Model
+
 #### :package: Containers:
 
 - [Docker (Udemy)](https://www.udemy.com/courses/search/?price=price-free&q=Docker&sort=relevance&src=ukw)
