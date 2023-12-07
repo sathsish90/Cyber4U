@@ -1485,6 +1485,18 @@ List of Malwares [Trojans/Worms]
 - Known Malwares and analysis platform
 - Check if ChatGPT integration is possible to create a malware
 
+# Escalating the privilege
+- http://blog.g0tmi1k.com/2011/08/basic-linux-privilege- escalation.html 
+- http://securitysift.com/offsec-pwb-oscp/
+- MS 08-067
+
+# Exploit writing
+
+- http://corelan.be/
+- http://www.securitytube.net/groups?operation=viewall&groupId =0
+- http://opensecurity.in/exploit-research-and-development- megaprimer/
+- http://opensecuritytraining.info/Training.html
+
 # Master List:
 
 - [SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
@@ -1561,8 +1573,7 @@ List of Malwares [Trojans/Worms]
 # Sample Styles:
 - https://github.com/paulveillard/cybersecurity-pentest
 - https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
-- 
-
+  
 # Practice the following:
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
 - [Topics Based Search](https://github.com/topics/penetration-testing)
