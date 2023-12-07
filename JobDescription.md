@@ -122,3 +122,67 @@
 ## Web Technologies and Protocols
 
 - XML, SOAP, JSON, and Ajax
+
+
+- ⚡️ **Roles in Cybersecurity**
+  - Role of CISO
+  - Pentest Roles
+  - SOC Roles
+  - Incident Management Roles
+
+- ⚡️ **Cybersecurity Threats and Trends**
+  - Current Threat Landscape
+  - Emerging Threat Response
+  - Attack Vectors
+  - Trends in Cybersecurity
+
+- ⚡️ **Cryptographic Weakness**
+  - Common Cryptographic Weaknesses
+
+- ⚡️ **Authentication Protocols**
+  - SAML
+  - OAuth
+  - Open ID Connect
+
+- ⚡️ **Application Layer Security**
+  - Articles on Application Layer Security
+  - Security Protocols in Application Layer
+
+- ⚡️ **Cloud Security Assessments**
+  - Security Assessments in SaaS, PaaS, IaaS
+
+- ⚡️ **Leadership Report**
+  - Reporting to Executive Leadership
+  - Legal and HR in Cybersecurity
+  - Collaboration with Product and IT Teams
+
+- ⚡️ **Incident Response**
+  - NIST Incident Response
+  - SANS Incident Handler
+
+- ⚡️ **Threat Hunting and Detection**
+  - Threat Hunting Techniques
+  - Threat Analysis and Assessment
+  - Detection and Monitoring Strategies
+
+- ⚡️ **Client Applications**
+  - Difference between Thick and Thin Client Applications
+
+- ⚡️ **Web Services and Protocols**
+  - XML, XPath, AJAX, and JSON
+  - REST and SOAP Services
+
+- ⚡️ **Web Security Assessments**
+  - Platforms like Webgoat, DVWA, Mutillidae
+  - OWASP (BWA) Broken Web Application
+  - Google Gruyere and Testfire
+
+- ⚡️ **Security Resources**
+  - Packet Storm Security
+  - HTTPS Attacks and Proxy Handling
+  - Encryption Techniques (AES, DES, MD5)
+
+- ⚡️ **Hashing and Cryptography**
+  - Basics of Hash Functions
+  - Cryptographic Encoding (Base64, NTLM)
+  - Language-Based Vulnerabilities (e.g., lang=en,ru)
