@@ -94,3 +94,34 @@
 92. Stringandintegerbased
 93. UserAgent SQL Injection
 94. WAF Bypass
+
+
+
+# Topics in Cybersecurity and Related Areas
+
+1. SCADA Hacks - 2010 Stuxnet Attack on Israeli Siemens Company Control System
+2. Water Treatment Plant Security - Chlorine Addition Vulnerabilities
+3. Ransomware in Russia
+4. Pacemaker Security Risks
+5. Internet of Things (IoT) Security
+6. Blockchain Security
+7. Social Engineering in Cyber Attacks
+8. Personal Details Exposure in Cyber Incidents
+9. Mobile Threats and Vulnerabilities
+10. Underworld Interconnection in Politics and Business
+11. Money Laundering in the Cyber Realm
+12. Hawala Money Laundering
+13. Account Hacking and Circulation of Illicit Funds in Banks
+14. Current Crime Sections in Cybersecurity
+15. Organized Cyber Crime Landscape Over the Past 10 Years
+16. Evolution of the Cyber Crime Movement
+17. Red Team Operations - Adversarial Assessments for Organizational Improvement
+18. Next Web - International Developments in Cyberspace
+19. Coworks - Bugihium House, Bangalore (Co-working Spaces Pricing)
+20. Current Utility Bills and Expenses
+21. Association Networks and the Legacy of Silk Road
+22. Trillion-Dollar Underground Dark Web Economy
+23. Smuggling Revenues and Illicit Trade in Cyberspace
+24. Crime as a Service (CAAS) - Outsourcing Criminal Activities
+25. Progress in Cybersecurity Risk Management
+26. Prominent Cybersecurity Cases Reported in 2015
