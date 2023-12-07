@@ -8,10 +8,6 @@
 
 - [Q&A with 17-year-old OSCP, Kunal Khubchandani - His Thoughts on OSCP](https://latesthackingnews.com/2018/09/25/qa-with-17-year-old-oscp-kunal-khubchandani-his-thoughts-on-oscp/)
 
-## Vulnerability and Pentesting Platforms
-
-- [Vulnhub](https://www.vulnhub.com/)
-
 ## Security Whitepapers and Analysis
 
 - [Owned - Malicious PDF Analysis](https://www.sans.org/reading-room/whitepapers/malicious/owned-malicious-pdf-analysis-33443)
@@ -63,7 +59,6 @@
 - [CS261n Project](http://www.icir.org/vern/cs261n/project.html)
 - [Remote Access VPN Network Design Behind NAT Router](http://projectsinnetworking.com/remote-access-vpn-network-design-behind-nat-router/)
 - [GCC Compiler Download CodeBlocks 12.11](http://www.thecrazyprogrammer.com/2013/06/gcc-compiler-download-codeblocks-1211.html)
-
 
 # Honeypot
 
@@ -208,3 +203,139 @@
 - [Devilslab - Blog](http://devilslab.in/)
 - [Twitter - @s4n7h0](https://twitter.com/s4n7h0)
 
+# Black Hat 2018 tools list - 2018 Black Hat Conference
+
+| S NO | Tool Name                                               | Type                                          | Link                                                       |
+|------|---------------------------------------------------------|-----------------------------------------------|------------------------------------------------------------|
+| 1    | Vulnerable iOS app: Swift version                      | Android, iOS, and mobile hackers              | [DVIA-v2](https://github.com/prateek147/DVIA-v2)            |
+| 2    | OWASP dependency check                                 | Code evaluation                               | [DependencyCheck](https://github.com/jeremylong/DependencyCheck) |
+| 3    | Cougar scan                                             | Encryption                                    | [Puma Scan](https://github.com/pumasecurity/puma-scan)     |
+| 4    | DeepViolet: SSL/TLS scanning API and tools              | Data forensics and incident response         | [DeepViolet](https://github.com/spoofzu/DeepViolet)        |
+| 5    | Bro: Data forensics and incident response              | Data forensics and incident response         | [Bro](https://github.com/bro/bro)                          |
+| 6    | CyBot: Open Source Threat Intelligence Chatbot          | CyBot: Open Source Threat Intelligence Chatbot | [CyBot](https://github.com/CylanceSPEAR/CyBot)              |
+| 7    | LogonTracer                                            | Data forensics and incident response         | [LogonTracer](https://github.com/JPCERTCC/LogonTracer)     |
+| 8    | Rastrea2r (reload!): Collect and hunt IOC with Gusto and Style | Data forensics and incident response         | [Rastrea2r](https://github.com/rastrea2r/rastrea2r)        |
+| 9    | RedHunt OS (VM): Virtual machine for adversary emulation and threat search | Exploitation and ethical hacking             | [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS)    |
+| 10   | AVET: AntiVirus Evasion Tool                            | Exploitation and ethical hacking             | [AVET](https://github.com/govolution/avet)                |
+| 11   | Docker Security Playground                              | Exploitation and ethical hacking             | [DSP](https://github.com/giper45/DockerSecurityPlayground) |
+| 12   | hideNsneak: Attack Confusion Framework                  | Exploitation and ethical hacking             | [hideNsneak](https://github.com/rmikehodges/hideNsneak)     |
+| 13   | Merlin                                                  | Exploitation and ethical hacking             | [Merlin](https://github.com/Ne0nd0g/merlin)                |
+| 14   | RouterSploit                                            | Exploitation and ethical hacking             | [RouterSploit](https://github.com/threat9/routersploit)    |
+| 15   | ChipWhisperer                                          | Hardware / Embedded                          | [ChipWhisperer](https://github.com/newaetech/chipwhisperer) |
+| 16   | JTAGulator: Uncover the Achilles heel of hardware security | Hardware / Embedded                       | [JTAGulator](https://github.com/grandideastudio/jtagulator) |
+| 17   | Micro-Renovator: Bring the processor firmware into the code | Hardware / Embedded                       | [MicroRenovator](https://github.com/syncsrc/MicroRenovator) |
+| 18   | TumbleRF: RF Blur becomes easy                          | Hardware / Embedded                          | [TumbleRF](https://github.com/riverloopsec/tumblerf)      |
+| 19   | Walrus: Make the most of your card cloning device        | Hardware / Embedded                          | [Walrus](https://github.com/TeamWalrus/Walrus)             |
+| 20   | Scalable Dynamic Analysis Framework for IoT Devices      | IoT                                           | [DECAF](https://github.com/sycurelab/DECAF)               |
+| 21   | BLE CTF project                                         | IoT                                           | [ble_ctf](https://github.com/hackgnar/ble_ctf)            |
+| 22   | WHID Syringe and WHID Elite: Next Generation HID Aggressive Device | IoT                              | [WHID](https://github.com/whid-injector/WHID)             |
+| 23   | Provides advanced deep learning analysis platform for every security researcher | Malware Defense         | [Resilient-ML-Research-Platform](https://github.com/intel/Resilient-ML-Research-Platform) |
+| 24   | EKTotal                                                 | Malware Defense                              | [EKTotal](https://github.com/nao-sec/ektotal)             |
+| 25   | Firmware Audit: Platform Firmware Security Automation for Blue Teams and DFIR | Malware Defense       | [fwaudit](https://github.com/PreOS-Security/fwaudit)      |
+| 26   | MaliceIO                                                | Malware Defense                              | [MaliceIO](https://github.com/maliceio/malice)            |
+| 27   | see MacOS Security Tools                                | Malware Defense                              | [Objective-See](https://github.com/objective-see)         |
+| 28   | BloodHound 1.5                                          | Malware Offensive                            | [BloodHound](https://github.com/BloodHoundAD/BloodHound)  |
+| 29   | armory                                                  | Cyber attack                                  | [armory](https://github.com/depthsecurity/armory)        |
+| 30   | Chiron: An advanced IPv6 security assessment and penetration testing framework | Cyber attack     | [Chiron](https://github.com/aatlasis/Chiron)              |
+| 31   | DELTA: SDN Security Assessment Framework                | Cyber attack                                  | [DELTA](https://github.com/OpenNetworkingFoundation/DELTA) |
+| 32   | Mallet: Intercepting agent for any protocol              | Cyber attack                                  | [Mallet](https://github.com/sensepost/mallet)            |
+| 33   | PowerUpSQL: PowerShell Toolkit for attacking SQL Server in an enterprise environment | Cyber attack | [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)       |
+| 34   | WarBerryPi                                              | Cyber attack                                  | [WarBerryPi](https://github.com/secgroundzero/warberry)   |
+| 35   | ANWI (New Wireless IDS): $5 WIDS                        | Network Defense                               | [ANWI](https://github.com/SanketKarpe/anwi)              |
+| 36   | CHIRON: Home-based network analysis and machine learning threat detection framework | Network Defense | [chiron-elk](https://github.com/jzadeh/chiron-elk)      |
+| 37   | Cloud Security Suite: One-stop tool for AWS/GCP/Azure security auditing | Cloud Security                         | [cs-suite](https://github.com/SecurityFTW/cs-suite)       |
+| 38   | DejaVu: An open source spoofing framework                | Cloud Security                                | [Dejavu](https://github.com/bhdresh/Dejavu)              |
+| 39   | DataSploit 2.0                                          | OSINT                                         | [DataSploit](https://github.com/DataSploit/datasploit)    |
+| 40   | Dradis framework: Learn how to reduce reporting time by half | OSINT                                  | [Dradis CE](https://github.com/dradis/dradis-ce)          |
+| 41   | Snake: Malware Storage Zoo                               | Reverse Engineering                          | [Snake](https://github.com/countercept/snake)             |
+| 42   | GRFICS: Graphic Realism Framework for Industrial Control Simulation | Smart Grid/Industrial Safety            | [GRFICS](https://github.com/djformby/GRFICS)              |
+| 43   | Robustness Toolbox for Machine Learning Models           | Vulnerability Assessment                    | [adversarial-robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) |
+| 44   | ADA: Android Dynamic Analysis Tool                       | Vulnerability Assessment                    | [ADA](https://github.com/ANELKAOS/ada)                    |
+| 45   | Archery: Open Source Vulnerability Assessment and Management | Vulnerability Assessment                | [Archery](https://github.com/archerysec/archerysec)       |
+| 46   | Boofuzz                                                 | Vulnerability Assessment                    | [Boofuzz](https://github.com/jtpereyda/boofuzz)           |
+| 47   | BTA                                                     | Vulnerability Assessment                    | [BTA](https://github.com/airbus-seclab/bta)               |
+| 48   | DeepExploit: Machine learning-based penetration testing tool | Vulnerability Assessment             | [DeepExploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit) |
+| 49   | Halcyon IDE: for Nmap script developers                  | Vulnerability Assessment                    | [Halcyon](https://github.com/s4n7h0/Halcyon)              |
+| 50   | SimpleRisk                                              | Vulnerability Assessment                    | [SimpleRisk](https://github.com/simplerisk)               |
+| 51   | TROMMEL                                                 | Vulnerability Assessment                    | [TROMMEL](https://github.com/CERTCC/trommel)              |
+| 52   | ModSec 3.0: Software Web Application Firewall           | Web AppSec                                    | [ModSecurity](https://github.com/SpiderLabs/ModSecurity)  |
+| 53   | Astra: Automatic security testing of the REST API        | Web AppSec                                    | [Astra](https://github.com/flipkart-incubator/Astra)      |
+| 54   | Burp Replicator: Replication of automated complex vulnerabilities | Web AppSec                       | [Replicator](https://github.com/PortSwigger/replicator)   |
+| 55   | OWTF: OWASP offensive web testing framework              | Web AppSec                                    | [OWTF](https://github.com/owtf/owtf)                      |
+| 56   | OWASP JoomScan project                                   | Web AppSec                                    | [JoomScan](https://github.com/rezasp/joomscan)            |
+| 57   | WSSAT                                                   | Web AppSec                                    | [WSSAT](https://github.com/YalcinYolalan/WSSAT)           |
+
+
+1. **Elastic Search**
+   - Website: [Elastic Search](https://www.elastic.co/products/elasticsearch)
+
+2. **Mind Tree**
+   - Website: [Mind Tree](http://www.amanhardikar.com/mindmaps.html)
+
+3. **Cybrary**
+   - Website: [Cybrary](https://www.cybrary.it/)
+
+### Basics:
+
+- [Ethical Hacking Tutorial](https://www.tutorialspoint.com/ethical_hacking/)
+- 172 Videos Playlist: [YouTube Playlist](https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
+- 14 Hours Full Video: [YouTube Full Video](https://www.youtube.com/watch?v=vg9cNFPQFqM&t=52314s)
+- Everything about Kali Linux Playlist: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM)
+- Medium Level Training: [YouTube Playlist](https://www.youtube.com/playlist?list=PLZGJs9SzxCwokDthOJBxGL9BiucUfokzB)
+
+### Informational Websites:
+
+- [AdSecurity](https://adsecurity.org/)
+- [Checkpoint Blog](http://blog.checkpoint.com/)
+- [InfoSec Institute Resources](http://resources.infosecinstitute.com)
+
+### Tools and News Sites:
+
+- [Pentest Monkey](http://pentestmonkey.net/)
+- [Packet Storm Security](https://packetstormsecurity.com/)
+- [The Register Security Section](https://www.theregister.co.uk/security/)
+- Indianised: [The Hacker News](https://thehackernews.com)
+
+### GitHub Collections:
+
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Pentest](https://github.com/loveshell/awesome-pentest)
+- [Penetration Testing](https://github.com/wtsxDev/Penetration-Testing)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+
+### Web Hacking:
+
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+
+### Cheat Sheets:
+
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+
+### Top 5 Tools that IT Pros Love:
+
+- [Netwrix - Top 5 Auditing Tools](http://www.netwrix.com/top_5_auditing_tools.html?checked_product=all)
+
+# Burp Tools
+
+1. [ReconAIzer](https://github.com/hisxo/ReconAIzer)
+2. [ChatCVE](https://github.com/jasona7/ChatCVE)
+3. [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA)
+4. [autoDecoder](https://github.com/f0ng/autoDecoder)
+5. [PyCript](https://github.com/Anof-cyber/PyCript)
+6. [burpsuite-js-extractor](https://github.com/PatrikFehrenbach/burpsuite-js-extractor)
+7. [BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)
+8. [blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf)
+9. [Confus3r](https://github.com/rishikesh-j/Confus3r)
+10. [awesome-bambdas](https://github.com/254Labs/awesome-bambdas)
+11. [pii-finder-burp-extension](https://github.com/felipecaon/pii-finder-burp-extension)
+12. [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls)
+13. [vulnrepo](https://github.com/kac89/vulnrepo)
+14. [burpsuite-bambdas](https://github.com/0x999-x/burpsuite-bambdas)
+15. [Bambdas](https://github.com/BugBountyzip/Bambdas)
+16. [awesome-bambdas](https://github.com/254Labs/awesome-bambdas)
+17. [BurpExtensions](https://github.com/jasufo/BurpExtensions)
+18. [burpsuite-extensions](https://github.com/0xquad/burpsuite-extensions)
