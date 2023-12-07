@@ -14,6 +14,20 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 
 **This project is currently under progress and anyone who is willing to contribute is welcome.
 
+## Checklist
+
+- Rework on Awesome Collection List
+- Read Trickest and collect details
+- Read Master List and Segregate Sub Categories
+- Collect all the Gihub and online resources related to Pentesting, Red teaming & Threat Hunting
+- Update the necessary details in each sections
+- Create a Search Engine
+- Key words based search Filter
+- Title, Tags, Roles, Topics based search Filters
+- Application Dashboard
+- One Stop Solution for Cyber security
+- AI to generate Auto response - https://app.getonboardai.com/chat
+  
 ----
 
 ## Before you start
@@ -553,10 +567,20 @@ Responsible Disclosure organisation
 - Display the minimum and maximum bounty limits
 - Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
 
-Bug Bounty Platforms
-===================
+# Bug Bounty Platforms and Resources:
+
 - yet to add
 - Integrate bug bounty platforms to the earning opportunities.
+
+- [Bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
+- [HackerOne](https://hackerone.com/bug-bounty-programs)
+- [Open Bug Bounty](https://www.openbugbounty.org/)
+- [Synack](https://www.synack.com/)
+- [Facebook](https://www.facebook.com/whitehat)
+- [GitHub](https://bounty.github.com/)
+- [Microsoft](https://www.microsoft.com/en-us/msrc/bounty)
+- [Bug Hunter’s Methodology](https://www.youtube.com/watch?v=uKWu6yhnhbQ)
+
 
 CTF Platforms
 ===================
@@ -569,6 +593,8 @@ Vulnerable Labs
 - Lab creation is another earning opportunity
 
 ## Online Vulnerable Labs [Production]
+
+# Practice Platforms:
 
 | SNO | Resource | Description | Link |
 | --- | -------- | ----------- | ---- |
@@ -587,10 +613,59 @@ Vulnerable Labs
 | 13  | Pentester Labs | Online platform for hands-on cybersecurity training. | [Pentester Labs](https://pentesterlab.com/profile/sathsish90) |
 | 14  | Burp Labs | Web security training and labs by PortSwigger. | [Burp Labs](https://portswigger.net/web-security/dashboard) |
 
+# Web Applications:
+
+- [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
+- [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/)
+- [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/)
+- [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
+- [Foundstone Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx)
+- [Foundstone Hackme Books](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx)
+- [Foundstone Hackme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)
+- [Foundstone Hackme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx)
+- [Foundstone Hackme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx)
+- [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/)
+- [WackoPicko](https://github.com/adamdoupe/WackoPicko)
+- [BadStore](http://www.badstore.net/)
+- [WebSecurity Dojo](http://www.mavensecurity.com/web_security_dojo/)
+- [BodgeIt Store](http://code.google.com/p/bodgeit/)
+- [hackxor](http://hackxor.sourceforge.net/cgi-bin/index.pl)
+- [SQLol](https://github.com/SpiderLabs/SQLol)
+- [CryptOMG](https://github.com/SpiderLabs/CryptOMG)
+- [XMLmao](https://github.com/SpiderLabs/XMLmao)
+- [GameOver](http://sourceforge.net/projects/null-gameover/)
+- [Zap WAVE](http://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip)
+- [PuzzleMall](http://code.google.com/p/puzzlemall/)
+- [VulnApp](http://www.nth-dimension.org.uk/blog.php?id=88)
+- [sqli-labs](https://github.com/Audi-1/sqli-labs)
+- [SocketToMe](https://digi.ninja/projects/sockettome.php)
+- [Gh0st Lab](http://www.gh0st.net/)
+- [HackThis](http://www.hackthis.co.uk/)
+- [HackQuest](http://www.hackquest.com/)
+- [Hack.me](https://hack.me)
+- [Hacking-Lab](https://www.hacking-lab.com)
+- [Hacker Test](http://www.hackertest.net/)
+- [Hax.Tor](http://hax.tor.hu/)
+- [Security Treasure Hunt](http://www.securitytreasurehunt.com/)
+- [Smash The Stack](http://www.smashthestack.org/)
+- [ThisIsLegal](http://thisislegal.com/)
+
+# Mobile Applications:
+
+- [ExploitMe Mobile Android Labs](http://securitycompass.github.io/AndroidLabs/)
+- [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
+- [OWASP iGoat](http://code.google.com/p/owasp-igoat/)
+- [OWASP Goatdroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+- [Damn Vulnerable iOS App (DVIA)](http://damnvulnerableiosapp.com/)
+- [Damn Vulnerable Android App (DVAA)](https://code.google.com/p/dvaa/)
+- [Damn Vulnerable FirefoxOS Application (DVFA)](https://github.com/pwnetrationguru/dvfa/)
+- [NcN Wargame](http://noconname.org/evento/wargame/)
+- [Hacme Bank Android](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
 
 ## Offline Vulnerable Labs [Local Env]
 - Yet to add
 - Docker: https://github.com/vulhub/vulhub
+- Multiple VMs: https://github.com/r3dy/capsulecorp-pentest
 
 Cyber Security Company Acquisition updates:
 ============================
@@ -726,8 +801,12 @@ Cyber Security Job Portals:
 
 When a user got the job or the company got the candidate then the job should be expired.
 
+Cyber Security Job Roles
+=======================
+
+
 Cyber Security Products
-===============================
+=======================
 - Yet to add
 
 Cyber Security Certifications
@@ -788,7 +867,7 @@ Cyber Security Predictions by Experts
 - Sort 'Layoffs' 'Cut off' Keywords along with the date and predict the future employement in cyber security
 
 
-Cyber Security Tools
+Cyber Security Weapons/Tools
 ===================
 
 | SNO | Tool Name | Description | Link | Category |
@@ -822,6 +901,7 @@ Information Gathering tools allows you to collect host metadata about services a
 | [Wfuzz](https://github.com/xmendez/wfuzz)      | **Python** | `Linux/Windows/macOS` | Web application fuzzer. |
 | [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
 | [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)      | **Go** | `Linux/macOS` | An OSINT framework for phone numbers. |
+| [Maryam OSINT](https://github.com/saeeddhqan/Maryam) | - | - | - |
 
 #### :lock: Password Attacks
 
@@ -896,9 +976,7 @@ Exploits for after you have already gained access.
 | ----------- |-------------------------|----------|----------------|
 | [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
 
-
-:package: Frameworks
-===========
+#### :package: Frameworks
 
 | S No | Framework Name | Language | Description |
 | ---- | -------------- | -------- | ----------- |
@@ -916,8 +994,8 @@ Exploits for after you have already gained access.
 | 12   | [MISP - Malware Information Sharing Platform & Threat Sharing](https://github.com/MISP/MISP) | **PHP** | MISP is an open-source threat intelligence platform designed to improve the sharing of structured threat information. |
 | 13   | [OWTF (Offensive Web Testing Framework)](https://github.com/owtf/owtf) | **Python** | Offensive Web Testing Framework (OWTF), an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python. |
 
-Living off the land:
-====================
+#### :package: Living off the land:
+
 | SNO | Topic                                      | Link                                           | Description                                                                   |
 |-----|--------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------|
 | 1   | LOLBins (Living Off The Land Binaries)      | [LOLBAS GitHub](https://github.com/LOLBAS-Project/LOLBAS/tree/master) | A collection of living-off-the-land binaries and scripts for Windows penetration testing. |
@@ -927,9 +1005,8 @@ Living off the land:
 | 5   | HTAGen - Hash Tag Generator for LOLBins      | [HTAGen](https://htagen.loldrivers.io/)                  | A tool to generate hashtags for use with Twitter posts about LOLBins.           |
 | 6   | MagicSword - LOLDrivers Project              | [MagicSword GitHub](https://github.com/magicsword-io/LOLDrivers) | A fork of the LOLDrivers project with additional features and improvements.   |
 
+#### :package: Active directory Tools:
 
-Active directory Tools:
-=================
 | SNO | Topic | Author | Link | Description |
 | --- | ----- | ------ | ---- | ----------- |
 | 1   | Twitter Account - lefayjey | - | [Twitter - lefayjey](https://twitter.com/lefayjey) | Active Twitter account for updates and discussions on Active Directory. |
@@ -943,9 +1020,22 @@ Active directory Tools:
 | 9   | navi GitHub Repository - Pentesting Commands | - | [navi GitHub](https://github.com/denisidoro/navi) | GitHub repository offering pentesting command suggestions. |
 | 10  | Certipy GitHub Repository - Active Directory Certificate Services Tool | ly4k | [Certipy GitHub](https://github.com/ly4k/Certipy) | Offensive tool for enumerating and abusing Active Directory Certificate Services. |
 
+#### :package: Containers:
 
-List of Cheatsheets:
-====================
+- [Docker (Udemy)](https://www.udemy.com/courses/search/?price=price-free&q=Docker&sort=relevance&src=ukw)
+- [HOUDINI](https://github.com/cybersecsi/HOUDINI)
+- [Kubernetes (Udemy)](https://www.udemy.com/topic/kubernetes/free/)
+
+#### :package: Cloud Security:
+
+- [AWS Free Training](https://aws.amazon.com/blogs/training-and-certification/tag/free-training/)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/azure/)
+- [Google Cloud Learning Path Offer](https://cloud.google.com/training/learning-path-offer)
+- [Everything Cloud (YouTube)](https://www.youtube.com)
+
+#### :package: List of Cheatsheets:
+
 S NO | Cheat Sheet Name | GitHub Link | Description
 -----|-------------------|-------------|-------------
 1    | ELHacker          | [Cheat Sheet](https://elhacker.info/manuales/Cheat%20Sheet/) | ELHacker's Cheat Sheet
@@ -958,6 +1048,166 @@ S NO | Cheat Sheet Name | GitHub Link | Description
 8    | Penetration-Testing-Cheatsheet | [Cheat Sheet](https://github.com/zer0yu/Penetration-Testing-Cheatsheet) | Penetration Testing Cheatsheet
 9    | RedTeam_CheetSheets | [Cheat Sheet](https://github.com/zer0yu/RedTeam_CheetSheets) | RedTeam CheetSheets
 10   | SecLists | [Cheat Sheet](https://github.com/danielmiessler/SecLists) | SecLists
+11   | Cloud Pentesting | [Cheatsheet for Cloud Pentesting](https://testdintrusion.fr/pentest/cloud/) | Cloud Pentesting
+
+#### :package: Pentest Cheat Sheets
+
+- [SecuProject - Pentest Cheat Sheet](https://github.com/SecuProject/Pentest-Cheat-Sheet)
+- [Alexelefth - Pentest Cheat Sheet](https://github.com/alexelefth/pentest-cheatsheet)
+- [DMTaddict - Pentest Cheat Sheet (In Russian)](https://github.com/dmtaddict/Pentest-cheatsheet)
+
+#### :package: Offensive-Pentesting-Host
+
+Penetration testing tools cheat sheet, a quick reference high-level overview for typical penetration testing engagements. Convenient commands for your pentesting/red-teaming engagements, OSCP, and CTFs.
+
+- [Offensive-Pentesting-Host Cheat Sheet](https://github.com/armourinfosec/Offensive-Pentesting-Host)
+
+#### :package: Mobile Application Penetration Testing
+
+- [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileAppPentest-Cheatsheet)
+- [Awesome Mobile Application Penetration Testing](https://github.com/ByteHackr/AwesomeMobilePentest)
+
+#### :package: Cyber Security Cheatsheets
+
+- [Cyber Security Cheatsheets](https://github.com/tevers200/cyber-security-cheatsheets)
+
+#### :package: OmegaSpard Pentest Cheat Sheet
+
+- [OmegaSpard Pentest Cheat Sheet](https://github.com/omegaspard/omegaspard-pentest-cheat-sheet)
+
+#### :package: Penetration Testing Tools
+
+- [Penetration Testing Tools Cheat Sheet](https://github.com/TristanGitHub/Penetration-Testing)
+- [Repository Containing Useful Commands](https://github.com/Moumi/Penetration-Testing)
+
+# Android Reports and Resources
+
+## HackerOne Reports
+
+### Hardcoded Credentials
+
+- [Disclosure of all uploads via hardcoded api secret](https://hackerone.com/reports/351555)
+
+### WebView
+
+- [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
+- [Account Takeover Via DeepLink](https://hackerone.com/reports/855618)
+- [Sensitive information disclosure](https://hackerone.com/reports/401793)
+
+### RCE/ACE
+
+- [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
+- [RCE in TinyCards for Android (Report Private)](https://hackerone.com/reports/281605)
+- [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC](https://hackerone.com/reports/971386)
+- [CVE-2020-8913: Persistent arbitrary code execution in Google Play Core library](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
+
+### Memory Corruption
+
+- [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
+
+### Cryptography
+
+- [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
+
+### SQL Injection
+
+- [SQL Injection in Content Provider](https://hackerone.com/reports/291764)
+
+### Session Theft
+
+- [Steal user session](https://hackerone.com/reports/328486)
+
+### Steal Files
+
+- [Android security checklist: theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
+- [How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse)
+- [Vulnerable to local file steal, Javascript injection, Open redirect](https://hackerone.com/reports/499348)
+- [Token leakage due to stolen files via unprotected Activity](https://hackerone.com/reports/288955)
+- [Steal files due to exported services](https://hackerone.com/reports/258460)
+- [Steal files due to unprotected exported Activity](https://hackerone.com/reports/161710)
+- [Steal files due to insecure data storage](https://hackerone.com/reports/44727)
+- [Insecure local data storage, makes it easy to steal files](https://hackerone.com/reports/57918)
+
+### Bypasses
+
+- [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
+- [Golden techniques to bypass host validations](https://hackerone.com/reports/431002)
+- [Two-factor authentication bypass due to vuln endpoint](https://hackerone.com/reports/202425)
+- [Another endpoint Auth bypass](https://hackerone.com/reports/205000)
+- [Bypass PIN/Fingerprint lock](https://hackerone.com/reports/331489)
+- [Bypass lock protection](https://hackerone.com/reports/490946)
+- [Bypass of biometrics security functionality](https://hackerone.com/reports/637194)
+
+### XSS
+
+- [HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065)
+- [XSS via SAMLAuthActivity](https://hackerone.com/reports/283058)
+- [XSS in ImageViewerActivity](https://hackerone.com/reports/283063)
+- [XSS via start ContentActivity](https://hackerone.com/reports/189793)
+- [XSS on Owncloud webview](https://hackerone.com/reports/87835)
+
+### Privilege Escalation
+
+- [Discovering vendor-specific vulnerabilities in Android](https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/)
+- [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
+- [Two weeks of securing Samsung devices: Part 2](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
+- [Two weeks of securing Samsung devices: Part 1](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
+- [Intent Spoofing](https://hackerone.com/reports/97295)
+- [Access of some not exported content providers](https://hackerone.com/reports/272044)
+- [Access protected components via intent](https://hackerone.com/reports/200427)
+- [Fragment injection](https://hackerone.com/reports/43988)
+- [Javascript injection](https://hackerone.com/reports/54631)
+
+### CSRF
+
+- [Deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987)
+
+### Case Sensitive Account Collisions
+
+- [Overwrite account associated with email via android application](https://hackerone.com/reports/187714)
+
+### Intercept Broadcasts
+
+- [Possible to intercept broadcasts about file uploads](https://hackerone.com/reports/167481)
+- [Vulnerable exported broadcast reciever](https://hackerone.com/reports/289000)
+- [View every network request response's information](https://hackerone.com/reports/56002)
+
+## Practice Apps
+
+- [Oversecured Vulnerable Android App](https://github.com/oversecured/ovaa)
+- [Damn Vulnerable Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
+- [InsecureShop](https://github.com/optiv/InsecureShop)
+- [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+- [InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
+- [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+- [Damn Insecure and Vulnerable app](https://github.com/payatu/diva-android)
+- [OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+- [Sieve mwrlabs](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+
+## Tools
+
+- [Android - PentestBook](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
+- [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
+- [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+
+## Resources
+
+- [OWASP top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
+- [OWASP mobile testing guide](https://github.com/OWASP/owasp-mstg)
+- [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
+- [Detect secret leaks in Android apps online](https://android.fallible.co/)
+- [Android Security Guidelines](https://developer.box.com/docs/android-security-guidelines)
+- [Attacking vulnerable Broadcast Recievers](https://manifestsecurity.com/android-application-security-part-18/)
+- [Android Webview Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
+- [Android reverse engineering recon](https://b3nac.com/posts/2017-11-10-Setup-and-tips-for-Android-APK-recon.html)
+- [Webview addjavascriptinterface RCE](https://labs.mwrinfosecurity.com/blog/webview-addjavascriptinterface-remote-code-execution/)
+- [Install PLayStore On Android Emulator](https://medium.com/@dai_shi/installing-google-play-services-on-an-android-studio-emulator-fffceb2c28a1)
+- [Android Bug Bounty Tips](https://medium.com/bugbountyhunting/bug-bounty-hunting-tips-2-target-their-mobile-apps-android-edition-f88a9f383fcc)
+- [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+- [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
+- [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
+- [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+- [Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
 
 
 Attack Surface Management:
@@ -987,7 +1237,19 @@ Cyber Security Articles
 
 Cyber Security Blogs
 ===================
-- [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
+
+SNO | Blog Title | Link
+----|------------|-----
+1   | Reddit NetSec Getting Started | [Reddit NetSec Getting Started](https://www.reddit.com/r/netsec/wiki/start) - Historically a very good resource, but it was last updated 4 years ago
+2   | Mubix’s curated list of Infosec newbie resources | [Mubix’s Infosec Newbie Resources](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31#file-infosec_newbie-md) - @mubix (Rob Fuller), a red teamer turned purple teamer. He started his career in the United States Marine Corps working with explosives and has gone on to have a highly successful career in the security industry working at companies like Rapid7, GE, Uber, Cruise Automation, and now Black Hills Information Security
+3   | Drunkrhin0’s Medium article | [Drunkrhin0’s Medium article](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f)
+4   | Daniel Miessler - How to Build a Cybersecurity Career | [How to Build a Cybersecurity Career](https://danielmiessler.com/blog/build-successful-infosec-career/)
+5   | Starting an InfoSec Career – The Megamix - Lesley Carhart | [Starting an InfoSec Career – The Megamix Chapters 1-3](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
+6   | Starting an InfoSec Career – The Megamix - Lesley Carhart | [Starting an InfoSec Career – The Megamix Chapters 4-5](https://tisiphone.net/2015/11/08/starting-an-infosec-career-the-megamix-chapters-4-5/)
+7   | SANS Cyber Aces | [SANS Cyber Aces](https://www.cyberaces.org/courses.html)
+8   | Cybrary | [Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
+9   | Coursera | [Coursera](https://www.coursera.org/specializations/intro-cyber-security)
+10  | Starting in Cyber Security? | [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 
 
 Cyber Security News
@@ -1053,6 +1315,55 @@ Cyber Security Conferences [Events/Programs]
 - Yet to add
 - Events, Conferences, Cyber Programs
 - Secure World Events - https://www.secureworld.io/events
+- Conference: https://infosec-conferences.com/
+- ShmooCon
+- ThotCon
+- CactusCon
+- OWASP
+- BSides
+- DEFCON
+- BlackHat
+
+Cyber Security PodCasts & VLogs
+===============
+- Yet to add
+- Awesome Security talks (2012-2020): https://github.com/PaulSec/awesome-sec-talks
+- Collection https://digitalguardian.com/blog/best-information-security-podcasts
+- Audible https://www.audible.com/pd/Hacking-into-Security-Career-Talks-Podcast/B08K57S4H1?qid=1641412127
+- YouTube See the YouTube section below for details
+- Burp: https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass
+- VulnHub: https://www.vulnhub.com/
+- OverTheWire: https://overthewire.org/wargames/
+- Certification videos
+
+Cyber Security VLogs:
+=============
+
+SNO | YouTube Name | Link
+----|--------------|-----
+1   | The Cyber Mentor | [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos?view=0&sort=p&flow=grid)
+2   | Cover 6 Solutions | [Cover 6 Solutions](https://www.youtube.com/c/Cover6Solutions/videos?view=0&sort=p&flow=grid)
+3   | John Hammond | [John Hammond](https://www.youtube.com/c/JohnHammond010/videos?view=0&sort=p&flow=grid)
+4   | Farah Hawa | [Farah Hawa](https://www.youtube.com/c/FarahHawa/videos?view=0&sort=p&flow=grid)
+5   | Nahamsec | [Nahamsec](https://www.youtube.com/c/Nahamsec/videos?view=0&sort=p&flow=grid)
+6   | IppSec | [IppSec](https://www.youtube.com/c/ippsec/videos?view=0&sort=p&flow=grid)
+7   | DC CyberSec | [DC CyberSec](https://www.youtube.com/c/DCcybersec/videos?view=0&sort=p&flow=grid)
+8   | Rana Khalil | [Rana Khalil](https://www.youtube.com/c/RanaKhalil101/videos?view=0&sort=p&flow=grid)
+9   | The Pwn School Project | [The Pwn School Project](https://www.youtube.com/c/ThePwnSchoolProject/videos?view=0&sort=p&flow=grid)
+10  | PwnFunction | [PwnFunction](https://www.youtube.com/c/PwnFunction/videos?view=0&sort=p&flow=grid)
+11  | Hack eXPlorer | [Hack eXPlorer](https://www.youtube.com/c/HackeXPlorer/videos?view=0&sort=p&flow=grid)
+12  | Hak5 | [Hak5](https://www.youtube.com/c/hak5/videos?view=0&sort=p&flow=grid)
+13  | Jack Rhysider | [Jack Rhysider](https://www.youtube.com/c/JackRhysider/videos?view=0&sort=p&flow=grid)
+14  | Cyberspatial | [Cyberspatial](https://www.youtube.com/c/Cyberspatial/videos?view=0&sort=p&flow=grid)
+15  | Nato as Code | [Nato as Code](https://www.youtube.com/c/NatoasCode/videos?view=0&sort=p&flow=grid)
+16  | InsiderPhD | [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos?view=0&sort=p&flow=grid)
+17  | Gerald Auger - Simply Cyber | [Gerald Auger - Simply Cyber](https://www.youtube.com/c/GeraldAuger/videos?view=0&sort=p&flow=grid)
+18  | MrTurvey | [MrTurvey](https://www.youtube.com/c/MrTurvey/videos?view=0&sort=p&flow=grid)
+19  | Hacksplained | [Hacksplained](https://www.youtube.com/c/Hacksplained/videos?view=0&sort=p&flow=grid)
+20  | HackerSploit | [HackerSploit](https://www.youtube.com/c/HackerSploit/videos?view=0&sort=p&flow=grid)
+21  | NetworkChuck | [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos?view=0&sort=p&flow=grid)
+22  | HacksForPancakes | [HacksForPancakes](https://www.youtube.com/c/hacks4pancakes/videos?view=0&sort=p&flow=grid)
+
 
 Cyber Security Annual Reports
 ==============
@@ -1145,49 +1456,86 @@ List of Malwares [Trojans/Worms]
 - Known Malwares and analysis platform
 - Check if ChatGPT integration is possible to create a malware
 
-Hacking Videos:
-===============
-- Yet to add
-- Burp: https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass
-- VulnHub: https://www.vulnhub.com/
-- OverTheWire: https://overthewire.org/wargames/
-- Certification videos
+# Master List:
 
+- [SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
+- [All in One Awesome List](https://medium.com/@datasciencenexus/all-in-one-awesome-cyber-security-resources-be03c7a9643)
+- [s0cm0nkey - All Best Links & Resources](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking)
+- [Tools Search in Awesome Hacking](https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/)
+- [Pentest Collection Search](https://pentestbook.six2dez.com/recon/public-info-gathering)
+- [Book Type](https://sudoninja.gitbook.io/sudoninjabook/)
+- [Trickest](https://github.com/trickest)
 
-[SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
 
 # Awesome Collections:
 
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Trickest CVE](https://github.com/trickest/cve/)
+- [Awesome Pentesting Tools Collection](https://github.com/NoThrowForwardIt/awesome-pentest-tools/blob/master/list.txt)
+- [Programming Checklist](https://github.com/R0B1NL1N/AWESOME-Pentest)
+- [Awesome Real-time Communications Hacking & Pentesting Resources](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- [Awesome GCP Pentesting](https://github.com/Littlehack3r/awesome-gcp-pentesting)
+- [Awesome API Security](https://github.com/arainho/awesome-api-security)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Diasdavid - Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Enaqx - A collection of awesome penetration testing and offensive cybersecurity resources.](https://github.com/enaqx/awesome-pentest)
+- [Enaqx - A collection of awesome penetration testing and offensive cybersecurity resources](https://github.com/enaqx/awesome-pentest)
 - [Muhammd - A collection of awesome penetration testing resources](https://github.com/Muhammd/Awesome-Pentest)
 - [x0x8x - A collection of awesome penetration testing resources](https://github.com/x0x8x/awesome-pentester)
 - [Arch3rPro - Pentesting Tools](https://github.com/arch3rPro/PentestTools)
 - [D3k4z - A collection of awesome penetration testing resources](https://github.com/d3k4z/Pentest_tools)
-- [Kc57 - A list of awesome penetration testing tools and resources](https://github.com/Kc57/Awesome-Pentest).
+- [Kc57 - A list of awesome penetration testing tools and resources](https://github.com/Kc57/Awesome-Pentest)
 - [Coreb1t - Collection of cheat sheets useful for pentesting](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
-- [Hack with Github - A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking).
-- [Kyuu-Ji - A curated list of useful tools and resources for penetration testing and securing Microsofts cloud platform Azure](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest).
+- [Hack with Github - A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Kyuu-Ji - A curated list of useful tools and resources for penetration testing and securing Microsoft's cloud platform Azure](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
 - [Awesome Pentest Gadgets](https://github.com/orgs/awesome-pentest-gadgets/repositories?type=all)
 - [CyberSecurityUP - Cloud PenTest - AWS and Azure by Joas](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
-- [h4cker - This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources](https://github.com/The-Art-of-Hacking/h4cker).
+- [h4cker - This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources](https://github.com/The-Art-of-Hacking/h4cker)
 - [Vitalysim - A collection of hacking / penetration testing resources to make you better!](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [InfoSlack - Web Security](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Bug Bounty Tools](https://reconshell.com/awesome-bug-bounty-tools/)
+  
+- # GitHub Topics: [Need to Rework on this]
+
+- [Hacking Topics](https://github.com/topics/hacking)
+- [Hack with GitHub](https://github.com/Hack-with-Github)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [Awesome Shell](https://github.com/alebcay/awesome-shell)
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+- [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
+- [Awesome Security Write-ups and POCs](https://github.com/dhaval17/awsome-security-write-ups-and-POCs)
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking)
+- [CTF Notes](https://github.com/Shiva108/CTF-notes)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Hacking Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)
+- [Awesome Ninja Admins](https://github.com/trimstray/awesome-ninja-admins)
+- [DarthSidious](https://github.com/chryzsh/DarthSidious)
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+
 
 # Sample Search Engines:
-- [Interactive CheatSheet](https://wadcoms.github.io/): https://wadcoms.github.io/
-- [Search Engine](https://github.com/WADComs/WADComs.github.io): https://github.com/WADComs/WADComs.github.io
-- [Threat market maps](https://thedemoforum.com/page/cybersecuritymarketmaps/): https://thedemoforum.com/page/cybersecuritymarketmaps/
-- [Cloudflare](https://radar.cloudflare.com/): https://radar.cloudflare.com/
-- [XDR](https://www.paloaltonetworks.com/cortex/cortex-xdr): https://www.paloaltonetworks.com/cortex/cortex-xdr
-- [Shell](https://shellizm.com/): https://shellizm.com/
-- [News](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)): https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)
-- [Github Terminal made up of Javascript](http://attackvector.org/): http://attackvector.org/
+- [Interactive CheatSheet](https://wadcoms.github.io/)
+- [Search Engine](https://github.com/WADComs/WADComs.github.io)
+- [Threat market maps](https://thedemoforum.com/page/cybersecuritymarketmaps/)
+- [Cloudflare](https://radar.cloudflare.com/)
+- [XDR](https://www.paloaltonetworks.com/cortex/cortex-xdr)
+- [Shell](https://shellizm.com/)
+- [News](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16))
+- [Github Terminal made up of Javascript](http://attackvector.org/)
+
+# Sample Styles:
+- https://github.com/paulveillard/cybersecurity-pentest
+- https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
+- 
 
 # Practice the following:
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
 - [Topics Based Search](https://github.com/topics/penetration-testing)
-
-
 
 
 List of Cyber attack maps [Threat Attack maps]
@@ -1229,6 +1577,7 @@ List of Cyber attack maps [Threat Attack maps]
 | 6    | Pixalate                                | [Pixalate Threat Map](http://www.pixalate.com/map) | Pixalate Threat Map for visualizing cyber threats. |
 | 7    | Trend Micro                             | [Trend Micro Botnet Threat Map](https://botnet-cd.trendmicro.com/) | Trend Micro's Botnet Threat Map for visualizing global botnet activity. |
 
+# References [Cyber Threat Map]
 
 1. International Cyber Security Centre. (n.d.). [Live Attack Maps](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16)) [16 types]
 
@@ -1246,7 +1595,9 @@ List of Cyber attack maps [Threat Attack maps]
 
 8. Hackers Online Club. (n.d.). [Live Cyber Attack Maps](https://hackersonlineclub.com/live-cyber-attack-maps/) [8 types]
 
+## Overall References:
 
+- https://github.com/B3nac/Android-Reports-and-Resources
 
 ## Conclusion:
 
