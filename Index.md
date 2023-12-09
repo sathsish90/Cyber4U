@@ -25,8 +25,10 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 - Key words based search Filter
 - Title, Tags, Roles, Topics based search Filters
 - Application Dashboard
+- Create Logos, Archs, Mindmaps for all the concepts
 - One Stop Solution for Cyber security
 - AI to generate Auto response - https://app.getonboardai.com/chat
+
   
 ----
 
@@ -929,7 +931,7 @@ Crack passwords and create wordlists.
 | ----------- |----------------|
 | [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
 
-#### :globe_with_meridians: Wireless Testing
+#### :globe_with_meridians: Wireless Security
 
 Used for intrusion detection and wifi attacks.
 
@@ -940,6 +942,10 @@ Used for intrusion detection and wifi attacks.
 | [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
 | [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)      | **Shell** | `Linux/Windows/macOS` | This is a multi-use bash script for Linux systems to audit wireless networks. |
 | [Airbash](https://github.com/tehw0lf/airbash)      | **C** | `Linux/Windows/macOS` | A POSIX-compliant, fully automated WPA PSK handshake capture script aimed at penetration testing. |
+
+#### :globe_with_meridians: System Security (Operating Systems)
+
+- [System Works - Multi-Threading CPU Scheduling](https://yc-kuo.medium.com/os-walkthrough-01-multi-threading-cpu-scheduling-3435ac7d7126)
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
@@ -962,6 +968,10 @@ Exploit popular CMSs that are hosted online.
 | [Joomscan](https://github.com/rezasp/joomscan)      | **Perl** | `Linux/Windows/macOS` | Joomla Vulnerability Scanner. |
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
 | [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 130 other CMSs. |
+
+#### :rocket: SSL Audit
+
+- [The Illustrated TLS 1.2 Connection](https://tls.ulfheim.net/)
 
 #### :wrench: Exploitation Tools
 
@@ -1062,6 +1072,11 @@ Best Practices for Security:
 - [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/azure/)
 - [Google Cloud Learning Path Offer](https://cloud.google.com/training/learning-path-offer)
 - [Everything Cloud (YouTube)](https://www.youtube.com)
+- [Google Workspace Vulnerable for Takeover](https://www.hunters.security/en/blog/delefriend-a-newly-discovered-design-flaw-in-domain-wide-delegation-could-leave-google-workspace-vulnerable-for-takeover)
+
+### SOC
+
+- [SIEM (Signoz)](https://signoz.io/)
 
 #### :package: List of Cheatsheets:
 
@@ -1078,6 +1093,7 @@ S NO | Cheat Sheet Name | GitHub Link | Description
 9    | RedTeam_CheetSheets | [Cheat Sheet](https://github.com/zer0yu/RedTeam_CheetSheets) | RedTeam CheetSheets
 10   | SecLists | [Cheat Sheet](https://github.com/danielmiessler/SecLists) | SecLists
 11   | Cloud Pentesting | [Cheatsheet for Cloud Pentesting](https://testdintrusion.fr/pentest/cloud/) | Cloud Pentesting
+- [Penetration Testing Tools Cheat Sheet](https://github.com/TristanGitHub/Penetration-Testing)
 
 #### :package: Pentest Cheat Sheets
 
@@ -1106,7 +1122,7 @@ Penetration testing tools cheat sheet, a quick reference high-level overview for
 
 #### :package: Penetration Testing Tools
 
-- [Penetration Testing Tools Cheat Sheet](https://github.com/TristanGitHub/Penetration-Testing)
+
 - [Repository Containing Useful Commands](https://github.com/Moumi/Penetration-Testing)
 
 # Android Reports and Resources
@@ -1499,6 +1515,7 @@ List of Malwares [Trojans/Worms]
 
 # Master List:
 
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university)
 - [SofianeHamlaoui, Pentest Bookmarks - Pentesting Master List](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz/blob/master/README.md)
 - [All in One Awesome List](https://medium.com/@datasciencenexus/all-in-one-awesome-cyber-security-resources-be03c7a9643)
 - [s0cm0nkey - All Best Links & Resources](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking)
@@ -1576,6 +1593,7 @@ List of Malwares [Trojans/Worms]
   
 # Practice the following:
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
+- [GPT Crawler](https://github.com/BuilderIO/gpt-crawler)
 - [Topics Based Search](https://github.com/topics/penetration-testing)
 
 # AI for begineers
@@ -1655,3 +1673,7 @@ From foundational concepts such as terminology, frameworks, and methodologies to
 Furthermore, the meticulous categorization of topics, interview questions, and search queries streamlines access to relevant information. The addition of live cyber attack map references and comprehensive APA-formatted citations enriches the content's depth and credibility.
 
 In essence, this compilation serves as a dynamic reference hub, fostering continuous learning, exploration, and proficiency development within the ever-evolving landscape of cybersecurity.
+
+# Logo/Images/Arch Diagram 
+
+- Samples - https://blog.nviso.eu/2023/07/31/unlocking-the-power-of-red-teaming-an-overview-of-trainings-and-certifications/
