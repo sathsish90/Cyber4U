@@ -1,6 +1,6 @@
 # Cyber4U - Cyber Security University
 
-<p align="center"><img src="https://sathish.co.in/images/Cyber4U.png" alt="Cyber4U Roadmap" /><br></p>
+<p align="center"><img src="https://sathish.co.in/images/Cyber4U/Cyber4U.png" alt="Cyber4U Roadmap" /><br></p>
 
 # Introduction
 
