@@ -1,4 +1,4 @@
-<img width="596" alt="image" src="https://github.com/sathsish90/Cyber4U/assets/31122297/c36a823d-766e-4e30-9d0a-1fc7855e23ad"># To-Do List for Cyber Security Career
+# To-Do List for Cyber Security Career
 
 1. Complete the Certification
 - Coursera - [Cybersecurity Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate?action=enroll)
