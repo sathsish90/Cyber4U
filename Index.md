@@ -104,6 +104,56 @@ Cyber Security Key terminologies
 | 38  | Social Engineering   | In the realm of information security, it involves psychologically manipulating people to perform actions or divulge confidential information. | Phishing attacks, Impersonation, Pretexting.       |
 | 39  | Threat Analyst       | A professional using manual or machine-assisted techniques to proactively detect security incidents that automated systems may overlook.     | Analyzing network traffic patterns for signs of a potential cyber attack, Investigating suspicious activity logs. |
 
+- Vulnerability: A vulnerability refers to a weakness or flaw in a system's design, implementation, or operation that could be exploited to compromise the system's security. It represents a potential entry point for attackers and Often describing weaknesses or gaps in security measures that could be exploited by malicious actors.
+- Payload: In the context of cyber security, a payload is a piece of code or software that is delivered to and executed on a target system. It is designed to carry out a specific action, often with malicious intent, once activated.
+- Exploit: An exploit is a technique or method used to take advantage of a vulnerability or weakness in a system. It is typically employed to compromise the security of the target system and gain unauthorized access or control.
+- Vulnerability Assessment: Vulnerability assessment involves systematically identifying, analyzing, and quantifying vulnerabilities in a system or network. The goal is to evaluate the security posture and provide insights into potential risks. It often includes processes like scanning, penetration testing, and risk analysis.
+- Penetration Testing: Penetration testing, or pen testing, is a simulated cyber attack on a system, network, or application to identify and exploit vulnerabilities. The purpose is to assess the security posture and evaluate the effectiveness of existing security measures.
+- Security Audit: A security audit is a systematic evaluation of an organization's information systems, policies, and procedures. It aims to ensure that security controls are implemented effectively and that the organization is compliant with relevant security standards.
+- Threat Vector: A threat vector is a path or means by which a threat actor can gain access to a target system. It encompasses the methods and channels used to deliver a cyber threat.
+- Zero-Day Exploit: A zero-day exploit targets a previously unknown vulnerability in a system, application, or software. It takes advantage of the fact that there are zero days of protection against this newly discovered vulnerability.
+- Security Posture: Security posture refers to the overall strength and effectiveness of an organization's security measures. It reflects its ability to defend against, respond to, and recover from security threats.
+Penetration Testing: It involves actively testing systems, networks, or applications to identify vulnerabilities and weaknesses.
+- Vulnerability Risk Prioritization: This involves assessing and ranking vulnerabilities based on their potential impact and likelihood of exploitation.
+- Adversary Exercises: These exercises simulate real-world cyberattacks to test an organization's response capabilities.
+Application Security Testing: It includes assessing the security of applications through techniques like code review, penetration testing, and static/dynamic analysis.
+Cyber Hygiene: Cyber hygiene refers to the practices and measures individuals and organizations adopt to maintain a healthy and secure cybersecurity posture.
+Cybersecurity Concepts (CIA): CIA represents the triad of information security principles:
+Confidentiality: Ensuring that sensitive information is accessible only to authorized individuals.
+Integrity: Maintaining the accuracy and reliability of data and systems.
+Availability: Ensuring that information and resources are available when needed.
+Ransomware Readiness Assessment: This assessment evaluates an organization's preparedness to prevent and respond to ransomware attacks.
+CIRT (Computer Incident Response Team): A team responsible for managing and responding to computer security incidents.
+CERT-IN: The CERT-In (Computer Emergency Response Team India) is a government agency responsible for responding to cybersecurity incidents, providing cybersecurity awareness, and offering guidance to organizations.
+PCI DSS (Payment Card Industry Data Security Standard): PCI DSS is a set of security standards designed to ensure that all companies that accept, process, store, or transmit credit card information maintain a secure environment.
+ASV (Approved Scanning Vendor): An ASV is an organization authorized by the PCI Security Standards Council to conduct external vulnerability scanning services as required for PCI DSS compliance.
+POS Device (Point of Sale Device): A POS device is a system used for processing card payments at retail locations. It's important to isolate and separate POS devices from other machines in the environment to enhance security.
+IP Segmentation: IP segmentation involves dividing a network into segments to enhance security. Failed PCI Audit occurs when the segmentation does not meet the standards set by PCI DSS.
+BurpSuite, Acunetix, Nikto, SQLmap, OWASP ZAP: These are tools used for web application security testing, including both manual and automated scanning.
+Tenable Nessus: Tenable Nessus is a widely used vulnerability scanning tool that helps identify vulnerabilities, misconfigurations, and compliance issues in a network.
+Nmap/Masscan: Nmap and Masscan are open-source tools used for network discovery and security auditing.
+Kali Linux: Kali Linux is a Debian-based Linux distribution designed for digital forensics, penetration testing, and security research. It comes with numerous pre-installed tools for these purposes.
+Red Team/Blue Team/Purple Teaming: Red Teaming involves simulating attacks to identify vulnerabilities, Blue Teaming focuses on defense and improving security, while Purple Teaming combines both to enhance continuous feedback and knowledge transfer.
+Zero Trust: Zero Trust is a security model that assumes no trust, even among entities inside the network perimeter. It requires strict verification for anyone trying to access resources in the network.
+Incident Response Plan (IRP): A documented and structured approach outlining the steps and procedures to follow when responding to a cybersecurity incident.
+Data Breach: Unauthorized access, disclosure, or acquisition of sensitive information, leading to a compromise of confidentiality.
+Indicator of Compromise (IoC): Indicators, such as file hashes, IP addresses, or patterns of activity, that suggest a system has been compromised.
+Security Incident: An occurrence that poses a threat to the confidentiality, integrity, or availability of information or systems and requires a response.
+Incident Response: The process of identifying, managing, and mitigating security incidents, including investigating and resolving cybersecurity breaches or attacks.
+Forensic Analysis: In-depth analysis of digital evidence to reconstruct and understand events surrounding a security incident.
+Threat Intelligence: Information about potential cyber threats that helps organizations understand the tactics, techniques, and procedures (TTPs) of threat actors.
+Threat Hunting: Proactively searching for signs of malicious activity within a network, often done by skilled analysts to identify threats that may go undetected by automated tools.
+MITRE ATT&CK: MITRE ATT&CK is a knowledge base that describes the actions and tactics used by cyber adversaries, helping organizations improve their cybersecurity defenses.
+Log Management: Collecting, storing, and analyzing log data generated by various systems and applications to identify security events and anomalies.
+Playbook: A predefined set of procedures or steps that guide incident response teams in handling specific types of security incidents.
+Cyber Resilience: The ability of an organization to prepare for, respond to, and recover from cybersecurity incidents while maintaining essential functions.
+XDR (Extended Detection and Response): XDR is a security solution that integrates multiple security tools and provides advanced threat detection and response capabilities. XDR is a comprehensive cybersecurity solution that extends beyond traditional Endpoint Detection and Response (EDR) to provide detection and response capabilities across multiple security layers and platforms.
+MXDR (Managed eXtended Detection and Response): MXDR refers to a managed service model where organizations leverage a third-party provider to oversee and operate their XDR solution.
+SOC (Security Operations Center): A centralized unit responsible for monitoring and managing security incidents in an organization. It involves a combination of people, processes, and technology to enhance cybersecurity.
+CSOC (Cyber Security Operations Center): Similar to SOC, CSOC specifically emphasizes cybersecurity operations and the management of security incidents.
+SIEM (Security Information and Event Management): SIEM is a technology that provides real-time analysis of security alerts generated by various hardware and software in a network.
+SOAR (Security Orchestration, Automation, and Response): SOAR platforms integrate security orchestration and automation to improve incident response efficiency. They streamline workflows, automate repetitive tasks, and enhance collaboration among security teams.
+
 - Encryption
 - Decrption
 - Encoding
