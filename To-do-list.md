@@ -1,4 +1,4 @@
-# To-Do List for Cyber Security Career
+<img width="596" alt="image" src="https://github.com/sathsish90/Cyber4U/assets/31122297/c36a823d-766e-4e30-9d0a-1fc7855e23ad"># To-Do List for Cyber Security Career
 
 1. Complete the Certification
 - Coursera - [Cybersecurity Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate?action=enroll)
@@ -6,7 +6,15 @@
 - LinkedIn - [Saved Libraries](https://www.linkedin.com/learning/me/my-library/saved?u=2069908)
 - Python - [Hands-On Introduction to Python](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing?u=2069908)
 
-2. Jobs
+2. Profile Building
+
+- Publish My Google Card
+- Add My Freelance Trainer profile in Multimise
+- Add Teacheron batch in my website.
+- Take Reviews from all teacheron students.
+- Ethical hacking ECE credits, https://aspen.eccouncil.org/ECE/ManageUserEvents?a=JUkflaRQGNNvhMbQCfJjtw==
+  
+3. Jobs
 - Search for hashtags on LinkedIn related to job opportunities and HR.
    - #humanresources #hr #jobinterviews #hiringandpromotion #jobalert #nowhiring
    - #job #gethired #jobopening #jobfair #recruiting #jobopening #hiring
@@ -18,39 +26,24 @@
 -  Read cybersecurity terminology and create an article.
 -  Add contents to Stack Overflow.
    - Fix VirtualBox issue of copy-paste failure even after .iso exists.
+- Use AI, ChatGPT: "You are my resume creator", Job Description of the company, InstaResumer.io - copy-paste the resume, and sync it with skillsyncer.
 - Update the resume with keywords.
 - Resume Review: [WellFound Resume Review](https://career.wellfound.com/review/655724f10e5d42001bf3b77b#6)
 - ATS resume checking: [Cyderes Job Application](https://us232.dayforcehcm.com/CandidatePortal/u/cp/en-US/cyderes/JobApplication)
 - Read about endorsement and skills on LinkedIn.
+- Validate the ATS resume checker reviews like:
+   - Keywords from Divakar, career coach, and Product Hunt.
+   - [WellFound Website](https://career.wellfound.com/)
 
 Other Works:
 Use AI to create a website - [Durable Website Builder](https://app.durable.co/website/builder)
 Explore setting up a router in virtual labs using Mininet - [Mininet - Virtual Labs](https://mininet.org/)
 Check on Epsilon tool: [Epsilon Tool](https://www.lugaru.com/ftp.html)
 
-16. File a cyber complaint:
+4. File a cyber complaint:
+   
     - [Cyber Crime Complaint - India](https://cybercrime.gov.in/Webform/Crime_AuthoLogin.aspx)
     - [Tamil Nadu Police - Complaint Registration](https://eservices.tnpolice.gov.in/CCTNSNICSDC/ComplaintRegistrationPage?0)
-
-
-19. Upgrade the resume and validate a job profile by following the steps:
-   1. Research Company: Understand values, culture, recent developments.
-   2. Practice Qs: Prepare responses, conduct mock interviews with ChatGPT.
-   3. Showcase Skills: Link skills to achievements.
-   4. Dress Smartly: Reflect the company's dress code.
-   5. Be Punctual: Arrive on time.
-   6. Ask Questions: Show enthusiasm and interest.
-   7. Follow Up: Send a thank-you email.
-
-19. Use AI, ChatGPT: "You are my resume creator", Job Description of the company, InstaResumer.io - copy-paste the resume, and sync it with skillsyncer.
-
-20. Validate the ATS resume checker reviews like:
-   - Keywords from Divakar, career coach, and Product Hunt.
-   - [WellFound Website](https://career.wellfound.com/)
-
-21. Ethical hacking ECE credits, https://aspen.eccouncil.org/ECE/ManageUserEvents?a=JUkflaRQGNNvhMbQCfJjtw==
-
-Feel free to copy and paste this list into your GitHub README.md file. If you have any more requests or questions, let me know!
 
 # Learning To-Do List
 
@@ -79,17 +72,14 @@ Feel free to copy and paste this list into your GitHub README.md file. If you ha
 
 # Articles and Write-Ups Flow
 
-## Ethical Hacking Spreadsheet
-- Read the URLs and add them to the ethical hacking spreadsheet.
+- Ethical Hacking Spreadsheet - Read the URLs and add them to the ethical hacking spreadsheet.
+- Technical Knowledge Study - Read technical knowledge and segregate the list of topics that need to be studied.
+- Categorization of Technical Subjects - Group all technical subjects and categorize the types.
+- Consolidate Blog/Article Titles
+- Consolidate Book Content - Consolidate book content from emails.
+- Data Entry - Add DOB to the sheet.
 
-## Technical Knowledge Study
-- Read technical knowledge and segregate the list of topics that need to be studied.
-
-## Categorization of Technical Subjects
-- Group all technical subjects and categorize the types.
-
-## Consolidate Blog/Article Titles
-### Personal
+## Personal
 - Cycling/Money/Business Idea
 - Positive/Affirmative Quotes
 - Random Questions
@@ -105,26 +95,20 @@ Feel free to copy and paste this list into your GitHub README.md file. If you ha
 - Dream Job/Career Path in Cyber Security (List of Job Positions/Designations)
 - List of Vulnerabilities
 
-## Consolidate Book Content
-- Consolidate book content from emails.
-
 ## Article Writing
 - Read from "Product Idea" and write an article.
 - Read from "Mail 13 - Consistency in Online (Massive Passive Promotion)" and write marketing tips.
 
-## Data Entry
-- Add DOB to the sheet.
-
 # Overall Notepad List
 
-1. ## Chennai Rising
+1. Chennai Rising
    - Vision, Mission, Impact, Requirements, Research List, Information List & Core Idea
    - What, Why, How, When?
 
-2. ## Channel Ideas
+2. Channel Ideas
    - Concept, Collaboration, Action Plan, Consistent Plan, Outcome, Requirement, Video Content, Individual To-Do & Oru Naal Atrocity
 
-3. ## Mobile Pentesting
+3. Mobile Pentesting
    - Day 01, 02, 03 & 04 of Pentesting by Ramesh
      1. Reversing Application
      2. Static Analysis
@@ -132,24 +116,24 @@ Feel free to copy and paste this list into your GitHub README.md file. If you ha
      4. Server Side Issues
      5. Dynamic Analysis
 
-4. ## Android Pentesting
+4. Android Pentesting
    - Drozer, Frameworks to Build Hybrid Apps & Android Pentesting by Adithya
      [Manifest Security - Android Application Security](https://manifestsecurity.com/android-application-security/)
 
-5. ## Blockchain Timeline
+5. Blockchain Timeline
    - How Does the Time Wasted in Blockchain for Understanding the Concepts?
 
-6. ## Our Project
+6. Our Project
    - [Amazing Human - Future Technical Project](https://sites.google.com/view/amazinghumanbeing/home)
      - Solves people's problems and its idea.
 
-7. ## Self Realization
+7. Self Realization
    - Understanding Myself with the Help of My Mental Doctor
 
-8. ## Amazing Human
+8. Amazing Human
    - About Amazing Human, Why, What & Other Key Terminologies (Key Definitions)
 
-9. ## Steemit Writeup - 1
+9. Steemit Writeup - 1
    1. Life is All About Cycling
    2. About Thani Oruvan (Individual Change)
    3. Why Goals Are Mandatory?
