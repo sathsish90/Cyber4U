@@ -970,6 +970,10 @@ Exploit popular CMSs that are hosted online.
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
 | [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 130 other CMSs. |
 
+#### :rocket: SSH Audit
+
+- SSH Pentest - https://github.com/iamthefrogy/FYI/blob/main/Material/SSH%20Pentest.pdf
+
 #### :rocket: SSL Audit
 
 - [The Illustrated TLS 1.2 Connection](https://tls.ulfheim.net/)
@@ -1095,6 +1099,7 @@ S NO | Cheat Sheet Name | GitHub Link | Description
 10   | SecLists | [Cheat Sheet](https://github.com/danielmiessler/SecLists) | SecLists
 11   | Cloud Pentesting | [Cheatsheet for Cloud Pentesting](https://testdintrusion.fr/pentest/cloud/) | Cloud Pentesting
 - [Penetration Testing Tools Cheat Sheet](https://github.com/TristanGitHub/Penetration-Testing)
+- [Pentest Cheatsheet - Kitsun3sec](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 
 #### :package: Pentest Cheat Sheets
 
