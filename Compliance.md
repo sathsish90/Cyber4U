@@ -89,3 +89,70 @@ This document provides a detailed list of data protection and privacy laws from 
 ---
 
 This document is for informational purposes only and is not legal advice.
+
+
+==============
+
+
+# Global Data Protection, Privacy Laws, and Security Standards
+
+A comprehensive list of global data protection and privacy laws, along with key information security standards and best practices. This resource is designed to provide an overview of various legal and regulatory frameworks governing data protection and cybersecurity worldwide.
+
+---
+
+## Data Protection and Privacy Laws & Security Standards
+
+| S.No | Protection Act Name | Country/Region | Stakeholder | Purpose |
+| ---- | ------------------- | -------------- | ----------- | ------- |
+| 1    | ISO/IEC 27001 | International | Organizations | Information security management |
+| 2    | ISO/IEC 27032 | International | Organizations | Cybersecurity and information exchange |
+| 3    | NIST Cybersecurity Framework | United States | Organizations | Cybersecurity guidance |
+| 4    | CIS Critical Security Controls | International | Organizations | Effective cyber defense |
+| 5    | PCI DSS | International | Businesses | Secure cardholder data |
+| 6    | GDPR | European Union | Businesses, Individuals | Protect personal data |
+| 7    | OWASP Top 10 | International | Developers, Web Applications | Web application security |
+| 8    | COBIT | International | Organizations | IT management and governance |
+| 9    | ITIL | International | Organizations | IT service management |
+| 10   | CSA Guidance | International | Organizations | Cloud computing security |
+| 11   | HIPAA Security Rule | United States | Healthcare Sector | Protect health information |
+| 12   | FISMA | United States | Federal Agencies | Information security management |
+| 13   | CCPA | United States (California) | Businesses, Consumers | Consumer privacy rights |
+| 14   | HIPAA | United States | Healthcare Sector | Patient health information protection |
+| 15   | COPPA | United States | Websites, Online Services | Children's online privacy |
+| 16   | FERPA | United States | Educational Institutions | Student education records privacy |
+| 17   | GLBA | United States | Financial Institutions | Consumer financial information |
+| 18   | PIPEDA | Canada | Businesses, Consumers | Data protection in commerce |
+| 19   | PIPA | South Korea | Organizations | Personal information protection |
+| 20   | PDPA | Singapore | Businesses, Individuals | Personal data protection |
+| 21   | IT Act | India | Organizations, Individuals | Electronic transactions and data |
+| 22   | APPI | Japan | Businesses, Individuals | Personal data processing |
+| 23   | Privacy Act | Australia | Organizations | Personal information management |
+| 24   | LGPD | Brazil | Businesses, Individuals | Personal data processing |
+| 25   | Federal Law on Personal Data | Mexico | Businesses | Data processing by private entities |
+| 26   | Personal Data Protection Law | Argentina | Businesses, Individuals | Personal data protection |
+| 27   | Data Protection Law | Colombia | Businesses, Individuals | Personal data handling and protection |
+| 28   | Personal Data Protection Law | Qatar | Businesses, Individuals | Data privacy and protection |
+| 29   | Data Protection Law | DIFC, Dubai | Businesses, Individuals | Data privacy and protection |
+| 30   | Law on Personal Data Protection | Turkey | Businesses, Individuals | Personal data processing |
+| 31   | POPIA | South Africa | Businesses, Individuals | Personal information protection |
+| 32   | Federal Data Protection Act | Switzerland | Organizations | Data protection and privacy |
+| 33   | Data Protection Act | United Kingdom | Businesses, Individuals | Data protection and privacy |
+| 34   | Cybersecurity Law | China | Organizations | Network and data security |
+| 35   | Personal Information Protection Law | China (2021) | Businesses, Individuals | Personal information protection |
+| 36   | Data Protection Act | Thailand | Businesses, Individuals | Personal data protection |
+| 37   | Data Protection Act | Kenya | Businesses, Individuals | Personal data protection |
+| 38   | Data Protection Law | Bahrain | Public and Private Sectors | Personal data protection |
+| 39   | Law for Protecting Personal Data | Egypt | Organizations | Personal data protection |
+| 40   | ASEAN Digital Data Governance Framework | ASEAN Member States | Organizations | Data management and governance |
+| 41   | APEC Privacy Framework | Asia-Pacific Region | Organizations | Consistent privacy protections |
+
+---
+
+## Contributing
+
+- Contributions to this list are welcome. Please submit a pull request or open an issue for additions or modifications.
+- Ensure that any additions include relevant and accurate information in line with the existing format.
+
+---
+
+This document is for informational purposes only and is not legal advice.
