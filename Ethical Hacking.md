@@ -63,11 +63,7 @@ Day 01 Assignment:
 - List all types of hackers
 - Virus/Worms/Malware - Difference/Types
 - [Cyber Laws](https://www.indiacode.nic.in/handle/123456789/1999)
-- Google Dorks [Trainer Details] - Maximum details. (cybersecure8@gmail.com)
-
-
-
-  
+- Google Dorks [Trainer Details] - Maximum details. (cybersecure8@gmail.com) 
 
 ## Day 01 - Introduction - Ethical Hacking
 - Disclaimer & Introduction
@@ -123,3 +119,44 @@ Day 01 Assignment:
   - [Kali Linux Link](https://www.kali.org/get-kali/#kali-virtual-machines)
 - Metasploit Framework
 - Beef-XSS Framework
+
+
+## Day 02 - Session
+
+- How internet works?
+- How file transfer happens? – OSI Layer overview
+- How & Why do you hack?
+- Types of IP Address (Private IP/Public IP/Static IP/Dynamic IP)
+- Hands-on windows utilities – Pinging/Trace route
+- Live DEMO on basic Windows commands
+
+1. How internet works?
+* Country Based Submarine cables
+* Companies gets authorization to use it.
+* List of machines connected together.
+
+Router - traffic route [Protocols - Set of rules] - 
+Switch - 5 (1 router)
+Machine (Server/Database/Client/End Point/Website/Web application/Firewall/Hardware/Network Devices)
+Firewall - Inbound/Outbound (Watch man)
+Wifi router - Connected devices (SSID/Password)
+
+Internet service provider
+Soorya - Railway network (ISP) - Router - Router - Router - 
+Balaji - Airtel (ISP) - Router - Router - 
+Sathish - Hathway (ISP) - Router - Router - 192.168.1.3 (PRivate) -  27.4.152.113 (Public), Static (NOT Chnage)/ Dynamic (Change) 
+Hopcount
+
+Windows utilities - ping, traceroute, 
+ip address - www.google.com
+home address - Name
+
+Assignment:
+============
+OSI layer - 7 layer [application - physical] - https://youtu.be/-6Uoku-M6oY
+Windows Utilities, Sysinternals - https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+Subnetting
+Linux Commands, https://overthewire.org/wargames/bandit/
+
+
+
