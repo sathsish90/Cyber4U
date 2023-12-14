@@ -135,28 +135,28 @@ Day 01 Assignment:
 * Companies gets authorization to use it.
 * List of machines connected together.
 
-Router - traffic route [Protocols - Set of rules] - 
-Switch - 5 (1 router)
-Machine (Server/Database/Client/End Point/Website/Web application/Firewall/Hardware/Network Devices)
-Firewall - Inbound/Outbound (Watch man)
-Wifi router - Connected devices (SSID/Password)
+- Network Devices
+* Router - traffic route [Protocols - Set of rules] - 
+* Switch - 5 (1 router)
+* Machine (Server/Database/Client/End Point/Website/Web application/Firewall/Hardware/Network Devices)
+* Firewall - Inbound/Outbound (Watch man)
+* Wifi router - Connected devices (SSID/Password)
 
-Internet service provider
-Soorya - Railway network (ISP) - Router - Router - Router - 
-Balaji - Airtel (ISP) - Router - Router - 
-Sathish - Hathway (ISP) - Router - Router - 192.168.1.3 (PRivate) -  27.4.152.113 (Public), Static (NOT Chnage)/ Dynamic (Change) 
-Hopcount
+- Internet service provider (Router - Hopcount)
+* Soorya - Railway network (ISP) - Router - Router - Router - 
+* Balaji - Airtel (ISP) - Router - Router - 
+* Sathish - Hathway (ISP) - Router - Router - 192.168.1.3 (PRivate) -  27.4.152.113 (Public), Static (NOT Chnage)/ Dynamic (Change) 
 
-Windows utilities - ping, traceroute, 
-ip address - www.google.com
-home address - Name
+- Windows utilities - ping, traceroute, 
+* ip address - www.google.com
+* home address - Name
 
 Assignment:
 ============
-OSI layer - 7 layer [application - physical] - https://youtu.be/-6Uoku-M6oY
-Windows Utilities, Sysinternals - https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
-Subnetting
-Linux Commands, https://overthewire.org/wargames/bandit/
+- OSI layer - 7 layer [application - physical] - https://youtu.be/-6Uoku-M6oY [Protocols/Port Number]
+- Windows Utilities, Sysinternals - https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+- Subnetting
+- Linux Commands, https://overthewire.org/wargames/bandit/
 
 
 
