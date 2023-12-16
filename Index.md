@@ -26,6 +26,7 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 - Create a Search Engine
 - Key words based search Filter
 - Title, Tags, Roles, Topics based search Filters
+- Create my own Cyber Security standards like [OWASP](https://en.wikipedia.org/wiki/OWASP)
 - Application Dashboard
 - Create Logos, Archs, Mindmaps for all the concepts
 - One Stop Solution for Cyber security
@@ -828,6 +829,7 @@ Exploits for after you have already gained access.
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
 | [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
+- [NetExec (Pennyw0rth)](https://github.com/Pennyw0rth/NetExec)
 
 #### :package: Frameworks
 
@@ -932,6 +934,7 @@ S NO | Cheat Sheet Name | GitHub Link | Description
 11   | Cloud Pentesting | [Cheatsheet for Cloud Pentesting](https://testdintrusion.fr/pentest/cloud/) | Cloud Pentesting
 - [Penetration Testing Tools Cheat Sheet](https://github.com/TristanGitHub/Penetration-Testing)
 - [Pentest Cheatsheet - Kitsun3sec](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
+- [EdOverFlow Cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet/tree/master/cheatsheets)
 
 #### :package: Pentest Cheat Sheets
 
@@ -1433,6 +1436,11 @@ List of Malwares [Trojans/Worms]
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
 - [GPT Crawler](https://github.com/BuilderIO/gpt-crawler)
 - [Topics Based Search](https://github.com/topics/penetration-testing)
+
+# Attack Surface Management (ASM) Dashboard
+
+- https://blog.projectdiscovery.io/dashboard-for-nuclei-results-projectdiscovery-cloud-platform-integration/
+- https://docs.projectdiscovery.io/tools/nuclei/running#nuclei-result-dashboard
 
 # AI for begineers
 
