@@ -830,6 +830,7 @@ Exploits for after you have already gained access.
 | ----------- |-------------------------|----------|----------------|
 | [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
 - [NetExec (Pennyw0rth)](https://github.com/Pennyw0rth/NetExec)
+- [C2 Framework - EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot)
 
 #### :package: Frameworks
 
@@ -962,7 +963,6 @@ Penetration testing tools cheat sheet, a quick reference high-level overview for
 - [OmegaSpard Pentest Cheat Sheet](https://github.com/omegaspard/omegaspard-pentest-cheat-sheet)
 
 #### :package: Penetration Testing Tools
-
 
 - [Repository Containing Useful Commands](https://github.com/Moumi/Penetration-Testing)
 
