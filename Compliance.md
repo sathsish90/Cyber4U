@@ -2,6 +2,23 @@
 
 This document provides a detailed list of data protection and privacy laws from various countries and regions around the world. It is structured to offer quick insights into each law, its regional applicability, and its primary stakeholders and purposes.
 
+
+| Standard/Framework                              | Description                                                                                                 |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **ISO/IEC 27001**                                   | An international standard for **information security management systems (ISMS)**, ensuring secure information.  |
+| **ISO/IEC 27032**                                   | An international standard focused on **cybersecurity** and the safe exchange of information.                  |
+| **NIST Cybersecurity Framework**                    | Developed by NIST, it provides guidance for **preventing, detecting, and responding** to cyberattacks.        |
+| **CIS Critical Security Controls (CSC)**            | Developed by CIS, it offers best practices for enhancing an organization's **cybersecurity defenses**.        |
+| **PCI DSS** (Payment Card Industry Data Security Standard) | Ensures secure handling of **credit card data** by organizations that process payments.                 |
+| **GDPR** (General Data Protection Regulation)       | A privacy law with significant security implications, protecting personal data in the **European Union**.      |
+| **OWASP** (Open Web Application Security Project)   | Provides awareness and guidance on web application security risks, including the **OWASP Top 10** list.       |
+| **COBIT** (Control Objectives for Information and Related Technologies) | Focuses on aligning IT with business objectives and **risk management**.                  |
+| **ITIL** (Information Technology Infrastructure Library) | A framework for IT service management and includes aspects of IT **security management**.          |
+| **CSA** (Cloud Security Alliance) Guidance          | Offers best practices for securing **cloud computing environments** and comprehensive control sets.            |
+| **HIPAA Security Rule**                             | For healthcare organizations, it sets standards to protect the **privacy and security** of health information. |
+| **FISMA** (Federal Information Security Management Act) | Mandates protection of U.S. government information and assets against **threats**.                     |
+
+
 ---
 
 ## Table of Contents
