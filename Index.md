@@ -39,6 +39,7 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 - Read the "Disclaimer"
 - If you are new to the term pentesting, hacking, red teaming, and cyber security then refer to "[Terminology Section](https://github.com/sathsish90/Cyber4U/blob/main/Terminologies.md)"
 - If you are from Compliance background then, refer to "[Compliance Section](https://github.com/sathsish90/Cyber4U/blob/main/Compliance.md)"
+- If you have lot of questions related to Career, Salary, Organization history, Problems solved by organisation then, refer to "[Questions Section](https://github.com/sathsish90/Cyber4U/blob/main/Questions.md)"
 
 
 # Table of Contents
