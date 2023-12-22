@@ -31,6 +31,16 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 - Create Logos, Archs, Mindmaps for all the concepts
 - One Stop Solution for Cyber security
 - AI to generate Auto response - https://app.getonboardai.com/chat
+- Perform audit for universities, court, navy, law, army and other contributors of the society and keep them safe from cyber attacks.
+- Prepare a perimeter security for all the organization data to be safe and secure.
+- Gather important questions in
+  * current market study/use cases,
+  * current salary/raise/negotiation,
+  * current role/why hiring,
+  * current market study,
+  * problem that company solves,
+  * professional organizations lists salary, 
+- Can you give me the some recent professional organisation survey regarding salary for "senior product security engineer" role?
 
 ----
 
@@ -947,6 +957,8 @@ Cyber Security News
 - Yet to add
 - Breach history of 2023: https://inc42.com/buzz/decoding-the-taj-hotels-data-breach-and-indias-growing-cybersecurity-battle/
 - Malware News: https://malware.news/
+- Threat Intelligence: https://www.linkedin.com/company/threatintelligence/posts/?feedView=all
+- Krebson Security - https://krebsonsecurity.com/
 
 Programming Language [Scripting]
 ====================
@@ -1053,6 +1065,7 @@ SNO | YouTube Name | Link
 20  | HackerSploit | [HackerSploit](https://www.youtube.com/c/HackerSploit/videos?view=0&sort=p&flow=grid)
 21  | NetworkChuck | [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos?view=0&sort=p&flow=grid)
 22  | HacksForPancakes | [HacksForPancakes](https://www.youtube.com/c/hacks4pancakes/videos?view=0&sort=p&flow=grid)
+- https://www.youtube.com/@thecybersecurityzone/videos
 
 
 Cyber Security Annual Reports
