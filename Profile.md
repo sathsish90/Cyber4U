@@ -43,5 +43,26 @@
 | 40   | Guru            | [guru.com](https://www.guru.com/) |
 | 41   | Freelancer      | [freelancer.com](https://www.freelancer.com/) |
 
+- https://remoteok.com/@sathsish90 --> remote jobs.
+- https://warrior-network.com/mentorship/ - mentorship in technology
+- https://contra.com/sathsish90 --> portfolio
+
+# International Payment Options
+
+Here are some international payment options for your convenience:
+
+1. [Venmo](https://venmo.com/): A digital wallet for easy mobile payments in the United States.
+
+2. [Cash App](https://cash.app/): A mobile payment service that allows you to send and receive money.
+
+3. [PayPal](https://www.paypal.com/): A widely-used online payment platform for international transactions.
+
+4. [Skrill](https://www.skrill.com/en/): An e-commerce platform that enables fast and secure money transfers.
+
+5. [Wise (formerly TransferWise)](https://wise.com/): A money transfer service that offers transparent exchange rates and low fees for international transfers.
+
+Choose the payment option that best suits your needs for international transactions.
+
+
 
 
