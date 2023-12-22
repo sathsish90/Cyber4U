@@ -1,3 +1,47 @@
+# Red Teaming Resources
+
+👉 **What Is Red Team?**
+   - Red Team definition, red team guide by Joe Vest & James Tubberville: [Link](https://lnkd.in/eUaZcWvg)
+   - Red Teaming Handbook, UK Ministry of Defense: [Link](https://lnkd.in/euUkwQRq)
+
+👉 **What Are Red Team Exercises?**
+   - NIST’s Definition of Red Team Exercise: [Link](https://lnkd.in/eZVzn5AW)
+   - Red Team Plan by Magoo: [Link](https://lnkd.in/eFUBzxEY)
+   - Anatomy of a Red Exercise (3 chapters) by Cyberforce Offensive Security Team:
+     - [Chapter 1](https://lnkd.in/eWNXrVGx)
+     - [Chapter 2](https://lnkd.in/esvyKQ4Z)
+     - [Chapter 3](https://lnkd.in/ea-9Cxxr)
+
+👉 **Techniques and Methodologies**
+   - MITRE ATT&CK Matrix for Enterprise: [Link](https://attack.mitre.org/)
+   - Red Team Guides by Joe Vest & James Tubberville: [Link](https://lnkd.in/eXPxchUk)
+   - Red Team Operations Part 1 and 2 Joas A Santos:
+     - [Part 1](https://lnkd.in/e7m3XzE7)
+     - [Part 2](https://lnkd.in/es7uSQA4)
+   - Red Team Notes 2.0 by dmcxblue: [Link](https://lnkd.in/ekGaQASx)
+
+👉 **Courses and Hands-On**
+   - Hackersploit Red Team Series (video and guide):
+     - [Video](https://lnkd.in/ek5naA4Q)
+     - [Guide](https://lnkd.in/e4U2tW2z)
+   - Responsible Red Teaming by The Taggart Institute: [Link](https://lnkd.in/eur4_nFn)
+   - Red Teaming rooms on TryHackme:
+     - [Room 1](https://lnkd.in/e8G9eMS5)
+     - [Room 2](https://lnkd.in/eYa9mHmk)
+   - Board games by Hadess | حادث: [Link](https://lnkd.in/ee2EEyEh)
+
+👉 **Tools**
+   - Red Teaming Toolkit by infosecn1nja: [Link](https://lnkd.in/e8VnsYVH)
+   - Red Team tools by A-poc: [Link](https://lnkd.in/evPBDZRm)
+   - Red Teaming Toolkit Collection by 0xsp: [Link](https://lnkd.in/eP7jNUE4)
+   - Red Team Ops Cobalt: [Link](https://lnkd.in/euMjeFEx)
+
+👉 **Bonus**
+   - Red Team Resources by J0hnBx: [Link](https://lnkd.in/eeYCQ-Db)
+   - Red Team Village talks: [Link](https://lnkd.in/eHwKj5gB)
+   - A Beginner's Guide to Obfuscation by BC Security: [Link](https://lnkd.in/e92JuwPR)
+
+
 # RED TEAM TOOLKIT v2
 
 ## RECONNAISSANCE
