@@ -41,6 +41,8 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
   * problem that company solves,
   * professional organizations lists salary, 
 - Can you give me the some recent professional organisation survey regarding salary for "senior product security engineer" role?
+- Create a Membership access dashboard - Example: https://ethicalhacksacademy.com/category/resources/ 
+- Colloboration: How about providing a platform where everyone can come and sell their cyber security training materials like books, tools, products, training materials?
 
 ----
 
