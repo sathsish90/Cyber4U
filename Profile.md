@@ -25,7 +25,7 @@
 | 21   | Beacons.ai    | [beacons.ai/sathsish90](https://beacons.ai/sathsish90) |
 | 22   | Figma         | [figma.com/@sathsish90](https://www.figma.com/@sathsish90) |
 | 23   | Mendix        | [user-settings.mendix.com/link/profile](https://user-settings.mendix.com/link/profile) -> git repo creation. |
-| 24   | HackRocks      | [hackrocks.com/sign-up](https://hackrocks.com/sign-up) |
+| 24   | HackRocks      | [hackrocks.com/sign-up](https://hackrocks.com/sign-up) -> check for cyber securiyt courses.|
 | 25   | Pentester Lab  | [pentesterlab.com/profile/sathsish90](https://pentesterlab.com/profile/sathsish90) |
 | 26   | HTB           | [app.hackthebox.com/profile/1737697](https://app.hackthebox.com/profile/1737697) |
 | 27   | HTB Academy   | [academy.hackthebox.com/dashboard](https://academy.hackthebox.com/dashboard) [HTB-1DA1045C41] |
@@ -46,7 +46,20 @@
 - https://remoteok.com/@sathsish90 --> remote jobs.
 - https://warrior-network.com/mentorship/ - mentorship in technology
 - https://contra.com/sathsish90 --> portfolio
-
+- https://www.vouchley.com/user/sathsish90 --> freelancers, review dashboard
+- https://read.cv/sathsish90 --> Portfolio services, professional connections
+- https://comeup.com/ -> sell or buy services
+- https://www.doughnut.no/ -> freelancer community - yet to be ready
+- https://app.talentprise.com/talent/profile/dashboard -> job dashboard
+- https://intch.org/?ref=producthunt --> nice professional networking platform. (with good UI/UX)
+- https://app.realengineersai.com/candidateportal-projects --> AI Resume Generator.
+- https://coverdoc.ai/ -> writing cover letter
+- https://www.kickresume.com/dashboard/resumes/ --> creating resume
+- https://grow.google/certificates/interview-warmup/category/cybersecurity/ --> interview warmup
+- https://www.chatnode.ai/account/settings/subscription --> create my one chatgpt based on the instruction given.
+- https://tinywow.com/ --> PDF, image and video edit.
+- https://pixlr.com/pricing/ --> Design website
+  
 # International Payment Options
 
 Here are some international payment options for your convenience:
