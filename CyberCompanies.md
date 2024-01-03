@@ -22,9 +22,21 @@ Cyber Security Job description generator
 - Your Job Description is Ready
 
 
+Cyber Security Companies Industry based ranking
+===============================================
+- yet to add
+
 Cyber Security Responsible Disclosure organisation
 ==================================================
 - Yet to add
+  
+Responsible Disclosure organisation
+===================================
+- yet to add
+- Earning opportunites for talented people
+- Display the minimum and maximum bounty limits
+- Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
+
 
 Cyber Security NGOs
 ==========
