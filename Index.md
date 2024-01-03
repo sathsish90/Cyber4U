@@ -48,27 +48,55 @@ Welcome to the Comprehensive Cybersecurity Knowledge Repository—a centralized 
 ## Before you start
 
 - Read the "Disclaimer"
+- Cyber [Dashboard](https://github.com/sathsish90/Cyber4U/blob/main/CyberDashboard.md)
+ - Trending CVEs
+ - Attack of the Year
+ - Famous Breaches
+ - Cyber Predictions
+ - Cyber News
+ - Cyber Security Research Papers/Ideas
+ - Cyber Security Conferences [Events/Programs]
+- Cyber [Security Materials](https://github.com/sathsish90/Cyber4U/blob/main/CyberMaterials.md)
+ - Books
+ - Articles
+ - Blogs
+ - PodCasts 
+ - VLogs
+ - Annual Reports
+ - Research Community [forums/discords]
+ - APT Groups
 - Cyber Security Terminologies - "[Terminology Section](https://github.com/sathsish90/Cyber4U/blob/main/Terminologies.md)"
+- Cyber [Search Engines](https://github.com/sathsish90/Cyber4U/blob/main/SearchEngines.md)
 - Cyber Security Domains, Topics or Areas of Interest - "[Cyber Domains Section](https://github.com/sathsish90/Cyber4U/blob/main/CyberDomains.md)"
 - Cyber [Security tools](https://github.com/sathsish90/Cyber4U/blob/main/CyberTools.md)
+- Cyber [Coding](https://github.com/sathsish90/Cyber4U/blob/main/Coding.md) & Automation
 - Cyber Security [Certifications](https://github.com/sathsish90/Cyber4U/blob/main/CyberCertifications.md)
  - [Red Teaming](https://github.com/sathsish90/Cyber4U/blob/main/RedTeam.md)
  - [DevSecOps](https://github.com/sathsish90/Cyber4U/blob/main/DevSecOps.md)
  - [Cloud Security](https://github.com/sathsish90/Cyber4U/blob/main/CloudSecurity.md)
  - Web Security
+ - [Android](https://github.com/sathsish90/Cyber4U/blob/main/Android.md)
 - Cyber [Cheatsheets](https://github.com/sathsish90/Cyber4U/blob/main/CyberCheatSheets.md)
 - Cyber Vulnerable [Practice Labs](https://github.com/sathsish90/Cyber4U/blob/main/CyberLabs.md)
 - Cyber Compliance & Regulations - "[Compliance Section](https://github.com/sathsish90/Cyber4U/blob/main/Compliance.md)"
 - Cyber Risk Management - [Risk Management](https://github.com/sathsish90/Cyber4U/blob/main/RiskManagement.md)
 - Cyber Security Career Roadmap
 - Cyber Security [Companies](https://github.com/sathsish90/Cyber4U/blob/main/CyberCompanies.md)
+ - Company Acquisition updates:
+ - Job description generator
+ - Companies Industry based ranking
+ - Responsible Disclosure organisation
+ - NGOs in Cyber Security
+ - Complaint Portals
+ - List of Products in Cyber Security
+ - Cyber Security Reviews/Ratings: [Companies/Users/Products]
 - Cyber [Job Portal](https://github.com/sathsish90/Cyber4U/blob/main/CyberJobPortal.md)
 - Cyber [Salary](https://github.com/sathsish90/Cyber4U/blob/main/CyberSalary.md),
 - Cyber [Roles](https://github.com/sathsish90/Cyber4U/blob/main/CyberRoles.md) 
 - Cyber [Questions](https://github.com/sathsish90/Cyber4U/blob/main/Questions.md)
 - Cyber [Interview Questions](https://github.com/sathsish90/Cyber4U/blob/main/InterviewQuestions.md)
-- [Android](https://github.com/sathsish90/Cyber4U/blob/main/Android.md)
-
+- [TechStacks Collection](https://github.com/sathsish90/Cyber4U/blob/main/TechStacks.md)
+- 
 
 # Table of Contents
 
@@ -91,7 +119,6 @@ Use this content responsibly, and contribute to a safer and more secure digital 
 - **Hacking:** Unauthorized access or manipulation for malicious purposes, like breaking into someone's computer without permission – akin to breaking into a house.
 - **Ethical Hacking:** Authorized testing of systems for security weaknesses to strengthen defenses, like a security expert checking a door's lock to ensure it can't be easily breached.
 
-
 Cyber Security Skills
 =====================
 
@@ -103,17 +130,6 @@ List of MindMaps:
 - Yet to Add
 - Contribution gets them rewards, awards and goodies
 
-
-Cyber Security Companies Industry based ranking
-===============================================
-- yet to add
-
-Responsible Disclosure organisation
-===================================
-- yet to add
-- Earning opportunites for talented people
-- Display the minimum and maximum bounty limits
-- Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
 
 # Bug Bounty Platforms and Resources:
 
@@ -129,87 +145,15 @@ Responsible Disclosure organisation
 - [Microsoft](https://www.microsoft.com/en-us/msrc/bounty)
 - [Bug Hunter’s Methodology](https://www.youtube.com/watch?v=uKWu6yhnhbQ)
 
-
 CTF Platforms
 ===================
 - Awesome CTF: https://github.com/apsdehal/awesome-ctf
 - yet to add
 - Connect CTF as earning opportunity and also direct the user to 'Hackathons'
 
-
-
-Cyber Security Company Acquisition updates:
-============================
-- Yet to add
-- Company Acquired
-- Which company acquired
-- Why it acquired? (Purpose)
-- When acquired?
-- How much amount it got acquired for?
-
-
-Cyber Security Job description generator
-=========================
-- Yet to add
-- Select your 'Company Name'
-- Select your 'Product'
-- Select your 'Services'
-- Select your 'Leadership'
-- Select the Relevant Certifications + Add additional certificates
-- Type your 'Role/Designation/JobRole'
-- Your Job Description is Ready
-
-
-
-Cyber Security Responsible Disclosure organisation
-==================================================
-- Yet to add
-
-Cyber Security NGOs
-==========
-- Yet to add
-
-
-Cyber Security Products
-=======================
-- Yet to add
-
-
-
-
 List of Vulnerabilities
 ===================
 - Yet to add
-
-Trending CVEs:
-=============
-- [CVE-Circl](https://cve.circl.lu/)
-- [CVE Crowd](https://cvecrowd.com/)
-- [CVE Mitre](https://cve.mitre.org/)
-- [CVE Partners](https://www.cve.org/PartnerInformation/ListofPartners)
-- [Vulnerability Labs](https://www.vulnerability-lab.com/show.php?cat=webapp)
-- [SecLists](http://seclists.org/)
-- [SecTools](http://sectools.org/)
-
-
-Attack of the year
-==================
-- Yet to add
-- Capture the types of attacks performed everyyear
-
-
-Top Data breaches in the World
-================
-- Yet to add
-- 72 Biggest data breaches: https://www.upguard.com/blog/biggest-data-breaches
-
-
-Cyber Security Predictions by Experts
-===========
-- Yet to add
-- Display predictions from various company sites
-- Sort 'Layoffs' 'Cut off' Keywords along with the date and predict the future employement in cyber security
-
 
 Antivirus Evasion Techniques:
 =============================
@@ -235,19 +179,11 @@ Best Practices for Security:
 - Zero Trust Security Model
 
 
+Attack Surface Management (ASM):
+==========================
 
-### SOC
-
-- [SIEM (Signoz)](https://signoz.io/)
-
-#### :package: Penetration Testing Tools
-
-- [Repository Containing Useful Commands](https://github.com/Moumi/Penetration-Testing)
-
-
-Attack Surface Management:
-===================
-- Yet to add
+- https://blog.projectdiscovery.io/dashboard-for-nuclei-results-projectdiscovery-cloud-platform-integration/
+- https://docs.projectdiscovery.io/tools/nuclei/running#nuclei-result-dashboard
 
 Vulnerability Management:
 ===================
@@ -261,138 +197,6 @@ Threat Intelligence Platforms:
 ===================
 - Yet to add
 
-Cyber Security Books
-===================
-- Yet to add
-
-Cyber Security Articles
-===================
-- Yet to add
-
-
-Cyber Security Blogs
-===================
-
-SNO | Blog Title | Link
-----|------------|-----
-1   | Reddit NetSec Getting Started | [Reddit NetSec Getting Started](https://www.reddit.com/r/netsec/wiki/start) - Historically a very good resource, but it was last updated 4 years ago
-2   | Mubix’s curated list of Infosec newbie resources | [Mubix’s Infosec Newbie Resources](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31#file-infosec_newbie-md) - @mubix (Rob Fuller), a red teamer turned purple teamer. He started his career in the United States Marine Corps working with explosives and has gone on to have a highly successful career in the security industry working at companies like Rapid7, GE, Uber, Cruise Automation, and now Black Hills Information Security
-3   | Drunkrhin0’s Medium article | [Drunkrhin0’s Medium article](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f)
-4   | Daniel Miessler - How to Build a Cybersecurity Career | [How to Build a Cybersecurity Career](https://danielmiessler.com/blog/build-successful-infosec-career/)
-5   | Starting an InfoSec Career – The Megamix - Lesley Carhart | [Starting an InfoSec Career – The Megamix Chapters 1-3](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
-6   | Starting an InfoSec Career – The Megamix - Lesley Carhart | [Starting an InfoSec Career – The Megamix Chapters 4-5](https://tisiphone.net/2015/11/08/starting-an-infosec-career-the-megamix-chapters-4-5/)
-7   | SANS Cyber Aces | [SANS Cyber Aces](https://www.cyberaces.org/courses.html)
-8   | Cybrary | [Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
-9   | Coursera | [Coursera](https://www.coursera.org/specializations/intro-cyber-security)
-10  | Starting in Cyber Security? | [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
-
-
-Cyber Security News
-===================
-- Yet to add
-- Breach history of 2023: https://inc42.com/buzz/decoding-the-taj-hotels-data-breach-and-indias-growing-cybersecurity-battle/
-- Malware News: https://malware.news/
-- Threat Intelligence: https://www.linkedin.com/company/threatintelligence/posts/?feedView=all
-- Krebson Security - https://krebsonsecurity.com/
-
-
-
-Cyber Security Research Papers/Ideas
-===================
-- Yet to add
-- Scholar articles, blackhat papers
-
-
-Cyber Security Conferences [Events/Programs]
-===========
-- Yet to add
-- Events, Conferences, Cyber Programs
-- Secure World Events - https://www.secureworld.io/events
-- Conference: https://infosec-conferences.com/
-- ShmooCon
-- ThotCon
-- CactusCon
-- OWASP
-- BSides
-- DEFCON
-- BlackHat
-
-Cyber Security PodCasts & VLogs
-===============
-- Yet to add
-- Awesome Security talks (2012-2020): https://github.com/PaulSec/awesome-sec-talks
-- Collection https://digitalguardian.com/blog/best-information-security-podcasts
-- Audible https://www.audible.com/pd/Hacking-into-Security-Career-Talks-Podcast/B08K57S4H1?qid=1641412127
-- YouTube See the YouTube section below for details
-- Burp: https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass
-- VulnHub: https://www.vulnhub.com/
-- OverTheWire: https://overthewire.org/wargames/
-- Certification videos
-
-Cyber Security VLogs:
-=============
-
-SNO | YouTube Name | Link
-----|--------------|-----
-1   | The Cyber Mentor | [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor/videos?view=0&sort=p&flow=grid)
-2   | Cover 6 Solutions | [Cover 6 Solutions](https://www.youtube.com/c/Cover6Solutions/videos?view=0&sort=p&flow=grid)
-3   | John Hammond | [John Hammond](https://www.youtube.com/c/JohnHammond010/videos?view=0&sort=p&flow=grid)
-4   | Farah Hawa | [Farah Hawa](https://www.youtube.com/c/FarahHawa/videos?view=0&sort=p&flow=grid)
-5   | Nahamsec | [Nahamsec](https://www.youtube.com/c/Nahamsec/videos?view=0&sort=p&flow=grid)
-6   | IppSec | [IppSec](https://www.youtube.com/c/ippsec/videos?view=0&sort=p&flow=grid)
-7   | DC CyberSec | [DC CyberSec](https://www.youtube.com/c/DCcybersec/videos?view=0&sort=p&flow=grid)
-8   | Rana Khalil | [Rana Khalil](https://www.youtube.com/c/RanaKhalil101/videos?view=0&sort=p&flow=grid)
-9   | The Pwn School Project | [The Pwn School Project](https://www.youtube.com/c/ThePwnSchoolProject/videos?view=0&sort=p&flow=grid)
-10  | PwnFunction | [PwnFunction](https://www.youtube.com/c/PwnFunction/videos?view=0&sort=p&flow=grid)
-11  | Hack eXPlorer | [Hack eXPlorer](https://www.youtube.com/c/HackeXPlorer/videos?view=0&sort=p&flow=grid)
-12  | Hak5 | [Hak5](https://www.youtube.com/c/hak5/videos?view=0&sort=p&flow=grid)
-13  | Jack Rhysider | [Jack Rhysider](https://www.youtube.com/c/JackRhysider/videos?view=0&sort=p&flow=grid)
-14  | Cyberspatial | [Cyberspatial](https://www.youtube.com/c/Cyberspatial/videos?view=0&sort=p&flow=grid)
-15  | Nato as Code | [Nato as Code](https://www.youtube.com/c/NatoasCode/videos?view=0&sort=p&flow=grid)
-16  | InsiderPhD | [InsiderPhD](https://www.youtube.com/c/InsiderPhD/videos?view=0&sort=p&flow=grid)
-17  | Gerald Auger - Simply Cyber | [Gerald Auger - Simply Cyber](https://www.youtube.com/c/GeraldAuger/videos?view=0&sort=p&flow=grid)
-18  | MrTurvey | [MrTurvey](https://www.youtube.com/c/MrTurvey/videos?view=0&sort=p&flow=grid)
-19  | Hacksplained | [Hacksplained](https://www.youtube.com/c/Hacksplained/videos?view=0&sort=p&flow=grid)
-20  | HackerSploit | [HackerSploit](https://www.youtube.com/c/HackerSploit/videos?view=0&sort=p&flow=grid)
-21  | NetworkChuck | [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos?view=0&sort=p&flow=grid)
-22  | HacksForPancakes | [HacksForPancakes](https://www.youtube.com/c/hacks4pancakes/videos?view=0&sort=p&flow=grid)
-- https://www.youtube.com/@thecybersecurityzone/videos
-
-
-Cyber Security Annual Reports
-==============
-- Yet to add
-- Threat Reports
-- Vulnerability Reports
-- CVE reports
-- Cyber Attack Report
-- OWASP Report
-- Government Report
-
-Cyber Security Research Community [forums/discords]
-===========================
-- Yet to add
-
-Cyber Security Complaint Portals
-===================
-- Yet to add
-
-Cyber Security Reviews/Ratings: [Companies/Users/Products]
-=================
-- Yet to add
-- Cyber Companies
-- Users
-- Products
-- Technology
-- Vulnerability
-
-
-Cyber Security Search Engines
-===============
-- Yet to add
-- Social search: OSINT framework
-- TraceLabs - https://www.tracelabs.org/
-
 
 Threat Hunting
 ==============
@@ -404,44 +208,11 @@ Cyber Security Government Websites
 - Yet to add
 - Cyber Security Agencies
 
-List of APT Groups
-==========
-- Yet to add
-
 Top hackers in the world [Hackers Ranks]
 ============================
 - Yet to add
 - Ranking Infosec community in the World based on their contribution [twitter posts/github tools/articles/blogs/research]
 - Industry based hackers who reported serious vulnerabilities which is currently harming many.
-
-List of Search Queries: [SIEM/Splunk/Snort & IDS/IPS - Monitoring/Logging tools]
-================
-- Yet to Add
-- Develop search queries and indicators of compromise to identify potential malicious activities.
-- Leverage Threat Intelligence Feeds,
-- Known Malware Signatures,
-- Behavioral analytics.
-- Firewall Rules/Configurations [Audit]
-- Splunk/Snort Rules
-- SIEM/SOAR queries
-- Log files queries
-- Network Traffic dumps
-- Endpoint Logs [Client/Server Logs]
-
-| S NO | Tool Name | Log file name | Example | Description |
-|------|-----------|---------------|---------|-------------|
-| 1    | Splunk    | splunkd.log   | `index=main sourcetype=splunkd` | Querying Splunk daemon logs for general Splunk server activity. |
-| 2    | Snort     | alert.ids     | `alert tcp any any -> any 80 (msg:"Potential HTTP traffic"; sid:100001; rev:1;)` | Writing a Snort rule to detect potential HTTP traffic. |
-| 3    | IDS/IPS   | intrusion.log | `signature_id=1234` | Searching IDS/IPS logs for a specific signature ID (1234 in this example). |
-| 4    | SIEM      | security.log  | `event_id=4625` | Using a SIEM to look for Windows security events with event ID 4625 (failed login attempts). |
-| 5    | Splunk    | firewall.log  | `index=firewall action=permit` | Querying firewall logs in Splunk to identify permitted actions. |
-| 6    | Snort     | dns.log       | `alert dns any any -> any any (msg:"Potential DNS traffic"; sid:100002; rev:1;)` | Creating a Snort rule to detect potential DNS traffic. |
-| 7    | IDS/IPS   | connection.log | `source_address=malicious_ip` | Searching IDS/IPS logs for connections from a specific source IP (malicious_ip in this example). |
-| 8    | SIEM      | authentication.log | `user=admin` | Using a SIEM to search for authentication logs with a specific username (admin in this example). |
-| 9    | Splunk    | application.log | `index=main sourcetype=application error` | Querying application logs in Splunk for errors. |
-| 10   | Snort     | ftp.log       | `alert ftp any any -> any any (msg:"Potential FTP traffic"; sid:100003; rev:1;)` | Crafting a Snort rule to detect potential FTP traffic. |
-| 11   | IDS/IPS   | malware.log   | `file_hash=abcdef123456` | Searching IDS/IPS logs for entries related to a specific file hash (abcdef123456 in this example). |
-| 12   | SIEM      | system.log    | `event_type=system_shutdown` | Using a SIEM to find system logs related to a shutdown event. |
 
 
 List of Malwares [Trojans/Worms]
@@ -522,15 +293,6 @@ List of Malwares [Trojans/Worms]
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
 
-# Sample Search Engines:
-- [Search Engine](https://github.com/WADComs/WADComs.github.io)
-- [Threat market maps](https://thedemoforum.com/page/cybersecuritymarketmaps/)
-- [Cloudflare](https://radar.cloudflare.com/)
-- [XDR](https://www.paloaltonetworks.com/cortex/cortex-xdr)
-- [Shell](https://shellizm.com/)
-- [News](https://www.internationalcybersecuritycentre.com/live-attack-maps-(16))
-- [Github Terminal made up of Javascript](http://attackvector.org/)
-
 # Sample Styles:
 - https://github.com/paulveillard/cybersecurity-pentest
 - https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -539,11 +301,6 @@ List of Malwares [Trojans/Worms]
 - [AutoGPT](https://github.com/awesome-pentest-gadgets/Auto-GPT) - https://github.com/awesome-pentest-gadgets/Auto-GPT
 - [GPT Crawler](https://github.com/BuilderIO/gpt-crawler)
 - [Topics Based Search](https://github.com/topics/penetration-testing)
-
-# Attack Surface Management (ASM) Dashboard
-
-- https://blog.projectdiscovery.io/dashboard-for-nuclei-results-projectdiscovery-cloud-platform-integration/
-- https://docs.projectdiscovery.io/tools/nuclei/running#nuclei-result-dashboard
 
 # AI/ML for begineers
 
