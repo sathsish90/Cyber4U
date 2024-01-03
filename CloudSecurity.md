@@ -1,3 +1,7 @@
+
+- [Kyuu-Ji - A curated list of useful tools and resources for penetration testing and securing Microsoft's cloud platform Azure](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
+- [CyberSecurityUP - Cloud PenTest - AWS and Azure by Joas](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
+
 # Free AWS Training Courses and Badges
 
 🎉 𝐅𝐫𝐞𝐞 𝐀𝐖𝐒 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐜𝐨𝐮𝐫𝐬𝐞𝐬 & 𝐅𝐫𝐞𝐞 𝐁𝐚𝐝𝐠𝐞𝐬! AWS launched 4 new badges, so now there are 16 training courses with badge assessments. How to enroll ⬇
@@ -41,3 +45,14 @@ There is not a single page that summarizes how to enroll to different AWS badges
 1️⃣5️⃣ **Storage Data Migration**: [Course Link](https://lnkd.in/gq392QSq)
 
 1️⃣6️⃣ **Data Protection & Disaster Recovery**: [Course Link](https://lnkd.in/gvQEhezx)
+
+
+
+#### :package: Cloud Security:
+
+- [AWS Free Training](https://aws.amazon.com/blogs/training-and-certification/tag/free-training/)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [Azure Learning Paths](https://docs.microsoft.com/en-us/learn/azure/)
+- [Google Cloud Learning Path Offer](https://cloud.google.com/training/learning-path-offer)
+- [Everything Cloud (YouTube)](https://www.youtube.com)
+- [Google Workspace Vulnerable for Takeover](https://www.hunters.security/en/blog/delefriend-a-newly-discovered-design-flaw-in-domain-wide-delegation-could-leave-google-workspace-vulnerable-for-takeover)
