@@ -1,4 +1,42 @@
 
+
+Cyber Security Company Acquisition updates:
+============================
+- Yet to add
+- Company Acquired
+- Which company acquired
+- Why it acquired? (Purpose)
+- When acquired?
+- How much amount it got acquired for?
+
+
+Cyber Security Job description generator
+=========================
+- Yet to add
+- Select your 'Company Name'
+- Select your 'Product'
+- Select your 'Services'
+- Select your 'Leadership'
+- Select the Relevant Certifications + Add additional certificates
+- Type your 'Role/Designation/JobRole'
+- Your Job Description is Ready
+
+
+Cyber Security Responsible Disclosure organisation
+==================================================
+- Yet to add
+
+Cyber Security NGOs
+==========
+- Yet to add
+
+
+Cyber Security Products
+=======================
+- Yet to add
+
+
+
 Cyber Security Companies:
 ====================
 | SNO | Company Name | Founded | NASDAQ | Key Area |
