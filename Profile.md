@@ -1,65 +1,64 @@
 ## Social Media Profiles
 
-| SNO | Social Media | Profile URL |
-|-----|--------------|-------------|
-| 1   | Peerlist      | [peerlist.io/sathsish90](https://peerlist.io/sathsish90) |
-| 2   | About Me      | [about.me/sathsish90](https://about.me/sathsish90) |
-| 3   | Well Found    | [wellfound.com/u/sathsish90](https://wellfound.com/u/sathsish90) |
-| 4   | Mastodon      | [mastodon.social/@sathsish90](https://mastodon.social/@sathsish90) |
-| 5   | Figma         | [figma.com/@sathsish90](https://www.figma.com/@sathsish90) |
-| 6   | LinkedIn      | [linkedin.com/in/sathsish90](https://www.linkedin.com/in/sathsish90) |
-| 7   | GitHub        | [github.com/sathsish90](https://github.com/sathsish90) |
-| 8   | Medium        | [medium.com/@sathsish90](https://medium.com/@sathsish90) |
-| 9   | Twitter       | [twitter.com/sathsish90](https://twitter.com/sathsish90) |
-| 10  | Instagram     | [instagram.com/sathsish90](https://www.instagram.com/sathsish90) |
-| 11  | Facebook      | [facebook.com/sathsish90](https://www.facebook.com/sathsish90) |
-| 12  | YouTube       | [youtube.com/@sathsish90](https://www.youtube.com/@sathsish90) |
-| 13* | ProductHunt   | [producthunt.com/@satchu](https://www.producthunt.com/@satchu) |
-| 14  | Teacheron     | [teacheron.com/tutor-profile/1d8](https://www.teacheron.com/tutor-profile/1d8) |
-| 15  | Website       | [sathish.co.in](https://sathish.co.in/) |
-| 16  | Email         | sathsish90@gmail.com |
-| 17   | Stack Overflow | [stackoverflow.com/users/8625102/sathish-kumar-balakrishnan](https://stackoverflow.com/users/8625102/sathish-kumar-balakrishnan) |
-| 18   | Gumroad       | [gumroad.com/sathsish90](https://sathsish90.gumroad.com/) |
-| 19   | Dev           | [dev.to/sathsish90](https://dev.to/sathsish90/) [Sign in with Github] |
-| 20* | SubStack      | [substack.com/@sathsish90](https://substack.com/@sathsish90) |
-| 21   | Beacons.ai    | [beacons.ai/sathsish90](https://beacons.ai/sathsish90) |
-| 22   | Figma         | [figma.com/@sathsish90](https://www.figma.com/@sathsish90) |
-| 23   | Mendix        | [user-settings.mendix.com/link/profile](https://user-settings.mendix.com/link/profile) -> git repo creation. |
-| 24   | HackRocks      | [hackrocks.com/sign-up](https://hackrocks.com/sign-up) -> check for cyber securiyt courses.|
-| 25   | Pentester Lab  | [pentesterlab.com/profile/sathsish90](https://pentesterlab.com/profile/sathsish90) |
-| 26   | HTB           | [app.hackthebox.com/profile/1737697](https://app.hackthebox.com/profile/1737697) |
-| 27   | HTB Academy   | [academy.hackthebox.com/dashboard](https://academy.hackthebox.com/dashboard) [HTB-1DA1045C41] |
-| 28   | Bitly         | [app.bitly.com/Bgbd6VqkBuu/dashboard](https://app.bitly.com/Bgbd6VqkBuu/dashboard/) |
-| 29   | RSS Feeds      | Create RSS Feeds |
-| 30   | ChatNode      | [Create a ChatBot](#) |
-| 31   | Take Lessons   | [Activate the account](#) |
-| 32   | Udemy         | [Activate the account and start posting videos](#) |
-| 33   | Buy Me a Coffee | [buymeacoffee.com](https://buymeacoffee.com/) |
-| 35   | Notion          | [notion.com](https://www.notion.com/) |
-| 36   | Spotify         | [spotify.com](https://www.spotify.com/) |
-| 37   | Zoom            | [zoom.us](https://zoom.us/) |
-| 38   | Fiverr          | [fiverr.com](https://www.fiverr.com/) |
-| 39   | Upwork          | [upwork.com](https://www.upwork.com/) |
-| 40   | Guru            | [guru.com](https://www.guru.com/) |
-| 41   | Freelancer      | [freelancer.com](https://www.freelancer.com/) |
+| S No | Name           | Description                                                  | Actual Link                                                    |
+|------|----------------|--------------------------------------------------------------|----------------------------------------------------------------|
+| 1    | Peerlist       | Professional networking site                                  | [peerlist.io/sathsish90](https://peerlist.io/sathsish90)       |
+| 2    | About Me       | Personal web page creation tool                              | [about.me/sathsish90](https://about.me/sathsish90)             |
+| 3    | Well Found     | Job listing and company culture platform                     | [wellfound.com/u/sathsish90](https://wellfound.com/u/sathsish90) |
+| 4    | Mastodon       | Decentralized social networking service                      | [mastodon.social/@sathsish90](https://mastodon.social/@sathsish90) |
+| 5    | Figma          | Interface design app with real-time collaboration            | [figma.com/@sathsish90](https://www.figma.com/@sathsish90)     |
+| 6    | LinkedIn       | Professional networking platform                             | [linkedin.com/in/sathsish90](https://www.linkedin.com/in/sathsish90) |
+| 7    | GitHub         | Hosting for software development and version control         | [github.com/sathsish90](https://github.com/sathsish90)         |
+| 8    | Medium         | Online publishing platform                                   | [medium.com/@sathsish90](https://medium.com/@sathsish90)       |
+| 9    | Twitter        | Social networking service                                    | [twitter.com/sathsish90](https://twitter.com/sathsish90)       |
+| 10   | Instagram      | Photo and video sharing social networking service            | [instagram.com/sathsish90](https://www.instagram.com/sathsish90) |
+| 11   | Facebook       | Social networking site                                       | [facebook.com/sathsish90](https://www.facebook.com/sathsish90) |
+| 12   | YouTube        | Video sharing and social media platform                      | [youtube.com/@sathsish90](https://www.youtube.com/@sathsish90) |
+| 13   | ProductHunt    | Website for sharing and discovering new products             | [producthunt.com/@sathsish90](https://www.producthunt.com/@sathsish90) |
+| 14   | Teacheron      | Online platform to find tutors                               | [teacheron.com/tutor-profile/1d8](https://www.teacheron.com/tutor-profile/1d8) |
+| 15   | Website        | Personal or business website                                 | [sathish.co.in](https://sathish.co.in/)                        |
+| 16   | Email          | Personal email contact                                       | sathsish90@gmail.com                                           |
+| 17   | Stack Overflow | Community of developers helping each other                   | [stackoverflow.com/users/8625102/sathish-kumar-balakrishnan](https://stackoverflow.com/users/8625102/sathish-kumar-balakrishnan) |
+| 18   | Gumroad        | Online platform for creators to sell products                | [gumroad.com/sathsish90](https://sathsish90.gumroad.com/)      |
+| 19   | Dev            | Online community for sharing ideas and programming resources | [dev.to/sathsish90](https://dev.to/sathsish90/)                |
+| 20   | SubStack       | Platform for newsletter publishing                           | [substack.com/@sathsish90](https://substack.com/@sathsish90)   |
+| 21   | Beacons.ai     | Personalized link-in-bio tool                                | [beacons.ai/sathsish90](https://beacons.ai/sathsish90)         |
+| 22   | Figma          | Interface design app with real-time collaboration            | [figma.com/@sathsish90](https://www.figma.com/@sathsish90)     |
+| 23   | Mendix         | Low-code software development platform                       | [user-settings.mendix.com/link/profile](https://user-settings.mendix.com/link/profile) |
+| 24   | HackRocks      | Cybersecurity learning platform                              | [hackrocks.com/sign-up](https://hackrocks.com/sign-up)         |
+| 25   | Pentester Lab  | Platform for learning web penetration testing                | [pentesterlab.com/profile/sathsish90](https://pentesterlab.com/profile/sathsish90) |
+| 26   | HTB            | Online platform to test and advance penetration testing skills | [app.hackthebox.com/profile/1737697](https://app.hackthebox.com/profile/1737697) |
+| 27   | HTB Academy    | Cybersecurity training platform                              | [academy.hackthebox.com/dashboard](https://academy.hackthebox.com/dashboard) |
+| 28   | Bitly          | Link management platform                                     | [app.bitly.com/Bgbd6VqkBuu/dashboard](https://app.bitly.com/Bgbd6VqkBuu/dashboard/) |
+| 29   | RSS Feeds      | Create and manage custom RSS feeds                           |                                                              |
+| 30   | ChatNode       | Platform for creating chatbots                               |                                                              |
+| 31   | Take Lessons   | Platform to find and book lessons with instructors           |                                                              |
+| 32   | Udemy          | Online learning and teaching marketplace                     |                                                              |
+| 33   | Buy Me a Coffee| Platform for creators to receive support from their audience | [buymeacoffee.com](https://buymeacoffee.com/)                 |
+| 34   | Freelancer     | Freelancing website for finding jobs and hiring freelancers  | [freelancer.com](https://www.freelancer.com/)                 |
+| 35   | Notion         | Project management and note-taking software                  | [notion.com](https://www.notion.com/)                         |
+| 36   | Spotify        | Digital music service with access to millions of songs       | [spotify.com](https://www.spotify.com/)                       |
+| 37   | Zoom           | Video conferencing and web conferencing service              | [zoom.us](https://zoom.us/)                                   |
+| 38   | Fiverr         | Online marketplace for freelance services                    | [fiverr.com](https://www.fiverr.com/)                         |
+| 39   | Upwork         | Platform for freelancers to find jobs                        | [upwork.com](https://www.upwork.com/)                         |
+| 40   | Guru           | Freelance marketplace and job listing platform               | [guru.com](https://www.guru.com/)                             |
+| 41   | Remote OK      | Platform for finding remote jobs                              | [remoteok.com/@sathsish90](https://remoteok.com/@sathsish90)   |
+| 42   | Warrior Network| Mentorship in technology                                     | [warrior-network.com/mentorship/](https://warrior-network.com/mentorship/) |
+| 43   | Contra         | Showcase your freelance portfolio                            | [contra.com/sathsish90](https://contra.com/sathsish90)         |
+| 44   | Vouchley       | Dashboard for freelancers to showcase reviews                | [vouchley.com/user/sathsish90](https://www.vouchley.com/user/sathsish90) |
+| 45   | Read.cv        | Portfolio services and professional networking               | [read.cv/sathsish90](https://read.cv/sathsish90)               |
+| 46   | Comeup         | Platform to sell or buy services                             | [comeup.com](https://comeup.com/)                             |
+| 47   | Doughnut       | Freelancer community                                         | [doughnut.no](https://www.doughnut.no/)                       |
+| 48   | Talentprise    | Job dashboard for talents                                    | [app.talentprise.com/talent/profile/dashboard](https://app.talentprise.com/talent/profile/dashboard) |
+| 49   | Intch          | Professional networking platform with good UI/UX             | [intch.org](https://intch.org/?ref=producthunt)               |
+| 50   | Real Engineers AI | AI Resume Generator                                         | [app.realengineersai.com/candidateportal-projects](https://app.realengineersai.com/candidateportal-projects) |
+| 51   | Coverdoc       | Tool for writing cover letters                               | [coverdoc.ai](https://coverdoc.ai/)                           |
+| 52   | Kickresume     | Online tool for creating resumes                             | [kickresume.com/dashboard/resumes/](https://www.kickresume.com/dashboard/resumes/) |
+| 53   | Google Certificates | Interview warmup for cybersecurity positions               | [grow.google/certificates/interview-warmup/category/cybersecurity/](https://grow.google/certificates/interview-warmup/category/cybersecurity/) |
+| 54   | Chatnode       | Create a chatbot based on instructions given                 | [chatnode.ai/account/settings/subscription](https://www.chatnode.ai/account/settings/subscription) |
+| 55   | TinyWow        | PDF, image, and video editing tools                          | [tinywow.com](https://tinywow.com/)                           |
+| 56   | Pixlr          | Design website offering various tools                        | [pixlr.com/pricing/](https://pixlr.com/pricing/)              |
 
-- https://remoteok.com/@sathsish90 --> remote jobs.
-- https://warrior-network.com/mentorship/ - mentorship in technology
-- https://contra.com/sathsish90 --> portfolio
-- https://www.vouchley.com/user/sathsish90 --> freelancers, review dashboard
-- https://read.cv/sathsish90 --> Portfolio services, professional connections
-- https://comeup.com/ -> sell or buy services
-- https://www.doughnut.no/ -> freelancer community - yet to be ready
-- https://app.talentprise.com/talent/profile/dashboard -> job dashboard
-- https://intch.org/?ref=producthunt --> nice professional networking platform. (with good UI/UX)
-- https://app.realengineersai.com/candidateportal-projects --> AI Resume Generator.
-- https://coverdoc.ai/ -> writing cover letter
-- https://www.kickresume.com/dashboard/resumes/ --> creating resume
-- https://grow.google/certificates/interview-warmup/category/cybersecurity/ --> interview warmup
-- https://www.chatnode.ai/account/settings/subscription --> create my one chatgpt based on the instruction given.
-- https://tinywow.com/ --> PDF, image and video edit.
-- https://pixlr.com/pricing/ --> Design website
-  
 # International Payment Options
 
 Here are some international payment options for your convenience:
