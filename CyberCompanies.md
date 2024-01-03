@@ -1,52 +1,5 @@
 
 
-Cyber Security Company Acquisition updates:
-============================
-- Yet to add
-- Company Acquired
-- Which company acquired
-- Why it acquired? (Purpose)
-- When acquired?
-- How much amount it got acquired for?
-
-
-Cyber Security Job description generator
-=========================
-- Yet to add
-- Select your 'Company Name'
-- Select your 'Product'
-- Select your 'Services'
-- Select your 'Leadership'
-- Select the Relevant Certifications + Add additional certificates
-- Type your 'Role/Designation/JobRole'
-- Your Job Description is Ready
-
-
-Cyber Security Companies Industry based ranking
-===============================================
-- yet to add
-
-Cyber Security Responsible Disclosure organisation
-==================================================
-- Yet to add
-  
-Responsible Disclosure organisation
-===================================
-- yet to add
-- Earning opportunites for talented people
-- Display the minimum and maximum bounty limits
-- Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
-
-
-Cyber Security NGOs
-==========
-- Yet to add
-
-
-Cyber Security Products
-=======================
-- Yet to add
-
 
 
 Cyber Security Companies:
@@ -170,3 +123,57 @@ Cyber Security Companies:
 | 115 | Black Kite | 2018    | -      | Cybersecurity Risk Management |
 | 116 | Keyfactor | 2001    | -      | Public Key Infrastructure (PKI) |
 | 117 | Lightspin | 2020    | -      | Cloud Security Posture Management |
+
+
+Cyber Security Company Acquisition updates:
+============================
+- Yet to add
+- Company Acquired
+- Which company acquired
+- Why it acquired? (Purpose)
+- When acquired?
+- How much amount it got acquired for?
+
+
+Cyber Security Job description generator
+=========================
+- Yet to add
+- Select your 'Company Name'
+- Select your 'Product'
+- Select your 'Services'
+- Select your 'Leadership'
+- Select the Relevant Certifications + Add additional certificates
+- Type your 'Role/Designation/JobRole'
+- Your Job Description is Ready
+
+
+Cyber Security Companies Industry based ranking
+===============================================
+- yet to add
+
+Cyber Security Responsible Disclosure organisation
+==================================================
+- Yet to add
+  
+Responsible Disclosure organisation
+===================================
+- yet to add
+- Earning opportunites for talented people
+- Display the minimum and maximum bounty limits
+- Take the maximum bounty limits and notify the user to go and hunt for the vulnerabilities in the platform.
+
+
+Cyber Security NGOs
+==========
+- Yet to add
+
+Cyber Security Complaint Portals
+===================
+- Yet to add
+- File a cyber complaint:
+  - [Cyber Crime Complaint - India](https://cybercrime.gov.in/Webform/Crime_AuthoLogin.aspx)
+  - [Tamil Nadu Police - Complaint Registration](https://eservices.tnpolice.gov.in/CCTNSNICSDC/ComplaintRegistrationPage?0)
+
+Cyber Security Products
+=======================
+- Yet to add
