@@ -1,5 +1,9 @@
 
+
 # Technology Stack
+
+# TechStacks Collection: 
+https://docs.google.com/spreadsheets/d/1U2UjVmUrSvdnlrQ8nT4RMvz_GjBa5Mn-/edit#gid=1855217380
 
 ## Languages & Libraries
 - Go
