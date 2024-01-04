@@ -108,3 +108,72 @@ This README.md file provides an organized list of cybersecurity and related role
 80. **Wireless Infrastructure Penetration Tester**
 
 Feel free to use and customize this template as needed in your GitHub repository's README.md file. You can add descriptions and further details for each role as required.
+
+
+## Job Roles
+
+### Software Engineering:
+- Backend Development
+- Frontend Development
+- Full-Stack Development
+- Mobile Development - Android
+- Mobile Development - iOS
+- Mobile Development - Hybrid/Native
+- DevOps / Cloud
+- Site Reliability Engineering
+- Technical / Solution Architect
+- QA & Testing
+- Big Data / Data Warehousing / ETL
+- Embedded / Kernel Development
+- Other Software Development
+
+### Data Science and Analysis:
+- Data Analysis / Business Analysis
+- Data Science
+- Data Mining / Analysis
+- Data Engineering
+- ML / DL Engineering
+- ML / DL / AI Research
+
+### Management:
+- Engineering Management
+- Release Management
+- Product Management
+- Project Management
+- Program Management
+- Senior Management
+
+### Design:
+- UI / UX Design
+- Product Design
+- UX Architect
+- Web Design
+- Graphic Design / Animation
+- Illustrator
+- Interaction Design
+- AR / VR Design
+- User Researcher
+- Other Design
+
+### Emerging Technologies & Roles:
+- Blockchain
+- IoT
+- Computer Vision
+- Cloud Computing
+- AR / VR
+- Cyber Security
+
+### IT Operations and Support:
+- Database Admin / Development
+- Network Administration
+- Systems Administration
+- Functional / Technical Consulting
+- Technical / Production Support
+- IT Management / IT Support
+- IT Security
+- IT Infrastructure Services
+- Networking & Wireless
+- Technical Writing
+
+### Others:
+- Other
