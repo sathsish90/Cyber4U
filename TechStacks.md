@@ -81,3 +81,53 @@ https://docs.google.com/spreadsheets/d/1U2UjVmUrSvdnlrQ8nT4RMvz_GjBa5Mn-/edit#gi
 - Confluence
 - JIRA
 - monday.com
+
+
+====
+
+## Thanks for Open Source initiatives and projects:
+
+### DNS
+- Knot DNS
+- PowerDNS
+- Blocky
+- Cactusd
+
+### Web Servers
+- Nginx
+- Caddy
+
+### Monitoring and Visualization
+- Grafana
+- Prometheus
+
+### Web Development
+- Node.js
+- Nuxt
+- Vue
+- React
+- Bulma
+- Tailwind
+
+### Operating Systems and Configuration Management
+- Debian
+- CentOS
+- Fedora
+- Ansible
+
+### SSL/TLS and Security
+- ZeroSSL
+- ClouDNS
+- Cloudflare
+- GCore
+- Unihost.kz
+- GoHost.kz
+- PowerDMARC
+
+### Development and Collaboration Tools
+- GitHub
+
+### Infrastructure and Hosting
+- UptimeRobot
+- Netdata
+- Digital Ocean
