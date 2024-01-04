@@ -1,0 +1,29 @@
+## Degrees
+
+- MBA / PGDM
+- CA
+- CS
+- ICWA
+- LLB / LLM
+- B Tech / BE
+- BArch
+- MBBS
+- BSc
+- BA
+- Bcom
+- BBA
+- BCA
+- PhD
+- MSc / MS / M Tech
+- MCA
+- MA
+- Integrated Masters Program
+- CFA
+- FRM
+- CWM
+- AFA
+- Passed CFA Level 1
+- Passed CFA Level 2
+- Passed CFA Level 3
+- PGDDA
+- Other
