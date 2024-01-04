@@ -121,3 +121,185 @@ Cyber Security Key terminologies
 | 116 | Zero Trust                                      | Zero Trust is a security model that assumes no trust, even among entities inside the network perimeter. It requires strict verification for anyone trying to access resources in the network. | Zero Trust architecture, identity verification |
 | 117 | Zero-Day Exploit                                | A zero-day exploit targets a previously unknown vulnerability in a system, application, or software. It takes advantage of the fact that there are zero days of protection against this newly discovered vulnerability. | Zero-day vulnerability, zero-day attack      |
 
+
+
+# Cyber Security Terminology
+
+This document categorizes various cyber security terminologies to help in understanding and organizing the complex field of cyber security.
+
+## Table of Contents
+
+- [Concepts and Principles](#concepts-and-principles)
+- [Threats and Attacks](#threats-and-attacks)
+- [Security Measures and Controls](#security-measures-and-controls)
+- [Security Practices and Strategies](#security-practices-and-strategies)
+- [Security Technologies and Tools](#security-technologies-and-tools)
+- [Compliance and Standards](#compliance-and-standards)
+- [Incident and Threat Response](#incident-and-threat-response)
+- [Policies and Management](#policies-and-management)
+- [Authentication and Authorization Technologies](#authentication-and-authorization-technologies)
+- [Various Types of Security Testing](#various-types-of-security-testing)
+- [Regulations and Compliance](#regulations-and-compliance)
+- [Security Infrastructure](#security-infrastructure)
+- [Miscellaneous](#miscellaneous)
+
+## Concepts and Principles
+
+- Cybersecurity Concepts (CIA)
+- Cyber Hygiene
+- Cyber Resilience
+- Concept
+- Foundations
+- Principles
+- Zero Trust
+
+## Threats and Attacks
+
+- Adversary Exercises
+- Attack
+- Data Breach
+- Insider Threat Management
+- Malware
+- Phishing
+- Ransomware Readiness Assessment
+- Social Engineering
+- Threat
+- Zero-Day Exploit
+
+## Security Measures and Controls
+
+- Access Control
+- Authentication
+- Authorization
+- Cyber Threat Hunting
+- Firewall
+- Intrusion Detection
+- IP Segmentation
+- Threat & Vulnerability Management
+- Threat Containment
+- Threat Intelligence
+- Threat Management
+- Threat Modeling
+
+## Security Practices and Strategies
+
+- Application Security Testing
+- Container Security
+- Cybersecurity Operations (CSOC, CSIRT)
+- DevSecOps
+- Dynamic Application Security Testing
+- Incident Response
+- Mitigation
+- Penetration Testing
+- Security Audit
+- Security Posture
+- Static Application Security Testing
+- Vulnerability Assessment
+- Vulnerability Risk Prioritization
+
+## Security Technologies and Tools
+
+- ASV (Approved Scanning Vendor)
+- Encryption/Decryption
+- Forensic Analysis
+- Hashing
+- IAM (Identity and Access Management)
+- IAST (Interactive Application Security Testing)
+- JWT (JSON Web Tokens)
+- Kali Linux
+- OWASP SAMM
+- SIEM (Security Information and Event Management)
+- SOAR (Security Orchestration, Automation, and Response)
+- Tenable Nessus
+- XDR (Extended Detection and Response)
+
+## Compliance and Standards
+
+- Benchmark
+- CERT-IN
+- Compliance
+- Framework
+- Guidelines
+- PCI DSS (Payment Card Industry Data Security Standard)
+- Standards
+
+## Incident and Threat Response
+
+- CIRT (Computer Incident Response Team)
+- CSIRT
+- Incident Response Plan (IRP)
+- Indicator of Compromise (IoC)
+- MITRE ATT&CK
+- MXDR (Managed eXtended Detection and Response)
+- PSIRT
+- Threat Analyst
+- Threat Assessment
+- Threat Hunting
+
+## Policies and Management
+
+- Asset
+- Designation
+- Domains
+- Infosec
+- Method
+- Methodology
+- Opsec
+- Patch
+- Playbook
+- Policy
+- Procedure
+- Process
+- Risk
+- Risk Assessment
+- Roles
+- Rules
+- Specialization
+
+## Authentication and Authorization Technologies
+
+- OAuth 2.0 Tokens
+- OpenID Connect Tokens
+- PKI (Public Key Infrastructure)
+- SAML Tokens
+
+## Various Types of Security Testing
+
+- Exploit
+- Payload
+- Penetration Tester
+- Reverse Engineering
+- Security Researcher
+- Software Composition Analysis
+- Threat Vector
+- Vulnerability
+
+## Regulations and Compliance
+
+- Compliance
+- PCI DSS (Payment Card Industry Data Security Standard)
+- PIA (Privacy Impact Assessment)
+- Regulations
+
+## Security Infrastructure
+
+- CERT-IN
+- CSOC (Cyber Security Operations Center)
+- Log Management
+- SOC (Security Operations Center)
+
+## Miscellaneous
+
+- Decoding
+- Encoding
+- PWA (Progressive Web App)
+- RIA (Rich Internet Application)
+- SPA (Single Page Application)
+- SDLC (Software Development Life Cycle)
+- Security Incident
+- Term
+- Topics
+
+---
+
+This document is subject to updates and revisions as the field of cyber security evolves and expands.
