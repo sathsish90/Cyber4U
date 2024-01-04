@@ -131,3 +131,57 @@ https://docs.google.com/spreadsheets/d/1U2UjVmUrSvdnlrQ8nT4RMvz_GjBa5Mn-/edit#gi
 - UptimeRobot
 - Netdata
 - Digital Ocean
+
+
+=============
+
+## Cloud Platforms and Storage
+- AWS S3
+- Amazon VPC
+- Google Cloud Platform (GCP)
+- Object Storage
+- e6data Storage
+- Customer Cloud Account
+- e6data Cloud Account
+
+## Containerization and Orchestration
+- Kubernetes (k8s)
+- Google Kubernetes Engine (GKE)
+- Amazon Elastic Kubernetes Service (EKS)
+- Kubernetes Ingress
+- e6data Clusters
+
+## Infrastructure Management
+- Terraform
+- Helm Charts
+- Amazon EC2 Auto Scaling
+- AWS IAM Policy Bindings
+- Amazon EC2 Container Registry (Read-Only)
+
+## Data Management and Governance
+- IAM roles
+- Metastores
+- AWS Glue
+- Apache Hive Metastores
+- Schema Metadata
+- Data Stores
+- Governance Tools
+
+## Security and Identity
+- OpenID Connect (OIDC)
+- Single Sign-On (SSO)
+- Role-Based Access Control (RBAC)
+
+## Integration and Connectivity
+- JDBC connectors
+- JDBC/ODBC connectivity
+- SQLAlchemy
+
+## Monitoring, Management, and Operations
+- Admin Dashboard
+- Metrics, Health & Billing Systems
+- Cluster Management
+- e6data Users
+
+## Virtualization and Compute
+- Amazon Machine Image (AMI)
