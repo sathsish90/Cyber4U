@@ -1,8 +1,6 @@
-## "AI at Work: How Robots and Computers Are Changing Our Jobs (And Why Humans Still Matter)"
+## "AI at Work: How "Artificial Intelligence" are changing our life and Why Humans Still Matters?"
 
-# How AI Can Transform Work and Jobs
-
-## Why AI Can Take Over Jobs:
+## What are the areas where AI can take over our jobs?
 
 ### Doing Repetitive Tasks:
 - **Example 1:** Imagine a pizza-making robot that can put the same toppings on every pizza without making any mistakes, just like a skilled pizza chef.
@@ -39,7 +37,7 @@
 - **Example 2:** AI-powered language translation tools accurately translate technical documents, aiding professionals in global communication.
 - **Example 3:** DIY enthusiasts can follow step-by-step instructions from AI apps for home repairs, acting as a pocket-sized DIY expert.
 
-## Why AI May Not Completely Replace Jobs:
+## What are the areas where AI can't replace humans
 
 ### Working Together with People:
 - **Example 1:** Teachers use computers to make learning fun, but they are the ones who help us understand and learn new things, like a friendly guide on an exciting journey.
