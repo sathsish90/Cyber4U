@@ -6,7 +6,7 @@
 4. Instagram account hacking is not really hacking. Know why
 5. Why should u pursue cyber security as your career
 6. -  Read cybersecurity terminology and create an article.
-7. 
+7. What are the best password management tools for your computer?
   
 # Articles and Write-Ups Flow
 
